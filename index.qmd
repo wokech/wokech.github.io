@@ -1,11 +1,17 @@
 ---
-title: "wokech.github.io"
+title: "Hello!"
 ---
 
-This is a Quarto website.
+Hi there! Welcome to my teaching and training website. This is a repository for all the teaching and training materials that I am currently using or have previously delivered.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My background is in Biomedical Engineering (with a focus on mechanobiology, cardiovascular physiology, and tissue engineering). My [research interests](https://scholar.google.com/citations?user=BvIDsDMAAAAJ&hl=en&oi=ao) include:
 
-```{r}
-1 + 1
-```
+-   Biomechanics and Mechanobiology
+
+-   Exercise Physiology and Biomechanics in Sports
+
+-   Biomedical Device Design and Development
+
+-   Healthcare Data Science
+
+I am also a [Certified Carpentries Instructor](https://carpentries.org/community/instructors/) and a trainer with the [Digital Research Academy](https://digital-research.academy/trainers/). I am passionate about training students on the basics of computational thinking, and I am an ardent promoter of using open-source tools (such as R/Python) to solve data analysis and visualization problems.

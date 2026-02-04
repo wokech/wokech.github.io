@@ -2,15 +2,57 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "wokech.github.io",
+    "title": "Hello!",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hi there! Welcome to my teaching and training website. This is a repository for all the teaching and training materials that I am currently using or have previously delivered.\nMy background is in Biomedical Engineering (with a focus on mechanobiology, cardiovascular physiology, and tissue engineering). My research interests include:\n\nBiomechanics and Mechanobiology\nExercise Physiology and Biomechanics in Sports\nBiomedical Device Design and Development\nHealthcare Data Science\n\nI am also a Certified Carpentries Instructor and a trainer with the Digital Research Academy. I am passionate about training students on the basics of computational thinking, and I am an ardent promoter of using open-source tools (such as R/Python) to solve data analysis and visualization problems."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "This is the teaching website for William Okech"
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Courses",
+    "section": "",
+    "text": "Biostatistics Primer\nData Structures for Bioinformatics"
+  },
+  {
+    "objectID": "courses.html#sample-stem-courses",
+    "href": "courses.html#sample-stem-courses",
+    "title": "Courses",
+    "section": "",
+    "text": "Biostatistics Primer\nData Structures for Bioinformatics"
+  },
+  {
+    "objectID": "courses.html#stem-pedagogy",
+    "href": "courses.html#stem-pedagogy",
+    "title": "Courses",
+    "section": "STEM Pedagogy",
+    "text": "STEM Pedagogy\nDeveloping computational research skills\nMinimizing cognitive overload"
+  },
+  {
+    "objectID": "courses.html#r-for-novices-coming-soon",
+    "href": "courses.html#r-for-novices-coming-soon",
+    "title": "Courses",
+    "section": "R for Novices (Coming soon)",
+    "text": "R for Novices (Coming soon)"
+  },
+  {
+    "objectID": "courses.html#biomechanics-coming-soon",
+    "href": "courses.html#biomechanics-coming-soon",
+    "title": "Courses",
+    "section": "Biomechanics (Coming soon)",
+    "text": "Biomechanics (Coming soon)"
+  },
+  {
+    "objectID": "courses.html#biomaterials-coming-soon",
+    "href": "courses.html#biomaterials-coming-soon",
+    "title": "Courses",
+    "section": "Biomaterials (Coming soon)",
+    "text": "Biomaterials (Coming soon)"
   }
 ]
