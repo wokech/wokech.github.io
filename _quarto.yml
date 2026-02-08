@@ -10,8 +10,10 @@ website:
         href: index.qmd
       - text: About
         href: index.qmd
-      - text: Courses
-        href: courses.qmd
+      - text: Course Materials
+        href: coursematerials.qmd
+      - text: Workshops and Talks
+        href: workshopstalks.qmd
         
 format:
   html:
