@@ -1,15 +1,1 @@
----
-title: "Hello!"
----
-
-Hi there! Welcome to my teaching and training website. This is a repository for all the teaching and training materials that I am currently using or have previously delivered.
-
-My background is in Biomedical Engineering, and my [previous work](https://scholar.google.com/citations?user=BvIdsDMAAAAJ&hl=en&oi=ao) focused on vascular mechanobiology and tissue engineering. Currently, my research interests include:
-
--   Exercise Physiology and Biomechanics in Sports
-
--   Healthcare Data Science
-
--   Accessible Data Visualization for Low-Resource Settings
-
-I am also a [Certified Carpentries Instructor](https://carpentries.org/community/instructors/) and a trainer with the [Digital Research Academy](https://digital-research.academy/trainers/). In these roles my goal is to train learners on the basics of computational thinking, and I am an ardent promoter of using open-source tools (such as R/Python) to solve data analysis and visualization problems.
+Current Date and Time (UTC - YYYY-MM-DD HH:MM:SS formatted): 2026-02-10 09:01:10
