@@ -1,4 +1,4 @@
-Hi there! Welcome to my teaching and training website. This is a repository for all the teaching and training materials that I am currently using or have previously delivered.
+Hi there! Welcome to my teaching and training website. This is a repository for all the [teaching and training materials](...) that I am currently using or have previously delivered.
 
 My background is in Biomedical Engineering, and my [previous work](https://scholar.google.com/citations?user=BvIdsDMAAAAJ&hl=en&oi=ao) focused on vascular mechanobiology and tissue engineering. Currently, my research interests include:
 
