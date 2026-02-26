@@ -43,7 +43,8 @@ Biomaterials play an important role in the life sciences and medicine. They are 
 ### Assessment
 
 -   Regular Examination at end of Semester: 70%
--   Continuous Assessment: 30% where 10% shall be continuous assessment tests, 5% shall be assignments, and 15% shall be labs. The students must complete and pass all the labs before they can be allowed to proceed to the next class.
+-   Continuous Assessment: 30% where 10% shall be continuous assessment tests, 5% shall be assignments, and 15% shall be labs. 
+- The students must complete and pass all the labs before they can be allowed to proceed to the next class.
 
 ## Guided Notes (coming soon)
 
