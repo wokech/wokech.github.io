@@ -7,46 +7,39 @@
     "text": "Hi there! Welcome to my teaching and training website. This is a repository for all the teaching and training materials that I am currently using or have previously delivered.\nMy background is in Biomedical Engineering, and my research interests include:\n\nCardiovascular Mechanobiology and Tissue Engineering\nData Science Education in Low-Resource Settings\nAccessible Data Visualization\n\nI am also a Certified Carpentries Instructor and a trainer with the Digital Research Academy. In these roles my goal is to train learners on the basics of computational thinking. Additionally, I am an ardent promoter of using open-source tools (such as R/Python) to solve data analysis and visualization problems."
   },
   {
-    "objectID": "courses.html",
-    "href": "courses.html",
-    "title": "Courses",
+    "objectID": "courses/biomaterials.html",
+    "href": "courses/biomaterials.html",
+    "title": "Properties of Biomaterials (EBM 301)",
     "section": "",
-    "text": "Course Website"
+    "text": "Prerequisites: EBM 200\nLectures: TBD\nTutorials: TBD\nLaboratory Sessions: TBD\nInstructor: William Okech, PhD\nEmail Me\nCourse Website: TBD\n\n\nBiomaterials play an important role in the life sciences and medicine. They are used to aid in the restoration of function and promote healing after injury and disease. Biomaterials can be of natural, synthetic, or hybrid origin, and they are designed to interact with living systems in a safe and compatible manner. In this course, we will look at various materials including metals, ceramics, plastics, and glass, as well as living cells and tissues that are used to develop biomaterials. Additionally, the course will explore material characterization and testing methods, biocompatibility, and important considerations for the design and manufacture of materials for biomedical applications. In addition to lectures (where relevant), laboratory activities and demonstrations will be performed. Lastly, case studies and contemporary examples will be used to explore new technologies.\n\n\n\n\nAtomic Theory of Materials and Bond Theory of Solids\nPhase Diagrams and Phase Transformations\nMechanics of Materials\nMajor Biomaterial Groups (Metals, Polymers, Ceramics, and Composites)\nSurface vs Bulk Properties of Materials\nMaterial Degradation\nBiomaterial-Host Tissue Interactions\nDrug Delivery Systems and Tissue Engineering\n\n\n\n\n\nLectures: 2 hours per week\nTutorials: 2 hours per week\nLaboratory Exercises: At least four experiments per semester, with each lab/practical session 3 hours long.\n\n\n\n\n\nRegular Examination at end of Semester: 70%\nContinuous Assessment: 30% where 10% shall be continuous assessment tests, 5% shall be assignments, and 15% shall be labs. The students must complete and pass all the labs before they can be allowed to proceed to the next class."
   },
   {
-    "objectID": "courses.html#sample-stem-courses",
-    "href": "courses.html#sample-stem-courses",
-    "title": "Courses",
-    "section": "Sample STEM Courses",
-    "text": "Sample STEM Courses\nBiostatistics Primer\nData Structures for Bioinformatics"
+    "objectID": "courses/biomaterials.html#syllabus",
+    "href": "courses/biomaterials.html#syllabus",
+    "title": "Properties of Biomaterials (EBM 301)",
+    "section": "",
+    "text": "Prerequisites: EBM 200\nLectures: TBD\nTutorials: TBD\nLaboratory Sessions: TBD\nInstructor: William Okech, PhD\nEmail Me\nCourse Website: TBD\n\n\nBiomaterials play an important role in the life sciences and medicine. They are used to aid in the restoration of function and promote healing after injury and disease. Biomaterials can be of natural, synthetic, or hybrid origin, and they are designed to interact with living systems in a safe and compatible manner. In this course, we will look at various materials including metals, ceramics, plastics, and glass, as well as living cells and tissues that are used to develop biomaterials. Additionally, the course will explore material characterization and testing methods, biocompatibility, and important considerations for the design and manufacture of materials for biomedical applications. In addition to lectures (where relevant), laboratory activities and demonstrations will be performed. Lastly, case studies and contemporary examples will be used to explore new technologies.\n\n\n\n\nAtomic Theory of Materials and Bond Theory of Solids\nPhase Diagrams and Phase Transformations\nMechanics of Materials\nMajor Biomaterial Groups (Metals, Polymers, Ceramics, and Composites)\nSurface vs Bulk Properties of Materials\nMaterial Degradation\nBiomaterial-Host Tissue Interactions\nDrug Delivery Systems and Tissue Engineering\n\n\n\n\n\nLectures: 2 hours per week\nTutorials: 2 hours per week\nLaboratory Exercises: At least four experiments per semester, with each lab/practical session 3 hours long.\n\n\n\n\n\nRegular Examination at end of Semester: 70%\nContinuous Assessment: 30% where 10% shall be continuous assessment tests, 5% shall be assignments, and 15% shall be labs. The students must complete and pass all the labs before they can be allowed to proceed to the next class."
   },
   {
-    "objectID": "courses.html#stem-pedagogy",
-    "href": "courses.html#stem-pedagogy",
-    "title": "Courses",
-    "section": "STEM Pedagogy",
-    "text": "STEM Pedagogy\nDeveloping computational research skills\nMinimizing cognitive overload"
+    "objectID": "courses/biomaterials.html#guided-notes-coming-soon",
+    "href": "courses/biomaterials.html#guided-notes-coming-soon",
+    "title": "Properties of Biomaterials (EBM 301)",
+    "section": "Guided Notes (coming soon)",
+    "text": "Guided Notes (coming soon)"
   },
   {
-    "objectID": "courses.html#r-for-novices-coming-soon",
-    "href": "courses.html#r-for-novices-coming-soon",
-    "title": "Courses",
-    "section": "R for Novices (Coming soon)",
-    "text": "R for Novices (Coming soon)"
+    "objectID": "courses/biomaterials.html#reference-textbooks-coming-soon",
+    "href": "courses/biomaterials.html#reference-textbooks-coming-soon",
+    "title": "Properties of Biomaterials (EBM 301)",
+    "section": "Reference Textbooks (coming soon)",
+    "text": "Reference Textbooks (coming soon)"
   },
   {
-    "objectID": "courses.html#biomechanics-coming-soon",
-    "href": "courses.html#biomechanics-coming-soon",
-    "title": "Courses",
-    "section": "Biomechanics (Coming soon)",
-    "text": "Biomechanics (Coming soon)"
-  },
-  {
-    "objectID": "courses.html#biomaterials-coming-soon",
-    "href": "courses.html#biomaterials-coming-soon",
-    "title": "Courses",
-    "section": "Biomaterials (Coming soon)",
-    "text": "Biomaterials (Coming soon)"
+    "objectID": "courses/biomaterials.html#readings-coming-soon",
+    "href": "courses/biomaterials.html#readings-coming-soon",
+    "title": "Properties of Biomaterials (EBM 301)",
+    "section": "Readings (coming soon)",
+    "text": "Readings (coming soon)"
   },
   {
     "objectID": "about.html",
@@ -56,39 +49,18 @@
     "text": "This is the teaching website for William Okech"
   },
   {
-    "objectID": "courses.html#properties-of-biomaterials---ebm-301-2026",
-    "href": "courses.html#properties-of-biomaterials---ebm-301-2026",
-    "title": "Courses",
+    "objectID": "courses/biomechanics.html",
+    "href": "courses/biomechanics.html",
+    "title": "Biomechanics I (EBM 403)",
     "section": "",
-    "text": "Course Website"
+    "text": "Prerequisites: Mechanics, physiology, anatomy\nLectures: TBD\nTutorials: TBD\nInstructor: William Okech, PhD\nEmail Me\nCourse Website: TBD\n\n\nBiomechanics is the application of the principles of mechanics (both solid and fluid) to biological systems and living organisms. These biological systems range from whole organisms to cells and tissues, as well as proteins. Various subfields of biomechanics exist including but not limited to cardiovascular, forensic, sports, comparative, and computational. In this course, we will introduce the basic concepts of biomechanics with a focus on the musculoskeletal system. Moreover, the learners will explore the mechanics of cells and tissues in the musculoskeletal system, the design of principles of orthopedic implants, and injury biomechanics. In addition to lectures (where relevant), laboratory activities and demonstrations will be performed. Lastly, case studies and contemporary examples will be used to explore new technologies.\n\n\n\n\nBiomechanics of Joints\nErgonomics\nWork Physiology and Industrial Safety\nBasics of Fluid Mechanics\nProsthetics and Orthotics\n\n\n\n\n\nLectures: 2 hours per week\nTutorials: 2 hours per week\n\n\n\n\n\nRegular Examination at end of Semester: 70%\nContinuous Assessment: 30% where 10% shall be continuous assessment tests, 5% shall be assignments, and 15% shall be labs. The students must complete and pass all the labs before they can be allowed to proceed to the next class."
   },
   {
-    "objectID": "courses.html#biomechanics-i---ebm-403-2026",
-    "href": "courses.html#biomechanics-i---ebm-403-2026",
-    "title": "Courses",
-    "section": "Biomechanics I - EBM 403 (2026)",
-    "text": "Biomechanics I - EBM 403 (2026)\nCourse Website"
-  },
-  {
-    "objectID": "courses/biomaterials.html#guided-notes",
-    "href": "courses/biomaterials.html#guided-notes",
-    "title": "Biomaterials",
-    "section": "Guided Notes",
-    "text": "Guided Notes"
-  },
-  {
-    "objectID": "courses/biomaterials.html#reference-textbooks",
-    "href": "courses/biomaterials.html#reference-textbooks",
-    "title": "Biomaterials",
-    "section": "Reference Textbooks",
-    "text": "Reference Textbooks"
-  },
-  {
-    "objectID": "courses/biomaterials.html#readings",
-    "href": "courses/biomaterials.html#readings",
-    "title": "Biomaterials",
-    "section": "Readings",
-    "text": "Readings"
+    "objectID": "courses/biomechanics.html#syllabus",
+    "href": "courses/biomechanics.html#syllabus",
+    "title": "Biomechanics I (EBM 403)",
+    "section": "",
+    "text": "Prerequisites: Mechanics, physiology, anatomy\nLectures: TBD\nTutorials: TBD\nInstructor: William Okech, PhD\nEmail Me\nCourse Website: TBD\n\n\nBiomechanics is the application of the principles of mechanics (both solid and fluid) to biological systems and living organisms. These biological systems range from whole organisms to cells and tissues, as well as proteins. Various subfields of biomechanics exist including but not limited to cardiovascular, forensic, sports, comparative, and computational. In this course, we will introduce the basic concepts of biomechanics with a focus on the musculoskeletal system. Moreover, the learners will explore the mechanics of cells and tissues in the musculoskeletal system, the design of principles of orthopedic implants, and injury biomechanics. In addition to lectures (where relevant), laboratory activities and demonstrations will be performed. Lastly, case studies and contemporary examples will be used to explore new technologies.\n\n\n\n\nBiomechanics of Joints\nErgonomics\nWork Physiology and Industrial Safety\nBasics of Fluid Mechanics\nProsthetics and Orthotics\n\n\n\n\n\nLectures: 2 hours per week\nTutorials: 2 hours per week\n\n\n\n\n\nRegular Examination at end of Semester: 70%\nContinuous Assessment: 30% where 10% shall be continuous assessment tests, 5% shall be assignments, and 15% shall be labs. The students must complete and pass all the labs before they can be allowed to proceed to the next class."
   },
   {
     "objectID": "courses/biomechanics.html#guided-notes",
@@ -112,52 +84,45 @@
     "text": "Readings"
   },
   {
-    "objectID": "courses/biomaterials.html",
-    "href": "courses/biomaterials.html",
-    "title": "Biomaterials",
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Courses",
     "section": "",
-    "text": "Prerequisites: EBM 200\nLectures: TBD\nTutorials: TBD\nLaboratory Sessions: TBD\nInstructor: William Okech, PhD\nEmail: Link\nCourse Website: TBD\n\n\n\nBiomaterials play an important role in the life sciences and medicine. They are used to aid in the restoration of function and promote healing after injury and disease. Biomaterials can be of natural, synthetic, or hybrid origin, and they are designed to interact with living systems in a safe and compatible manner. In this course, we will look at various materials including metals, ceramics, plastics, and glass, as well as living cells and tissues that are used to develop biomaterials. Additionally, the course will explore material characterization and testing methods, biocompatibility, and important considerations for the design and manufacture of materials for biomedical applications. In addition to lectures (where relevant), laboratory activities and demonstrations will be performed. Lastly, case studies and contemporary examples will be used to explore new technologies.\n\n\n\n\nAtomic Theory of Materials and Bond Theory of Solids\nPhase Diagrams and Phase Transformations\nMechanics of Materials\nMajor Biomaterial Groups (Metals, Polymers, Ceramics, and Composites)\nSurface vs Bulk Properties of Materials\nMaterial Degradation\nBiomaterial-Host Tissue Interactions\nDrug Delivery Systems and Tissue Engineering\n\n\n\n\n\nLectures: 2 hours per week\nTutorials: 2 hours per week\nLaboratory Exercises: At least four experiments per semester, with each lab/practical session 3 hours long.\n\n\n\n\n\nRegular Examination at end of Semester: 70%\nContinuous Assessment: 30% where 10% shall be continuous assessment tests, 5% shall be assignments, and 15% shall be labs. The students must complete and pass all the labs before they can be allowed to proceed to the next class."
+    "text": "Course Website"
   },
   {
-    "objectID": "courses/biomaterials.html#syllabus",
-    "href": "courses/biomaterials.html#syllabus",
-    "title": "Biomaterials",
+    "objectID": "courses.html#properties-of-biomaterials---ebm-301-2026",
+    "href": "courses.html#properties-of-biomaterials---ebm-301-2026",
+    "title": "Courses",
     "section": "",
-    "text": "Prerequisites: EBM 200\nLectures: TBD\nTutorials: TBD\nLaboratory Sessions: TBD\nInstructor: William Okech, PhD\nEmail: Link\nCourse Website: TBD\n\n\n\nBiomaterials play an important role in the life sciences and medicine. They are used to aid in the restoration of function and promote healing after injury and disease. Biomaterials can be of natural, synthetic, or hybrid origin, and they are designed to interact with living systems in a safe and compatible manner. In this course, we will look at various materials including metals, ceramics, plastics, and glass, as well as living cells and tissues that are used to develop biomaterials. Additionally, the course will explore material characterization and testing methods, biocompatibility, and important considerations for the design and manufacture of materials for biomedical applications. In addition to lectures (where relevant), laboratory activities and demonstrations will be performed. Lastly, case studies and contemporary examples will be used to explore new technologies.\n\n\n\n\nAtomic Theory of Materials and Bond Theory of Solids\nPhase Diagrams and Phase Transformations\nMechanics of Materials\nMajor Biomaterial Groups (Metals, Polymers, Ceramics, and Composites)\nSurface vs Bulk Properties of Materials\nMaterial Degradation\nBiomaterial-Host Tissue Interactions\nDrug Delivery Systems and Tissue Engineering\n\n\n\n\n\nLectures: 2 hours per week\nTutorials: 2 hours per week\nLaboratory Exercises: At least four experiments per semester, with each lab/practical session 3 hours long.\n\n\n\n\n\nRegular Examination at end of Semester: 70%\nContinuous Assessment: 30% where 10% shall be continuous assessment tests, 5% shall be assignments, and 15% shall be labs. The students must complete and pass all the labs before they can be allowed to proceed to the next class."
+    "text": "Course Website"
   },
   {
-    "objectID": "courses/biomaterials.html#guided-notes-coming-soon",
-    "href": "courses/biomaterials.html#guided-notes-coming-soon",
-    "title": "Biomaterials",
-    "section": "Guided Notes (coming soon)",
-    "text": "Guided Notes (coming soon)"
+    "objectID": "courses.html#biomechanics-i---ebm-403-2026",
+    "href": "courses.html#biomechanics-i---ebm-403-2026",
+    "title": "Courses",
+    "section": "Biomechanics I - EBM 403 (2026)",
+    "text": "Biomechanics I - EBM 403 (2026)\nCourse Website"
   },
   {
-    "objectID": "courses/biomaterials.html#reference-textbooks-coming-soon",
-    "href": "courses/biomaterials.html#reference-textbooks-coming-soon",
-    "title": "Biomaterials",
-    "section": "Reference Textbooks (coming soon)",
-    "text": "Reference Textbooks (coming soon)"
+    "objectID": "courses.html#r-for-novices-coming-soon",
+    "href": "courses.html#r-for-novices-coming-soon",
+    "title": "Courses",
+    "section": "R for Novices (Coming soon)",
+    "text": "R for Novices (Coming soon)"
   },
   {
-    "objectID": "courses/biomaterials.html#readings-coming-soon",
-    "href": "courses/biomaterials.html#readings-coming-soon",
-    "title": "Biomaterials",
-    "section": "Readings (coming soon)",
-    "text": "Readings (coming soon)"
+    "objectID": "courses.html#sample-stem-courses",
+    "href": "courses.html#sample-stem-courses",
+    "title": "Courses",
+    "section": "Sample STEM Courses",
+    "text": "Sample STEM Courses\nBiostatistics Primer\nData Structures for Bioinformatics"
   },
   {
-    "objectID": "courses/biomechanics.html",
-    "href": "courses/biomechanics.html",
-    "title": "Biomechanics I (EBM 403)",
-    "section": "",
-    "text": "Prerequisites: Mechanics, physiology, anatomy\nLectures: TBD\nTutorials: TBD\nInstructor: William Okech, PhD\nEmail Me\nCourse Website: TBD\n\n\nBiomechanics is the application of the principles of mechanics (both solid and fluid) to biological systems and living organisms. These biological systems range from whole organisms to cells and tissues, as well as proteins. Various subfields of biomechanics exist including but not limited to cardiovascular, forensic, sports, comparative, and computational. In this course, we will introduce the basic concepts of biomechanics with a focus on the musculoskeletal system. Moreover, the learners will explore the mechanics of cells and tissues in the musculoskeletal system, the design of principles of orthopedic implants, and injury biomechanics. In addition to lectures (where relevant), laboratory activities and demonstrations will be performed. Lastly, case studies and contemporary examples will be used to explore new technologies.\n\n\n\n\nBiomechanics of Joints\nErgonomics\nWork Physiology and Industrial Safety\nBasics of Fluid Mechanics\nProsthetics and Orthotics\n\n\n\n\n\nLectures: 2 hours per week\nTutorials: 2 hours per week\n\nAssessment\n\nRegular Examination at end of Semester: 70%\nContinuous Assessment: 30% where 10% shall be continuous assessment tests, 5% shall be assignments, and 15% shall be labs. The students must complete and pass all the labs before they can be allowed to proceed to the next class."
-  },
-  {
-    "objectID": "courses/biomechanics.html#syllabus",
-    "href": "courses/biomechanics.html#syllabus",
-    "title": "Biomechanics I (EBM 403)",
-    "section": "",
-    "text": "Prerequisites: Mechanics, physiology, anatomy\nLectures: TBD\nTutorials: TBD\nInstructor: William Okech, PhD\nEmail Me\nCourse Website: TBD\n\n\nBiomechanics is the application of the principles of mechanics (both solid and fluid) to biological systems and living organisms. These biological systems range from whole organisms to cells and tissues, as well as proteins. Various subfields of biomechanics exist including but not limited to cardiovascular, forensic, sports, comparative, and computational. In this course, we will introduce the basic concepts of biomechanics with a focus on the musculoskeletal system. Moreover, the learners will explore the mechanics of cells and tissues in the musculoskeletal system, the design of principles of orthopedic implants, and injury biomechanics. In addition to lectures (where relevant), laboratory activities and demonstrations will be performed. Lastly, case studies and contemporary examples will be used to explore new technologies.\n\n\n\n\nBiomechanics of Joints\nErgonomics\nWork Physiology and Industrial Safety\nBasics of Fluid Mechanics\nProsthetics and Orthotics\n\n\n\n\n\nLectures: 2 hours per week\nTutorials: 2 hours per week\n\nAssessment\n\nRegular Examination at end of Semester: 70%\nContinuous Assessment: 30% where 10% shall be continuous assessment tests, 5% shall be assignments, and 15% shall be labs. The students must complete and pass all the labs before they can be allowed to proceed to the next class."
+    "objectID": "courses.html#stem-pedagogy",
+    "href": "courses.html#stem-pedagogy",
+    "title": "Courses",
+    "section": "STEM Pedagogy",
+    "text": "STEM Pedagogy\nDeveloping computational research skills\nMinimizing cognitive overload"
   }
 ]
