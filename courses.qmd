@@ -3,6 +3,16 @@ title: "Courses"
 format: html
 ---
 
+## Properties of Biomaterials - EBM 301 (2026)
+
+[Course Website](courses/biomaterials.qmd)
+
+## Biomechanics I - EBM 403 (2026)
+
+[Course Website](courses/biomechanics.qmd)
+
+## R for Novices (Coming soon)
+
 ## Sample STEM Courses
 
 [Biostatistics Primer]()
@@ -15,8 +25,4 @@ format: html
 
 [Minimizing cognitive overload]()
 
-## R for Novices (Coming soon)
 
-## Biomechanics (Coming soon)
-
-## Biomaterials (Coming soon)

@@ -1,5 +1,52 @@
 ---
-title: "biomaterials"
+title: "Properties of Biomaterials (EBM 301)"
 format: html
 ---
 
+## Syllabus
+
+Prerequisites: EBM 200
+
+Lectures: TBD
+
+Tutorials: TBD
+
+Laboratory Sessions: TBD
+
+Instructor: William Okech, PhD
+
+[Email Me](mailto:william.okech@gmail.com)
+
+Course Website: TBD
+
+### Course Description
+
+Biomaterials play an important role in the life sciences and medicine. They are used to aid in the restoration of function and promote healing after injury and disease. Biomaterials can be of natural, synthetic, or hybrid origin, and they are designed to interact with living systems in a safe and compatible manner. In this course, we will look at various materials including metals, ceramics, plastics, and glass, as well as living cells and tissues that are used to develop biomaterials. Additionally, the course will explore material characterization and testing methods, biocompatibility, and important considerations for the design and manufacture of materials for biomedical applications. In addition to lectures (where relevant), laboratory activities and demonstrations will be performed. Lastly, case studies and contemporary examples will be used to explore new technologies.
+
+### Major Topics Covered
+
+-   Atomic Theory of Materials and Bond Theory of Solids
+-   Phase Diagrams and Phase Transformations
+-   Mechanics of Materials
+-   Major Biomaterial Groups (Metals, Polymers, Ceramics, and Composites)
+-   Surface vs Bulk Properties of Materials
+-   Material Degradation
+-   Biomaterial-Host Tissue Interactions
+-   Drug Delivery Systems and Tissue Engineering
+
+### Teaching Organization
+
+-   Lectures: 2 hours per week
+-   Tutorials: 2 hours per week
+-   Laboratory Exercises: At least four experiments per semester, with each lab/practical session 3 hours long.
+
+### Assessment
+
+-   Regular Examination at end of Semester: 70%
+-   Continuous Assessment: 30% where 10% shall be continuous assessment tests, 5% shall be assignments, and 15% shall be labs. The students must complete and pass all the labs before they can be allowed to proceed to the next class.
+
+## Guided Notes (coming soon)
+
+## Reference Textbooks (coming soon)
+
+## Readings (coming soon)

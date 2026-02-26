@@ -1,5 +1,45 @@
 ---
-title: "biomechanics"
+title: "Biomechanics I (EBM 403)"
 format: html
 ---
 
+## Syllabus
+
+Prerequisites: Mechanics, physiology, anatomy
+
+Lectures: TBD
+
+Tutorials: TBD
+
+Instructor: William Okech, PhD
+
+[Email Me](mailto:william.okech@gmail.com)
+
+Course Website: TBD
+
+### Course Description
+Biomechanics is the application of the principles of mechanics (both solid and fluid) to biological systems and living organisms. These biological systems range from whole organisms to cells and tissues, as well as proteins. Various subfields of biomechanics exist including but not limited to cardiovascular, forensic, sports, comparative, and computational. In this course, we will introduce the basic concepts of biomechanics with a focus on the musculoskeletal system. Moreover, the learners will explore the mechanics of cells and tissues in the musculoskeletal system, the design of principles of orthopedic implants, and injury biomechanics. In addition to lectures (where relevant), laboratory activities and demonstrations will be performed. Lastly, case studies and contemporary examples will be used to explore new technologies.
+
+### Major Topics Covered
+
+- Biomechanics of Joints
+- Ergonomics
+- Work Physiology and Industrial Safety
+- Basics of Fluid Mechanics 
+- Prosthetics and Orthotics
+
+### Teaching organisation
+
+- Lectures: 2 hours per week
+- Tutorials: 2 hours per week
+
+### Assessment
+
+- Regular Examination at end of Semester: 70%
+- Continuous Assessment: 30% where 10% shall be continuous assessment tests, 5% shall be assignments, and 15% shall be labs. The students must complete and pass all the labs before they can be allowed to proceed to the next class.
+
+## Guided Notes
+
+## Reference Textbooks
+
+## Readings
