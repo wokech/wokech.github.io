@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "William Okech"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: index.qmd
+      - text: Courses
+        href: courses.qmd
+        
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual
+

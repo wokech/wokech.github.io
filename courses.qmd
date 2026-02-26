@@ -1,0 +1,22 @@
+---
+title: "Courses"
+format: html
+---
+
+## Sample STEM Courses
+
+[Biostatistics Primer]()
+
+[Data Structures for Bioinformatics]()
+
+## STEM Pedagogy
+
+[Developing computational research skills]()
+
+[Minimizing cognitive overload]()
+
+## R for Novices (Coming soon)
+
+## Biomechanics (Coming soon)
+
+## Biomaterials (Coming soon)
