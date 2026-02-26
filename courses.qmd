@@ -5,11 +5,11 @@ format: html
 
 ## Properties of Biomaterials - EBM 301 (2026)
 
-[Course Website](courses/biomaterials.qmd)
+[Course Website](courses/ebm301/biomaterials.qmd)
 
 ## Biomechanics I - EBM 403 (2026)
 
-[Course Website](courses/biomechanics.qmd)
+[Course Website](courses/ebm403/biomechanics.qmd)
 
 ## R for Novices (Coming soon)
 
