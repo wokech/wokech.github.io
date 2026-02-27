@@ -28,6 +28,7 @@ Biomechanics is the application of the principles of mechanics (both solid and f
 -   Work Physiology and Industrial Safety
 -   Basics of Fluid Mechanics
 -   Prosthetics and Orthotics
+-   Artificial Joints and Implants
 
 ### Teaching organisation
 
