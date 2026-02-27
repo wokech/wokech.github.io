@@ -3,6 +3,18 @@ title: "Courses"
 format: html
 ---
 
+## R for Novices
+
+**New to data analysis? No prior programming experience?**
+
+Sign up for my free email course!
+
+[R for Novices Email Course](https://heidiseibold.kit.com/d949a4d18c)
+
+Go a step further with the free ebook
+
+[R for Novice Programmers: First Steps with R and RStudio](https://wokech.github.io/r4novice/)
+
 ## Properties of Biomaterials - EBM 301 (2026)
 
 [Course Website](courses/ebm301/biomaterials.qmd)
@@ -10,17 +22,3 @@ format: html
 ## Biomechanics I - EBM 403 (2026)
 
 [Course Website](courses/ebm403/biomechanics.qmd)
-
-## R for Novices (Coming soon)
-
-## Sample STEM Courses
-
-[Biostatistics Primer]()
-
-[Data Structures for Bioinformatics]()
-
-## STEM Pedagogy
-
-[Developing computational research skills]()
-
-[Minimizing cognitive overload]()
