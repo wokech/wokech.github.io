@@ -3,7 +3,7 @@ title: "Courses"
 format: html
 ---
 
-## R for Novices
+## R for Novices 
 
 **New to data analysis? No prior programming experience?**
 
@@ -19,6 +19,4 @@ Go a step further with the free ebook
 
 [Course Website](courses/ebm301/biomaterials.qmd)
 
-## Biomechanics I - EBM 403 (2026)
 
-[Course Website](courses/ebm403/biomechanics.qmd)
