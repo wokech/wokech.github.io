@@ -2,14 +2,8 @@
 title: "Hello!"
 ---
 
-Hi there! Welcome to my teaching and training website. This is a repository for all the [teaching and training materials](courses.qmd) that I am currently using or have previously delivered.
+Hi there! Welcome to my teaching and training website.
 
-My background is in Biomedical Engineering, and my [research interests](https://scholar.google.com/citations?user=BvIDsDMAAAAJ&hl=en&oi=ao) include:
+This is a repository for all my current [teaching materials](courses.qmd).
 
--   Cardiovascular Mechanobiology and Tissue Engineering
-
--   Data Science Education in Low-Resource Settings
-
--   Accessible Data Visualization
-
-I am also a [Certified Carpentries Instructor](https://carpentries.org/community/instructors/) and a trainer with the [Digital Research Academy](https://digital-research.academy/trainers/). In these roles my goal is to train learners on the basics of computational thinking. Additionally, I am an ardent promoter of using open-source tools (such as R/Python) to solve data analysis and visualization problems.
+In addition to university teaching, I am also a [Certified Carpentries Instructor](https://carpentries.org/community/instructors/) and a trainer with the [Digital Research Academy](https://digital-research.academy/trainers/). As a member of these organizations, my goal is to train learners on the basics of computational thinking and promote the use of open-source tools (such as R/Python) to solve data analysis and visualization problems.

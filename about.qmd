@@ -1,5 +1,0 @@
----
-title: "About"
----
-
-This is the teaching website for William Okech

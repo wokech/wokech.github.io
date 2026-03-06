@@ -17,7 +17,7 @@ Instructor: William Okech, PhD
 
 [Email Me](mailto:william.okech@gmail.com)
 
-Course Website: <https://wokech.github.io/courses.html> –\> **select your course/year**
+Course Website: <https://wokech.github.io> –\> **Courses** –\> **Select Course**
 
 ### Course Description
 
@@ -25,7 +25,7 @@ Biomaterials play an important role in the life sciences and medicine. They are 
 
 ### Major Topics Covered
 
--   Atomic Theory of Materials and Bond Theory of Solids
+-   Atomic Theory of Materials and Band Theory of Solids
 -   Phase Diagrams and Phase Transformations
 -   Mechanics of Materials
 -   Major Biomaterial Groups (Metals, Polymers, Ceramics, and Composites)

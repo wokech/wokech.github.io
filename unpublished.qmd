@@ -1,8 +1,0 @@
----
-title: "unpublished"
-format: html
----
-
-## Biomechanics I - EBM 403 (2026)
-
-[Course Website](courses/ebm403/biomechanics.qmd)
