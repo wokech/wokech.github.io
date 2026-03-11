@@ -28,9 +28,9 @@ Biomaterials play an important role in the life sciences and medicine. They are 
 -   Atomic Theory of Materials and Band Theory of Solids
 -   Phase Diagrams and Phase Transformations
 -   Mechanics of Materials
--   Major Biomaterial Groups (Metals, Polymers, Ceramics, and Composites)
 -   Surface vs Bulk Properties of Materials
 -   Material Degradation
+-   Major Biomaterial Groups (Metals, Polymers, Ceramics, and Composites)
 -   Biomaterial-Host Tissue Interactions
 -   Drug Delivery Systems and Tissue Engineering
 
@@ -51,3 +51,39 @@ Biomaterials play an important role in the life sciences and medicine. They are 
 ## Reference Textbooks (coming soon)
 
 ## Readings (coming soon)
+
+## Optional Resources to Explore
+
+### Journals
+
+-   Biofouling
+-   ACS Langmuir
+-   Biomaterials
+-   Materials Today
+-   Nature Materials
+-   Artificial Organs
+-   Acta Biomaterialia
+-   Bioactive Materials
+-   Biomaterials Science
+-   ACS Biomacromolecules
+-   ACS Applied Biomaterials
+-   Tissue Engineering: Part A
+-   Tissue Engineering: Part B
+-   Tissue Engineering: Part C
+-   ACS Bioconjugate Chemistry
+-   Journal of Applied Polymers
+-   Journal of Controlled Release
+-   Journal of Functional Biomaterials
+-   Journal of Biomaterials Applications
+-   Drug Delivery and Translational Research
+-   ACS Biomaterials Science and Engineering
+-   Journal of Biomedical Materials Research: Part A
+-   Journal of Biomedical Materials Research: Part B (Applied Biomaterials)
+
+### Societies
+
+-   Society of Biomaterials
+-   European Society for Biomaterials
+-   Australasian Society for Biomaterials and Tissue Engineering
+-   Latin American Society for Biomaterials and Artificial Organs (SLABO)
+-   ASAIO (formerly known as the American Society for Artificial Internal Organs)
