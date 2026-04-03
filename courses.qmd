@@ -15,6 +15,6 @@ Go a step further with the free ebook
 
 [R for Novice Programmers: First Steps with R and RStudio](https://wokech.github.io/r4novice/)
 
-## Properties of Biomaterials - EBM 301 (2026)
+## Sample Biomaterials Syllabus (2026)
 
 [Course Website](courses/ebm301/biomaterials.qmd)

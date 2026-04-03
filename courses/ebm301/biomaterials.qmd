@@ -1,11 +1,11 @@
 ---
-title: "Properties of Biomaterials (EBM 301)"
+title: "Sample Biomaterials Syllabus"
 format: html
 ---
 
 ## Syllabus
 
-Prerequisites: EBM 200
+Prerequisites: TBD
 
 Lectures: TBD
 
@@ -25,25 +25,26 @@ Biomaterials play an important role in the life sciences and medicine. They are 
 
 ### Major Topics Covered
 
--   Atomic Theory of Materials and Band Theory of Solids
--   Phase Diagrams and Phase Transformations
+-   History and Current Uses of Biomaterials
+-   Atomic Theory of Materials
 -   Mechanics of Materials
 -   Surface vs Bulk Properties of Materials
+-   Biomaterial-Host Tissue Interactions
 -   Material Degradation
 -   Major Biomaterial Groups (Metals, Polymers, Ceramics, and Composites)
--   Biomaterial-Host Tissue Interactions
+-   Phase Diagrams and Phase Transformations
 -   Drug Delivery Systems and Tissue Engineering
 
 ### Teaching Organization
 
--   Lectures: 2 hours per week
--   Tutorials: 2 hours per week
--   Laboratory Exercises: At least four experiments per semester, with each lab/practical session 3 hours long.
+-   Lectures: TBD
+-   Tutorials: TBD
+-   Laboratory Exercises: TBD
 
 ### Assessment
 
--   Regular Examination at end of Semester: 70%
--   Continuous Assessment: 30% where 10% shall be continuous assessment tests, 5% shall be assignments, and 15% shall be labs.
+-   Regular Examination at end of Semester: TBD
+-   Continuous Assessment: TBD
 -   The students must complete and pass all the labs before they can be allowed to proceed to the next class.
 
 ## Guided Notes (coming soon)
