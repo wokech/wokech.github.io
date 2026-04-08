@@ -17,4 +17,4 @@ Go a step further with the free ebook
 
 ## Sample Biomaterials Syllabus (2026)
 
-[Course Website](courses/ebm301/biomaterials.qmd)
+[Course Website](courses/biomaterials/biomaterials_2026.qmd)
