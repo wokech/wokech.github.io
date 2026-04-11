@@ -2,8 +2,32 @@
 title: "Hello!"
 ---
 
-Hi there! Welcome to my teaching and training website.
+Hi there! Welcome to my teaching, training, and research website.
+
+### Teaching
 
 This is a repository for all my current [teaching materials](courses.qmd).
 
+### Training
+
 In addition to university teaching, I am also a [Certified Carpentries Instructor](https://carpentries.org/community/instructors/) and a trainer with the [Digital Research Academy](https://digital-research.academy/trainers/). As a member of these organizations, my goal is to train learners on the basics of computational thinking and promote the use of open-source tools (such as R/Python) to solve data analysis and visualization problems.
+
+### Research Interests
+
+* **Vascular Biology**
+  + Vascular Tissue Engineering
+  + Endothelial cell mechanotransduction
+  + Hemodynamics/Cardiovascular Fluid Mechanics
+
+
+* **Biomedical Computing and Data Science Education for Low-Resource Settings**
+  + Context-aware biomedical data science training
+  + Mobile dashboard interfaces for low-literacy users
+  + Multimodal data visualizations for visually impaired users
+  + Low-cost data science platforms for biomedical education
+
+
+* **Sports Analytics**
+  + Wearable sensor data analysis and visualization
+  + Low-cost platforms for athlete performance monitoring
+  + Predictive modeling of athlete performance using physiological and training data

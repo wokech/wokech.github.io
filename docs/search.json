@@ -25,7 +25,7 @@
     "href": "index.html",
     "title": "Hello!",
     "section": "",
-    "text": "Hi there! Welcome to my teaching and training website.\nThis is a repository for all my current teaching materials.\nIn addition to university teaching, I am also a Certified Carpentries Instructor and a trainer with the Digital Research Academy. As a member of these organizations, my goal is to train learners on the basics of computational thinking and promote the use of open-source tools (such as R/Python) to solve data analysis and visualization problems."
+    "text": "Hi there! Welcome to my teaching, training, and research website.\n\nTeaching\nThis is a repository for all my current teaching materials.\n\n\nTraining\nIn addition to university teaching, I am also a Certified Carpentries Instructor and a trainer with the Digital Research Academy. As a member of these organizations, my goal is to train learners on the basics of computational thinking and promote the use of open-source tools (such as R/Python) to solve data analysis and visualization problems.\n\n\nResearch Interests\n\nVascular Biology\n\nVascular Tissue Engineering\nEndothelial cell mechanotransduction\nHemodynamics/Cardiovascular Fluid Mechanics\n\nBiomedical Computing and Data Science Education for Low-Resource Settings\n\nContext-aware biomedical data science training\nMobile dashboard interfaces for low-literacy users\nMultimodal data visualizations for visually impaired users\nLow-cost data science platforms for biomedical education\n\nSports Analytics\n\nWearable sensor data analysis and visualization\nLow-cost platforms for athlete performance monitoring\nPredictive modeling of athlete performance using physiological and training data"
   },
   {
     "objectID": "courses/ebm301/biomaterials.html",
@@ -187,5 +187,26 @@
     "title": "Sample Biomaterials Syllabus",
     "section": "Optional Resources to Explore",
     "text": "Optional Resources to Explore\n\nJournals\n\nBiofouling\nACS Langmuir\nBiomaterials\nMaterials Today\nNature Materials\nArtificial Organs\nActa Biomaterialia\nBioactive Materials\nBiomaterials Science\nACS Biomacromolecules\nACS Applied Biomaterials\nTissue Engineering: Part A\nTissue Engineering: Part B\nTissue Engineering: Part C\nACS Bioconjugate Chemistry\nJournal of Applied Polymers\nJournal of Controlled Release\nJournal of Functional Biomaterials\nJournal of Biomaterials Applications\nDrug Delivery and Translational Research\nACS Biomaterials Science and Engineering\nJournal of Biomedical Materials Research: Part A\nJournal of Biomedical Materials Research: Part B (Applied Biomaterials)\n\n\n\nSocieties\n\nSociety of Biomaterials\nEuropean Society for Biomaterials\nAustralasian Society for Biomaterials and Tissue Engineering\nLatin American Society for Biomaterials and Artificial Organs (SLABO)\nASAIO (formerly known as the American Society for Artificial Internal Organs)"
+  },
+  {
+    "objectID": "index.html#training",
+    "href": "index.html#training",
+    "title": "Hello!",
+    "section": "Training",
+    "text": "Training\nIn addition to university teaching, I am also a Certified Carpentries Instructor and a trainer with the Digital Research Academy. As a member of these organizations, my goal is to train learners on the basics of computational thinking and promote the use of open-source tools (such as R/Python) to solve data analysis and visualization problems."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Hello!",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nVascular Biology\n\nVascular Tissue Engineering\nEndothelial cell mechanotransduction\nHemodynamics/Cardiovascular Fluid Mechanics\n\nSports Analytics\n\nWearable sensor data analysis and visualization\nLow-cost platforms for athlete performance monitoring\nPredictive modeling of athlete performance using physiological and training data\n\nBiomedical Computing and Data Science Education for Low-Resource Settings\n\nContext-aware biomedical data science training\nMobile dashboard interfaces for low-literacy users\nMultimodal data visualizations for visually impaired users\nLow-cost data science platforms for biomedical education"
+  },
+  {
+    "objectID": "index.html#hi-there-welcome-to-my-teaching-training-and-research-website.",
+    "href": "index.html#hi-there-welcome-to-my-teaching-training-and-research-website.",
+    "title": "Hello!",
+    "section": "",
+    "text": "This is a repository for all my current teaching materials.\n\n\n\nIn addition to university teaching, I am also a Certified Carpentries Instructor and a trainer with the Digital Research Academy. As a member of these organizations, my goal is to train learners on the basics of computational thinking and promote the use of open-source tools (such as R/Python) to solve data analysis and visualization problems.\n\n\n\n\nVascular Biology\n\nVascular Tissue Engineering\nEndothelial cell mechanotransduction\nHemodynamics/Cardiovascular Fluid Mechanics\n\nSports Analytics\n\nWearable sensor data analysis and visualization\nLow-cost platforms for athlete performance monitoring\nPredictive modeling of athlete performance using physiological and training data\n\nBiomedical Computing and Data Science Education for Low-Resource Settings\n\nContext-aware biomedical data science training\nMobile dashboard interfaces for low-literacy users\nMultimodal data visualizations for visually impaired users\nLow-cost data science platforms for biomedical education"
   }
 ]
