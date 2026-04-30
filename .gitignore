@@ -7,3 +7,4 @@
 **/*.quarto_ipynb
 /unpublished/
 /not_for_posting/
+.positai

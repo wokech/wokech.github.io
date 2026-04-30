@@ -14,14 +14,15 @@ In addition to university teaching, I am also a [Certified Carpentries Instructo
 
 ### Research Interests
 
--   **Vascular Biology**
-    -   Vascular Tissue Engineering
-    -   Endothelial Cell Mechanotransduction
-    -   Hemodynamics/Cardiovascular Fluid Mechanics
--   **Biomedical Data Science Education for Low-Resource Settings**
-    -   Low-cost biomedical data science training platforms
-    -   Multimodal data visualization development for visually impaired users
--   **Sports Analytics**
-    -   Sports data visualization
-    -   Wearable sensor data analysis
-
+- **Vascular Biology**
+  - Vascular Tissue Engineering
+  - Endothelial Cell Mechanobiology
+  - Cardiovascular Fluid Mechanics and Hemodynamics
+- **Sports Performance Measurement and Analytics**
+  - Sports Data Visualization
+  - Wearable Biosensor Design and Data Analysis
+  - Running Biomechanics and Exercise Physiology
+- **Biomedical Data Science Education for Low-Resource Settings**
+  - Low-Cost and Accessible Biomedical Data Science Curricula
+  - Infrastructure-Light Training Platforms for Biomedical Data Science
+  - Multimodal Data Visualization Systems to Improve Accessibility for Visually Impaired Users
