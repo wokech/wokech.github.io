@@ -1,0 +1,18 @@
+---
+title: "unpublished"
+format: html
+---
+
+## Biomechanics I - EBM 403 (2026)
+
+[Course Website](courses/ebm403/biomechanics.qmd)
+
+My background is in Biomedical Engineering, and my [research interests](https://scholar.google.com/citations?user=BvIDsDMAAAAJ&hl=en&oi=ao) include:
+
+-   Cardiovascular Mechanobiology and Tissue Engineering
+
+-   Data Science Education in Low-Resource Settings
+
+-   Accessible Data Visualization
+
+I am also a [Certified Carpentries Instructor](https://carpentries.org/community/instructors/) and a trainer with the [Digital Research Academy](https://digital-research.academy/trainers/). In these roles my goal is to train learners on the basics of computational thinking. Additionally, I am an ardent promoter of using open-source tools (such as R/Python) to solve data analysis and visualization problems.

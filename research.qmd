@@ -6,12 +6,14 @@ toc: true
 
 ## Research Interests
 
+[Google Scholar](https://scholar.google.com/citations?user=BvIDsDMAAAAJ&hl=en)
+
 - **Vascular Biology**
   - Vascular Tissue Engineering
   - Endothelial Cell Mechanobiology
 - **Sports Performance Measurement and Analytics**
   - Running Physiology
-  - Sports Data Analysis Visualization
+  - Sports Data Analysis Visualization ([Samples](research/sports_data_visualization.qmd))
 - **Biomedical Data Science Education for Low-Resource Settings**
   - Low-Cost and Accessible Biomedical Data Science Curricula
   - Infrastructure-Light Training Platforms for Biomedical Data Science

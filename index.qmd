@@ -6,7 +6,7 @@ Hi there! Welcome to my teaching, training, and research website.
 
 ### Teaching
 
-This is a repository for all my current [teaching materials](courses.qmd).
+This is a repository for all my current [teaching materials](teaching.qmd).
 
 ### Training
 
@@ -14,7 +14,7 @@ In addition to university teaching, I am also a [Certified Carpentries Instructo
 
 [Resources](training.qmd)
 
-### Research Interests 
+### Research Interests
 
 - Vascular Biology
 - Sports Performance Measurement and Analytics

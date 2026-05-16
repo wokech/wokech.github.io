@@ -6,7 +6,7 @@ toc: true
 
 ## Teaching Samples
 
-[Sample Courses](courses/sample_courses/sample_courses.qmd)
+[Sample Courses](sample_courses.qmd)
 
 ## Sample Biomaterials Syllabus (2026)
 

@@ -1,0 +1,18 @@
+---
+title: "Sports Data Visualization"
+format: html
+toc: true
+---
+
+## Static 
+
+Coming soon
+
+## Dynamic 
+
+### A: African Football Legends (1990 - Present)
+
+<iframe src="https://african-football-legends.streamlit.app/?embed=true" style="height: 450px; width: 100%;">
+
+</iframe>
+
