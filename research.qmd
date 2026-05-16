@@ -1,5 +1,17 @@
 ---
-title: "research"
+title: "Research"
 format: html
+toc: true
 ---
 
+## Research Interests
+
+- **Vascular Biology**
+  - Vascular Tissue Engineering
+  - Endothelial Cell Mechanobiology
+- **Sports Performance Measurement and Analytics**
+  - Running Physiology
+  - Sports Data Analysis Visualization
+- **Biomedical Data Science Education for Low-Resource Settings**
+  - Low-Cost and Accessible Biomedical Data Science Curricula
+  - Infrastructure-Light Training Platforms for Biomedical Data Science

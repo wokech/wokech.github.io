@@ -12,17 +12,12 @@ This is a repository for all my current [teaching materials](courses.qmd).
 
 In addition to university teaching, I am also a [Certified Carpentries Instructor](https://carpentries.org/community/instructors/) and a trainer with the [Digital Research Academy](https://digital-research.academy/trainers/). As a member of these organizations, my goal is to train learners on the basics of computational thinking and promote the use of open-source tools (such as R/Python) to solve data analysis and visualization problems.
 
-### Research Interests
+[Resources](training.qmd)
 
-- **Vascular Biology**
-  - Vascular Tissue Engineering
-  - Endothelial Cell Mechanobiology
-  - Cardiovascular Fluid Mechanics and Hemodynamics
-- **Sports Performance Measurement and Analytics**
-  - Sports Data Visualization
-  - Wearable Biosensor Design and Data Analysis
-  - Running Biomechanics and Exercise Physiology
-- **Biomedical Data Science Education for Low-Resource Settings**
-  - Low-Cost and Accessible Biomedical Data Science Curricula
-  - Infrastructure-Light Training Platforms for Biomedical Data Science
-  - Multimodal Data Visualization Systems to Improve Accessibility for Visually Impaired Users
+### Research Interests 
+
+- Vascular Biology
+- Sports Performance Measurement and Analytics
+- Biomedical Data Science Education for Low-Resource Settings
+
+[Research Website](research.qmd)
