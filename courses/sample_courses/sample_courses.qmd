@@ -1,0 +1,19 @@
+---
+title: "Sample Course Materials"
+format: html
+toc: true
+---
+
+## Biostatistics
+
+::: {#posts_biostatistics_primer_2025}
+:::
+
+{{< pdf courses/sample_courses/biostatistics/biostatistics_primer_2025.pdf width=800 height=450 >}}
+
+## Data Structures in Bioinformatics
+
+::: {#posts_data_struct_bioinf_2025}
+:::
+
+{{< pdf courses/sample_courses/data_struct_bioinf/data_struct_bioinf_2025.pdf width=800 height=450 >}}

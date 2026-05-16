@@ -8,10 +8,15 @@ website:
     left:
       - text: Home
         href: index.qmd
-      - text: Courses
-        href: courses.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: Training
+        href: training.qmd
+      - text: Research
+        href: research.qmd
+      - text: STEM Readings
+        href: reading_stem.qmd
 
-        
 format:
   html:
     theme:
@@ -22,3 +27,8 @@ format:
 
 editor: visual
 
+execute:
+  freeze: auto
+
+extensions:
+  - jmgirard/embedpdf

@@ -1,0 +1,33 @@
+---
+title: "Training"
+format: html
+toc: true
+---
+
+## R for Novices
+
+**New to data analysis? No prior programming experience?**
+
+Sign up for my free email course!
+
+[R for Novices Email Course](https://heidiseibold.kit.com/d949a4d18c)
+
+Go a step further with the free ebook
+
+[R for Novice Programmers: First Steps with R and RStudio](https://wokech.github.io/r4novice/)
+
+## Engineering Education
+
+### Computational Thinking
+
+::: {#posts_comp_thinking}
+:::
+
+{{< pdf courses/training/comp_thinking/comp_thinking.pdf width=800 height=450 >}}
+
+### Minimizing Cognitive Overload
+
+::: {#posts_min_cog_overload}
+:::
+
+{{< pdf courses/training/min_cog_overload/min_cog_overload.pdf width=800 height=450 >}}

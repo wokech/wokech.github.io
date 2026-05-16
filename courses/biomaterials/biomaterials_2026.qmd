@@ -25,27 +25,27 @@ Biomaterials play an important role in the life sciences and medicine. They are 
 
 ### Major Topics Covered
 
--   History and Current Uses of Biomaterials
--   Atomic Theory of Materials
--   Mechanics of Materials
--   Surface vs Bulk Properties of Materials
--   Biomaterial-Host Tissue Interactions
--   Material Degradation
--   Major Biomaterial Groups (Metals, Polymers, Ceramics, and Composites)
--   Phase Diagrams and Phase Transformations
--   Drug Delivery Systems and Tissue Engineering
+- History and Current Uses of Biomaterials
+- Atomic Theory of Materials
+- Mechanics of Materials
+- Surface vs Bulk Properties of Materials
+- Biomaterial-Host Tissue Interactions
+- Material Degradation
+- Major Biomaterial Groups (Metals, Polymers, Ceramics, and Composites)
+- Phase Diagrams and Phase Transformations
+- Drug Delivery Systems and Tissue Engineering
 
 ### Teaching Organization
 
--   Lectures: TBD
--   Tutorials: TBD
--   Laboratory Exercises: TBD
+- Lectures: TBD
+- Tutorials: TBD
+- Laboratory Exercises: TBD
 
 ### Assessment
 
--   Regular Examination at end of Semester: TBD
--   Continuous Assessment: TBD
--   The students must complete and pass all the labs before they can be allowed to proceed to the next class.
+- Regular Examination at end of Semester: TBD
+- Continuous Assessment: TBD
+- The students must complete and pass all the labs before they can be allowed to proceed to the next class.
 
 ## Guided Notes (coming soon)
 
@@ -57,34 +57,34 @@ Biomaterials play an important role in the life sciences and medicine. They are 
 
 ### Journals
 
--   Biofouling
--   ACS Langmuir
--   Biomaterials
--   Materials Today
--   Nature Materials
--   Artificial Organs
--   Acta Biomaterialia
--   Bioactive Materials
--   Biomaterials Science
--   ACS Biomacromolecules
--   ACS Applied Biomaterials
--   Tissue Engineering: Part A
--   Tissue Engineering: Part B
--   Tissue Engineering: Part C
--   ACS Bioconjugate Chemistry
--   Journal of Applied Polymers
--   Journal of Controlled Release
--   Journal of Functional Biomaterials
--   Journal of Biomaterials Applications
--   Drug Delivery and Translational Research
--   ACS Biomaterials Science and Engineering
--   Journal of Biomedical Materials Research: Part A
--   Journal of Biomedical Materials Research: Part B (Applied Biomaterials)
+- Biofouling
+- ACS Langmuir
+- Biomaterials
+- Materials Today
+- Nature Materials
+- Artificial Organs
+- Acta Biomaterialia
+- Bioactive Materials
+- Biomaterials Science
+- ACS Biomacromolecules
+- ACS Applied Biomaterials
+- Tissue Engineering: Part A
+- Tissue Engineering: Part B
+- Tissue Engineering: Part C
+- ACS Bioconjugate Chemistry
+- Journal of Applied Polymers
+- Journal of Controlled Release
+- Journal of Functional Biomaterials
+- Journal of Biomaterials Applications
+- Drug Delivery and Translational Research
+- ACS Biomaterials Science and Engineering
+- Journal of Biomedical Materials Research: Part A
+- Journal of Biomedical Materials Research: Part B (Applied Biomaterials)
 
 ### Societies
 
--   Society of Biomaterials
--   European Society for Biomaterials
--   Australasian Society for Biomaterials and Tissue Engineering
--   Latin American Society for Biomaterials and Artificial Organs (SLABO)
--   ASAIO (formerly known as the American Society for Artificial Internal Organs)
+- Society of Biomaterials
+- European Society for Biomaterials
+- Australasian Society for Biomaterials and Tissue Engineering
+- Latin American Society for Biomaterials and Artificial Organs (SLABO)
+- ASAIO (formerly known as the American Society for Artificial Internal Organs)

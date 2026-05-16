@@ -1,0 +1,16 @@
+[
+  {
+    "listing": "/presentations.html",
+    "items": [
+      "/presentations/comp_thinking/comp_thinking.html",
+      "/presentations/min_cog_overload/min_cog_overload.html"
+    ]
+  },
+  {
+    "listing": "/training.html",
+    "items": [
+      "/presentations/comp_thinking/comp_thinking.html",
+      "/presentations/min_cog_overload/min_cog_overload.html"
+    ]
+  }
+]
