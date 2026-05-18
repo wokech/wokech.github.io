@@ -1,0 +1,39 @@
+---
+title: "Journal Club"
+format: html
+toc: true
+---
+
+## Journal Club Presentation Format
+
+
+
+### Sample Presentation (Coming Soon)
+
+
+## Landmark Research Papers in Biomedical Engineering (Coming Soon)
+
+### Tissue Engineering and Regenerative Medicine
+
+### Biomaterials
+
+### Drug Delivery
+
+### Biomechanics
+
+### Rehabilitation Engineering & Prosthetics
+
+### Neural Engineering & Brain–Computer Interfaces
+
+### Biomedical Signal Processing
+
+### Bioinstrumentation & Medical Devices
+
+### Physiology for Engineering
+
+
+
+1)  [A Programmable Dual-RNA-Guided DNA Endonuclease in Adaptive Bacterial Immunity](https://www.science.org/doi/10.1126/science.1225829) Jinek et al., Science (2012) from the Doudna and Charpentier Lab
+2)  [Induction of pluripotent stem cells from mouse embryonic and adult fibroblast cultures by defined factors](https://www.cell.com/cell/fulltext/S0092-8674(06)00976-7) Takahashi et al., Cell (2006) from the Yamanaka Lab
+3)  [Induction of pluripotent stem cells from adult human fibroblasts by defined factors](https://www.cell.com/cell/fulltext/S0092-8674(07)01471-7) Takahashi et al., Cell (2006) from the Yamanaka Lab
+4)  [Matrix Elasticity Directs Stem Cell Lineage Specification](https://www.sciencedirect.com/science/article/pii/S0092867406009615) Engler et al., Cell (2006) from the Discher Lab

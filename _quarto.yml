@@ -13,9 +13,15 @@ website:
       - text: Training
         href: training.qmd
       - text: Research
-        href: research.qmd
-      - text: STEM Readings
-        href: reading_stem.qmd
+        menu:
+          - text: Research Interests
+            href: research/research_interests.qmd
+          - text: STEM Readings
+            href: research/reading_stem.qmd  
+          - text: Science Communication
+            href: research/sci_comm.qmd
+          - text: Journal Club
+            href: research/journal_club.qmd
 
 format:
   html:

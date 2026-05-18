@@ -20,4 +20,4 @@ In addition to university teaching, I am also a [Certified Carpentries Instructo
 - Sports Performance Measurement and Analytics
 - Biomedical Data Science Education for Low-Resource Settings
 
-[Research Website](research.qmd)
+[Description of Research Interests](research/research_interests.qmd)

@@ -4,7 +4,9 @@ format: html
 toc: true
 ---
 
-## R for Novices
+## Intro to R for Data Science
+
+### R for Novices
 
 **New to data analysis? No prior programming experience?**
 
@@ -12,9 +14,11 @@ Sign up for my free email course!
 
 [R for Novices Email Course](https://heidiseibold.kit.com/d949a4d18c)
 
-Go a step further with the free ebook
+Also, you can review the accompanying book (*Click on cover image to access the book*).
 
-[R for Novice Programmers: First Steps with R and RStudio](https://wokech.github.io/r4novice/)
+:::{}
+[![](courses/training/free_ebooks/Cover_R4NP.png){width=20% fig-align="left"}](https://wokech.github.io/r4novice/)
+:::
 
 ## Engineering Education
 

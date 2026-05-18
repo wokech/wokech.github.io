@@ -4,14 +4,14 @@
     "href": "training.html",
     "title": "Training",
     "section": "",
-    "text": "New to data analysis? No prior programming experience?\nSign up for my free email course!\nR for Novices Email Course\nGo a step further with the free ebook\nR for Novice Programmers: First Steps with R and RStudio"
+    "text": "New to data analysis? No prior programming experience?\nSign up for my free email course!\nR for Novices Email Course\nAlso, you can review the accompanying book (Click on cover image to access the book)."
   },
   {
-    "objectID": "training.html#r-for-novices",
-    "href": "training.html#r-for-novices",
+    "objectID": "training.html#intro-to-r-for-data-science",
+    "href": "training.html#intro-to-r-for-data-science",
     "title": "Training",
     "section": "",
-    "text": "New to data analysis? No prior programming experience?\nSign up for my free email course!\nR for Novices Email Course\nGo a step further with the free ebook\nR for Novice Programmers: First Steps with R and RStudio"
+    "text": "New to data analysis? No prior programming experience?\nSign up for my free email course!\nR for Novices Email Course\nAlso, you can review the accompanying book (Click on cover image to access the book)."
   },
   {
     "objectID": "training.html#engineering-education",
@@ -42,32 +42,81 @@
     "text": "Data Structures in Bioinformatics\n\n\n\nDownload PDF file."
   },
   {
-    "objectID": "research/sports_data_visualization.html",
-    "href": "research/sports_data_visualization.html",
-    "title": "Sports Data Visualization",
+    "objectID": "research/research_interests.html",
+    "href": "research/research_interests.html",
+    "title": "Research",
     "section": "",
-    "text": "Coming soon"
+    "text": "Google Scholar\nORCID"
   },
   {
-    "objectID": "research/sports_data_visualization.html#static",
-    "href": "research/sports_data_visualization.html#static",
-    "title": "Sports Data Visualization",
+    "objectID": "research/research_interests.html#publications",
+    "href": "research/research_interests.html#publications",
+    "title": "Research",
     "section": "",
-    "text": "Coming soon"
+    "text": "Google Scholar\nORCID"
   },
   {
-    "objectID": "research/sports_data_visualization.html#dynamic",
-    "href": "research/sports_data_visualization.html#dynamic",
-    "title": "Sports Data Visualization",
-    "section": "Dynamic",
-    "text": "Dynamic\n\nA: African Football Legends (1990 - Present)"
+    "objectID": "research/research_interests.html#research-interests",
+    "href": "research/research_interests.html#research-interests",
+    "title": "Research",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nVascular Biology\n\nVascular Tissue Engineering\nEndothelial Cell Mechanobiology\n\nSports Performance Measurement and Analytics\n\nRunning Physiology\nWearable sensor design\nSports Data Analysis and Visualization\n\nBiomedical Data Science Education for Low-Resource Settings\n\nLow-Cost and Accessible Biomedical Data Science Curricula\nInfrastructure-Light Training Platforms for Biomedical Data Science"
+  },
+  {
+    "objectID": "research/reading_stem.html",
+    "href": "research/reading_stem.html",
+    "title": "Recommended Readings (STEM)",
+    "section": "",
+    "text": "This page contains a list of readings that I would recommend for upper-level undergraduate and graduate students getting started in STEM research. It includes articles focused on best practices, important research papers, and science integrity.\n\n\n\nHow to succeed in science: a concise guide for young biomedical scientists. Part I: taking the plunge. Yewdell JW, Nat Rev Mol Cell Biol. (2008).\nHow to succeed in science: a concise guide for young biomedical scientists. Part II: making discoveries. Yewdell JW, Nat Rev Mol Cell Biol. (2008).\nThe importance of stupidity in scientific research. Schwartz MA, J Cell Sci. (2008).\nUnskilled and unaware of it: how difficulties in recognizing one’s own incompetence lead to inflated self-assessments (Dunning-Kruger Effect). Kruger J and Dunning D, J Pers Soc Psychol. (1999).\nHow to choose a good scientific problem. Alon U, Mol Cell. (2009).\nPLOS “Ten Simple Rules” Collection provides a quick, concentrated guide for mastering some of the professional challenges research scientists face in their careers. PloS.\nResources for PhD Students Guillaume Dalle.\nPessimistic scientific articles by Abhishaike Mahajan\nThe Codon Guide to Synthetic Biology\nHow to Read a Scientific Paper\nHow To Read Scientific And Research Papers: Advice For Journalists\n\n\n\n\n\nThe Emotional Toll of Graduate School. Puri P, Sci Am. (2019).\nPhDs: the tortuous truth. Woolston C, Nature (2019).\nWhy doing a PhD is often a waste of time The Economist, Medium (2016).\nThere’s an awful cost to getting a PhD that no one talks about Walker J, Quartz (2015).\nStrategies for Supporting Engineering Student Mental Health Wilson & Goldberg, CEE (2023).\nPrioritizing mental health and wellness in engineering S. Wilson, ASEE (2022)\nFalling behind: postdocs in their thirties tire of putting life on hold\n\n\n\n\n\nWhat exactly is ‘N’ in cell culture and animal experiments? Lazic SE et al., PloS Biol. (2018).\nSuperPlots: Communicating reproducibility and variability in cell biology. Lord SJ et al., J Cell Biol. (2020).\nTen common statistical mistakes to watch out for when writing or reviewing a manuscript. Makin TR et al. eLife (2019).\nBeyond bar and line graphs: time for a new data presentation paradigm. Weissgerber TL et al. PloS Biol. (2015).\nStatistical relevance—relevant statistics, part I. Klaus B EMBO J. (2015).\nStatistical relevance-relevant statistics, part II: presenting experimental data. Klaus B EMBO J. (2015).\nTen simple rules for getting started with statistics in graduate school Zitomer RA et al. PloS Comput Biol. (2022).\n\n\n\n\n\nACS Guide to Scholarly Communication. ACS. (2020).\nThe art of writing science. Plaxco KW, Prot. Sci. (2010).\nWhitesides’ Group: Writing a Paper. Whitesides GM, Adv. Mat. (2004).\nHow to write a first-class paper. Gewin V, Nature (2018).\nWriting readable prose: When planning a scientific manuscript, following a few simple rules has a large impact. Bredan AS & van Roy F, EMBO Rep. (2006).\nTen simple rules for structuring papers Mensh B & Kording K, PLoS Comp Biol. (2017).\nWrite accessibly Editors, Nat Biomed Eng. (2021).\nTen simple rules for scientists engaging in science communication\nScience communication in experimental biology: experiences and recommendations\n\n\n\n\n\nScience Integrity Digest Bik E\nBrookes Lab Brookes P. Sample Post focused on “Fake Data”\nPubPeer: The Online Journal Club\nFor Better Science Schneider L\nRetraction Watch\nAutomatic detection of image manipulations in the biomedical literature Bucci EM, Cell Death and Disease (2018).\nLearning to identify image manipulations in scientific publications Mazaheri G et al., arXiv (2021).\nPublishing ethics in the era of paper mills Hackett R and Kelly S, Biol Open (2020).\n\n\n\n\n\nTools for better thinking\nHow to choose the right thinking tool\nStrategies for Disciplined Choice Making"
+  },
+  {
+    "objectID": "research/reading_stem.html#best-practices",
+    "href": "research/reading_stem.html#best-practices",
+    "title": "Recommended Readings (STEM)",
+    "section": "",
+    "text": "How to succeed in science: a concise guide for young biomedical scientists. Part I: taking the plunge. Yewdell JW, Nat Rev Mol Cell Biol. (2008).\nHow to succeed in science: a concise guide for young biomedical scientists. Part II: making discoveries. Yewdell JW, Nat Rev Mol Cell Biol. (2008).\nThe importance of stupidity in scientific research. Schwartz MA, J Cell Sci. (2008).\nUnskilled and unaware of it: how difficulties in recognizing one’s own incompetence lead to inflated self-assessments (Dunning-Kruger Effect). Kruger J and Dunning D, J Pers Soc Psychol. (1999).\nHow to choose a good scientific problem. Alon U, Mol Cell. (2009).\nPLOS “Ten Simple Rules” Collection provides a quick, concentrated guide for mastering some of the professional challenges research scientists face in their careers. PloS.\nResources for PhD Students Guillaume Dalle.\nPessimistic scientific articles by Abhishaike Mahajan\nThe Codon Guide to Synthetic Biology\nHow to Read a Scientific Paper\nHow To Read Scientific And Research Papers: Advice For Journalists"
+  },
+  {
+    "objectID": "research/reading_stem.html#challenges",
+    "href": "research/reading_stem.html#challenges",
+    "title": "Recommended Readings (STEM)",
+    "section": "",
+    "text": "The Emotional Toll of Graduate School. Puri P, Sci Am. (2019).\nPhDs: the tortuous truth. Woolston C, Nature (2019).\nWhy doing a PhD is often a waste of time The Economist, Medium (2016).\nThere’s an awful cost to getting a PhD that no one talks about Walker J, Quartz (2015).\nStrategies for Supporting Engineering Student Mental Health Wilson & Goldberg, CEE (2023).\nPrioritizing mental health and wellness in engineering S. Wilson, ASEE (2022)\nFalling behind: postdocs in their thirties tire of putting life on hold"
+  },
+  {
+    "objectID": "research/reading_stem.html#statistics",
+    "href": "research/reading_stem.html#statistics",
+    "title": "Recommended Readings (STEM)",
+    "section": "",
+    "text": "What exactly is ‘N’ in cell culture and animal experiments? Lazic SE et al., PloS Biol. (2018).\nSuperPlots: Communicating reproducibility and variability in cell biology. Lord SJ et al., J Cell Biol. (2020).\nTen common statistical mistakes to watch out for when writing or reviewing a manuscript. Makin TR et al. eLife (2019).\nBeyond bar and line graphs: time for a new data presentation paradigm. Weissgerber TL et al. PloS Biol. (2015).\nStatistical relevance—relevant statistics, part I. Klaus B EMBO J. (2015).\nStatistical relevance-relevant statistics, part II: presenting experimental data. Klaus B EMBO J. (2015).\nTen simple rules for getting started with statistics in graduate school Zitomer RA et al. PloS Comput Biol. (2022)."
+  },
+  {
+    "objectID": "research/reading_stem.html#writing",
+    "href": "research/reading_stem.html#writing",
+    "title": "Recommended Readings (STEM)",
+    "section": "",
+    "text": "ACS Guide to Scholarly Communication. ACS. (2020).\nThe art of writing science. Plaxco KW, Prot. Sci. (2010).\nWhitesides’ Group: Writing a Paper. Whitesides GM, Adv. Mat. (2004).\nHow to write a first-class paper. Gewin V, Nature (2018).\nWriting readable prose: When planning a scientific manuscript, following a few simple rules has a large impact. Bredan AS & van Roy F, EMBO Rep. (2006).\nTen simple rules for structuring papers Mensh B & Kording K, PLoS Comp Biol. (2017).\nWrite accessibly Editors, Nat Biomed Eng. (2021).\nTen simple rules for scientists engaging in science communication\nScience communication in experimental biology: experiences and recommendations"
+  },
+  {
+    "objectID": "research/reading_stem.html#science-integrity",
+    "href": "research/reading_stem.html#science-integrity",
+    "title": "Recommended Readings (STEM)",
+    "section": "",
+    "text": "Science Integrity Digest Bik E\nBrookes Lab Brookes P. Sample Post focused on “Fake Data”\nPubPeer: The Online Journal Club\nFor Better Science Schneider L\nRetraction Watch\nAutomatic detection of image manipulations in the biomedical literature Bucci EM, Cell Death and Disease (2018).\nLearning to identify image manipulations in scientific publications Mazaheri G et al., arXiv (2021).\nPublishing ethics in the era of paper mills Hackett R and Kelly S, Biol Open (2020)."
+  },
+  {
+    "objectID": "research/reading_stem.html#clear-thinking-and-better-decision-making",
+    "href": "research/reading_stem.html#clear-thinking-and-better-decision-making",
+    "title": "Recommended Readings (STEM)",
+    "section": "",
+    "text": "Tools for better thinking\nHow to choose the right thinking tool\nStrategies for Disciplined Choice Making"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Hello!",
     "section": "",
-    "text": "Hi there! Welcome to my teaching, training, and research website.\n\nTeaching\nThis is a repository for all my current teaching materials.\n\n\nTraining\nIn addition to university teaching, I am also a Certified Carpentries Instructor and a trainer with the Digital Research Academy. As a member of these organizations, my goal is to train learners on the basics of computational thinking and promote the use of open-source tools (such as R/Python) to solve data analysis and visualization problems.\nResources\n\n\nResearch Interests\n\nVascular Biology\nSports Performance Measurement and Analytics\nBiomedical Data Science Education for Low-Resource Settings\n\nResearch Website"
+    "text": "Hi there! Welcome to my teaching, training, and research website.\n\nTeaching\nThis is a repository for all my current teaching materials.\n\n\nTraining\nIn addition to university teaching, I am also a Certified Carpentries Instructor and a trainer with the Digital Research Academy. As a member of these organizations, my goal is to train learners on the basics of computational thinking and promote the use of open-source tools (such as R/Python) to solve data analysis and visualization problems.\nResources\n\n\nResearch Interests\n\nVascular Biology\nSports Performance Measurement and Analytics\nBiomedical Data Science Education for Low-Resource Settings\n\nDescription of Research Interests"
   },
   {
     "objectID": "courses/training/comp_thinking/comp_thinking.html#overall-goal",
@@ -567,74 +616,32 @@
     "text": "Discussion Questions\n\nWhere have you identified “expert blind spots” in your own teaching?\nHow can you reduce cognitive overload in the subjects that you teach?\nBased on what you have learnt, how will you structure your courses differently?"
   },
   {
-    "objectID": "reading_stem.html",
-    "href": "reading_stem.html",
-    "title": "Recommended Readings (STEM)",
-    "section": "",
-    "text": "This page contains a list of readings that I would recommend for upper-level undergraduate and graduate students getting started in STEM research. It includes articles focused on best practices, important research papers, and science integrity.\n\n\n\nHow to succeed in science: a concise guide for young biomedical scientists. Part I: taking the plunge. Yewdell JW, Nat Rev Mol Cell Biol. (2008).\nHow to succeed in science: a concise guide for young biomedical scientists. Part II: making discoveries. Yewdell JW, Nat Rev Mol Cell Biol. (2008).\nThe importance of stupidity in scientific research. Schwartz MA, J Cell Sci. (2008).\nUnskilled and unaware of it: how difficulties in recognizing one’s own incompetence lead to inflated self-assessments (Dunning-Kruger Effect). Kruger J and Dunning D, J Pers Soc Psychol. (1999).\nHow to choose a good scientific problem. Alon U, Mol Cell. (2009).\nPLOS “Ten Simple Rules” Collection provides a quick, concentrated guide for mastering some of the professional challenges research scientists face in their careers. PloS.\nResources for PhD Students Guillaume Dalle.\nPessimistic scientific articles by Abhishaike Mahajan\nThe Codon Guide to Synthetic Biology\nHow to Read a Scientific Paper\nHow To Read Scientific And Research Papers: Advice For Journalists\n\n\n\n\n\nThe Emotional Toll of Graduate School. Puri P, Sci Am. (2019).\nPhDs: the tortuous truth. Woolston C, Nature (2019).\nWhy doing a PhD is often a waste of time The Economist, Medium (2016).\nThere’s an awful cost to getting a PhD that no one talks about Walker J, Quartz (2015).\nStrategies for Supporting Engineering Student Mental Health Wilson & Goldberg, CEE (2023).\nPrioritizing mental health and wellness in engineering S. Wilson, ASEE (2022)\nFalling behind: postdocs in their thirties tire of putting life on hold\n\n\n\n\n\nA Programmable Dual-RNA-Guided DNA Endonuclease in Adaptive Bacterial Immunity Jinek et al., Science (2012) from the Doudna and Charpentier Lab\nInduction of pluripotent stem cells from mouse embryonic and adult fibroblast cultures by defined factors Takahashi et al., Cell (2006) from the Yamanaka Lab\nInduction of pluripotent stem cells from adult human fibroblasts by defined factors Takahashi et al., Cell (2006) from the Yamanaka Lab\nMatrix Elasticity Directs Stem Cell Lineage Specification Engler et al., Cell (2006) from the Discher Lab\n\n\n\n\n\nWhat exactly is ‘N’ in cell culture and animal experiments? Lazic SE et al., PloS Biol. (2018).\nSuperPlots: Communicating reproducibility and variability in cell biology. Lord SJ et al., J Cell Biol. (2020).\nTen common statistical mistakes to watch out for when writing or reviewing a manuscript. Makin TR et al. eLife (2019).\nBeyond bar and line graphs: time for a new data presentation paradigm. Weissgerber TL et al. PloS Biol. (2015).\nStatistical relevance—relevant statistics, part I. Klaus B EMBO J. (2015).\nStatistical relevance-relevant statistics, part II: presenting experimental data. Klaus B EMBO J. (2015).\nTen simple rules for getting started with statistics in graduate school Zitomer RA et al. PloS Comput Biol. (2022).\n\n\n\n\n\nACS Guide to Scholarly Communication. ACS. (2020).\nThe art of writing science. Plaxco KW, Prot. Sci. (2010).\nWhitesides’ Group: Writing a Paper. Whitesides GM, Adv. Mat. (2004).\nHow to write a first-class paper. Gewin V, Nature (2018).\nWriting readable prose: When planning a scientific manuscript, following a few simple rules has a large impact. Bredan AS & van Roy F, EMBO Rep. (2006).\nTen simple rules for structuring papers Mensh B & Kording K, PLoS Comp Biol. (2017).\nWrite accessibly Editors, Nat Biomed Eng. (2021).\nTen simple rules for scientists engaging in science communication\nScience communication in experimental biology: experiences and recommendations\n\n\n\n\n\nScience Integrity Digest Bik E\nBrookes Lab Brookes P. Sample Post focused on “Fake Data”\nPubPeer: The Online Journal Club\nFor Better Science Schneider L\nRetraction Watch\nAutomatic detection of image manipulations in the biomedical literature Bucci EM, Cell Death and Disease (2018).\nLearning to identify image manipulations in scientific publications Mazaheri G et al., arXiv (2021).\nPublishing ethics in the era of paper mills Hackett R and Kelly S, Biol Open (2020).\n\n\n\n\n\nTools for better thinking\nHow to choose the right thinking tool\nStrategies for Disciplined Choice Making"
+    "objectID": "research/journal_club.html#landmark-research-papers-in-biomedical-engineering-coming-soon",
+    "href": "research/journal_club.html#landmark-research-papers-in-biomedical-engineering-coming-soon",
+    "title": "Journal Club",
+    "section": "Landmark Research Papers in Biomedical Engineering (Coming Soon)",
+    "text": "Landmark Research Papers in Biomedical Engineering (Coming Soon)\n\nTissue Engineering and Regenerative Medicine\n\n\nBiomaterials\n\n\nDrug Delivery\n\n\nBiomechanics\n\n\nRehabilitation Engineering & Prosthetics\n\n\nNeural Engineering & Brain–Computer Interfaces\n\n\nBiomedical Signal Processing\n\n\nBioinstrumentation & Medical Devices\n\n\nPhysiology for Engineering\n\nA Programmable Dual-RNA-Guided DNA Endonuclease in Adaptive Bacterial Immunity Jinek et al., Science (2012) from the Doudna and Charpentier Lab\nInduction of pluripotent stem cells from mouse embryonic and adult fibroblast cultures by defined factors Takahashi et al., Cell (2006) from the Yamanaka Lab\nInduction of pluripotent stem cells from adult human fibroblasts by defined factors Takahashi et al., Cell (2006) from the Yamanaka Lab\nMatrix Elasticity Directs Stem Cell Lineage Specification Engler et al., Cell (2006) from the Discher Lab"
   },
   {
-    "objectID": "reading_stem.html#best-practices",
-    "href": "reading_stem.html#best-practices",
-    "title": "Recommended Readings (STEM)",
+    "objectID": "research/research_interests/sports_data_visualization.html",
+    "href": "research/research_interests/sports_data_visualization.html",
+    "title": "Sports Data Visualization",
     "section": "",
-    "text": "How to succeed in science: a concise guide for young biomedical scientists. Part I: taking the plunge. Yewdell JW, Nat Rev Mol Cell Biol. (2008).\nHow to succeed in science: a concise guide for young biomedical scientists. Part II: making discoveries. Yewdell JW, Nat Rev Mol Cell Biol. (2008).\nThe importance of stupidity in scientific research. Schwartz MA, J Cell Sci. (2008).\nUnskilled and unaware of it: how difficulties in recognizing one’s own incompetence lead to inflated self-assessments (Dunning-Kruger Effect). Kruger J and Dunning D, J Pers Soc Psychol. (1999).\nHow to choose a good scientific problem. Alon U, Mol Cell. (2009).\nPLOS “Ten Simple Rules” Collection provides a quick, concentrated guide for mastering some of the professional challenges research scientists face in their careers. PloS.\nResources for PhD Students Guillaume Dalle.\nPessimistic scientific articles by Abhishaike Mahajan\nThe Codon Guide to Synthetic Biology\nHow to Read a Scientific Paper\nHow To Read Scientific And Research Papers: Advice For Journalists"
+    "text": "Coming soon"
   },
   {
-    "objectID": "reading_stem.html#challenges",
-    "href": "reading_stem.html#challenges",
-    "title": "Recommended Readings (STEM)",
+    "objectID": "research/research_interests/sports_data_visualization.html#static",
+    "href": "research/research_interests/sports_data_visualization.html#static",
+    "title": "Sports Data Visualization",
     "section": "",
-    "text": "The Emotional Toll of Graduate School. Puri P, Sci Am. (2019).\nPhDs: the tortuous truth. Woolston C, Nature (2019).\nWhy doing a PhD is often a waste of time The Economist, Medium (2016).\nThere’s an awful cost to getting a PhD that no one talks about Walker J, Quartz (2015).\nStrategies for Supporting Engineering Student Mental Health Wilson & Goldberg, CEE (2023).\nPrioritizing mental health and wellness in engineering S. Wilson, ASEE (2022)\nFalling behind: postdocs in their thirties tire of putting life on hold"
+    "text": "Coming soon"
   },
   {
-    "objectID": "reading_stem.html#transformative-research-papers-in-biomedical-science-in-progress",
-    "href": "reading_stem.html#transformative-research-papers-in-biomedical-science-in-progress",
-    "title": "Recommended Readings (STEM)",
-    "section": "",
-    "text": "A Programmable Dual-RNA-Guided DNA Endonuclease in Adaptive Bacterial Immunity Jinek et al., Science (2012) from the Doudna and Charpentier Lab\nInduction of pluripotent stem cells from mouse embryonic and adult fibroblast cultures by defined factors Takahashi et al., Cell (2006) from the Yamanaka Lab\nInduction of pluripotent stem cells from adult human fibroblasts by defined factors Takahashi et al., Cell (2006) from the Yamanaka Lab\nMatrix Elasticity Directs Stem Cell Lineage Specification Engler et al., Cell (2006) from the Discher Lab"
-  },
-  {
-    "objectID": "reading_stem.html#statistics",
-    "href": "reading_stem.html#statistics",
-    "title": "Recommended Readings (STEM)",
-    "section": "",
-    "text": "What exactly is ‘N’ in cell culture and animal experiments? Lazic SE et al., PloS Biol. (2018).\nSuperPlots: Communicating reproducibility and variability in cell biology. Lord SJ et al., J Cell Biol. (2020).\nTen common statistical mistakes to watch out for when writing or reviewing a manuscript. Makin TR et al. eLife (2019).\nBeyond bar and line graphs: time for a new data presentation paradigm. Weissgerber TL et al. PloS Biol. (2015).\nStatistical relevance—relevant statistics, part I. Klaus B EMBO J. (2015).\nStatistical relevance-relevant statistics, part II: presenting experimental data. Klaus B EMBO J. (2015).\nTen simple rules for getting started with statistics in graduate school Zitomer RA et al. PloS Comput Biol. (2022)."
-  },
-  {
-    "objectID": "reading_stem.html#writing",
-    "href": "reading_stem.html#writing",
-    "title": "Recommended Readings (STEM)",
-    "section": "",
-    "text": "ACS Guide to Scholarly Communication. ACS. (2020).\nThe art of writing science. Plaxco KW, Prot. Sci. (2010).\nWhitesides’ Group: Writing a Paper. Whitesides GM, Adv. Mat. (2004).\nHow to write a first-class paper. Gewin V, Nature (2018).\nWriting readable prose: When planning a scientific manuscript, following a few simple rules has a large impact. Bredan AS & van Roy F, EMBO Rep. (2006).\nTen simple rules for structuring papers Mensh B & Kording K, PLoS Comp Biol. (2017).\nWrite accessibly Editors, Nat Biomed Eng. (2021).\nTen simple rules for scientists engaging in science communication\nScience communication in experimental biology: experiences and recommendations"
-  },
-  {
-    "objectID": "reading_stem.html#science-integrity",
-    "href": "reading_stem.html#science-integrity",
-    "title": "Recommended Readings (STEM)",
-    "section": "",
-    "text": "Science Integrity Digest Bik E\nBrookes Lab Brookes P. Sample Post focused on “Fake Data”\nPubPeer: The Online Journal Club\nFor Better Science Schneider L\nRetraction Watch\nAutomatic detection of image manipulations in the biomedical literature Bucci EM, Cell Death and Disease (2018).\nLearning to identify image manipulations in scientific publications Mazaheri G et al., arXiv (2021).\nPublishing ethics in the era of paper mills Hackett R and Kelly S, Biol Open (2020)."
-  },
-  {
-    "objectID": "reading_stem.html#clear-thinking-and-better-decision-making",
-    "href": "reading_stem.html#clear-thinking-and-better-decision-making",
-    "title": "Recommended Readings (STEM)",
-    "section": "",
-    "text": "Tools for better thinking\nHow to choose the right thinking tool\nStrategies for Disciplined Choice Making"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "Google Scholar\n\nVascular Biology\n\nVascular Tissue Engineering\nEndothelial Cell Mechanobiology\n\nSports Performance Measurement and Analytics\n\nRunning Physiology\nSports Data Analysis Visualization (Samples)\n\nBiomedical Data Science Education for Low-Resource Settings\n\nLow-Cost and Accessible Biomedical Data Science Curricula\nInfrastructure-Light Training Platforms for Biomedical Data Science"
-  },
-  {
-    "objectID": "research.html#research-interests",
-    "href": "research.html#research-interests",
-    "title": "Research",
-    "section": "",
-    "text": "Google Scholar\n\nVascular Biology\n\nVascular Tissue Engineering\nEndothelial Cell Mechanobiology\n\nSports Performance Measurement and Analytics\n\nRunning Physiology\nSports Data Analysis Visualization (Samples)\n\nBiomedical Data Science Education for Low-Resource Settings\n\nLow-Cost and Accessible Biomedical Data Science Curricula\nInfrastructure-Light Training Platforms for Biomedical Data Science"
+    "objectID": "research/research_interests/sports_data_visualization.html#dynamic",
+    "href": "research/research_interests/sports_data_visualization.html#dynamic",
+    "title": "Sports Data Visualization",
+    "section": "Dynamic",
+    "text": "Dynamic\n\nA: African Football Legends (1990 - Present)"
   },
   {
     "objectID": "teaching.html",
