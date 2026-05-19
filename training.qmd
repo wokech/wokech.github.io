@@ -16,8 +16,8 @@ Sign up for my free email course!
 
 Also, you can review the accompanying book (*Click on cover image to access the book*).
 
-:::{}
-[![](courses/training/free_ebooks/Cover_R4NP.png){width=20% fig-align="left"}](https://wokech.github.io/r4novice/)
+::: {}
+[![](courses/training/free_ebooks/Cover_R4NP.png){width="20%" fig-align="left"}](https://wokech.github.io/r4novice/)
 :::
 
 ## Engineering Education

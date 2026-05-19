@@ -23,13 +23,24 @@ website:
           - text: Journal Club
             href: research/journal_club.qmd
 
+#  cookie-consent:
+#    type: express
+#    style: headline
+#    palette: dark
+  google-analytics:
+    tracking-id: "G-R9QVZ0JZBJ"
+    anonymize-ip: true
+  page-footer:
+    left: "Website made using [Quarto](https://quarto.org/), by William Okech. License: [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)"
+
+
 format:
   html:
     theme:
       - cosmo
       - brand
     css: styles.css
-    toc: true
+    lightbox: true
 
 editor: visual
 
