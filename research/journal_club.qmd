@@ -31,8 +31,15 @@ toc: true
 
 ### Bioinstrumentation & Medical Devices
 
-### Physiology for Engineering
+### Biomedical Imaging and Optics
+
+### Physiology for Engineers
 
 ### Synthetic Biology and Genetic Engineering
 
 1) [A Programmable Dual-RNA-Guided DNA Endonuclease in Adaptive Bacterial Immunity](https://www.science.org/doi/10.1126/science.1225829) Jinek et al., Science (2012) 
+
+### Ethics
+
+### Profesional Skills in Biomedical Engineering
+
