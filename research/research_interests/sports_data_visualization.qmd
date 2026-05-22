@@ -10,35 +10,59 @@ toc: true
 
 ### A. Analysis of African Players in the top 5 European Leagues
 
-::: {.grid}
-::: {.g-col-4}
+:::::::::: grid
+::: g-col-4
 ![Fig. 1: Number of minutes played by Africans in Top 5 European Leagues](../../research/research_interests/sample_static_viz/1.png){group="my-gallery"}
 :::
 
-::: {.g-col-4}
+::: g-col-4
 ![Fig. 2: Number of Africans playing in the Top 5 European Leagues](../../research/research_interests/sample_static_viz/2.png){group="my-gallery"}
 :::
 
-::: {.g-col-4}
+::: g-col-4
 ![Fig. 3: Number of minutes played per African player in Top 5 European Leagues](../../research/research_interests/sample_static_viz/3.png){group="my-gallery"}
 :::
 
-::: {.g-col-4}
+::: g-col-4
 ![Fig. 4: Relationship between number of minutes played by Africans in Top 5 European Leagues and FIFA Ranking](../../research/research_interests/sample_static_viz/4.png){group="my-gallery"}
 :::
 
-::: {.g-col-4}
+::: g-col-4
 ![Fig. 5: Relationship between number of African players in Top 5 European Leagues and FIFA Ranking](../../research/research_interests/sample_static_viz/5.png){group="my-gallery"}
 :::
 
-::: {.g-col-4}
+::: g-col-4
 ![Fig. 6: Relationship between number of minutes played per African players in Top 5 European Leagues and FIFA Ranking](../../research/research_interests/sample_static_viz/6.png){group="my-gallery"}
 :::
 
-::: {.g-col-4}
-![Fig. 7: Best Season for Selected African players in Top 5 European Leagues](../../research/research_interests/sample_static_viz/7.png){group="my-gallery"}
+::: g-col-4
+![Fig. 7: Best\* Season for Selected African Players in Top 5 European Leagues. *Best = highest goals (minus penalty kicks) + assists*](../../research/research_interests/sample_static_viz/7.png){group="my-gallery"}
 :::
+::::::::::
+
+### B. Global FIFA Rankings vs Average Player Values
+
+:::: grid
+::: g-col-4
+![Fig. 1: Analysis of the relationship between average player value (Euros) and FIFA ranking. Data Source: transfermarkt | FIFA](../../research/research_interests/sample_static_viz_2/4.png)
 :::
+::::
+
+### C. East vs West: Analysis of FIFA Ranking and Player Values in Africa
+
+:::::: grid
+::: g-col-4
+![Fig. 1: Average player value is correlated with FIFA ranking in East and West Africa. Data Source: transfermarkt | FIFA](../../research/research_interests/sample_static_viz_2/1.png){group="my-gallery2"}
+:::
+
+::: g-col-4
+![Fig. 2: Top player market value is correlated with FIFA ranking. Data Source: transfermarkt | FIFA](../../research/research_interests/sample_static_viz_2/2.png){group="my-gallery2"}
+:::
+
+::: g-col-4
+![Fig. 3: Top players in West Africa have higher market values compared to East Africa. Data Source: transfermarkt](../../research/research_interests/sample_static_viz_2/3.png){group="my-gallery2"}
+:::
+::::::
 
 ## Dynamic (In Progress)
 

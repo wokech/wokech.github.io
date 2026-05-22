@@ -1,0 +1,142 @@
+---
+title: "Relevant Journals for Journal Club"
+format: html
+toc: true
+---
+
+## Biomedical Engineering (General)
+
+1)  [Nature Biomedical Engineering](https://www.nature.com/natbiomedeng/)
+2)  [Nature Reviews Bioengineering](https://www.nature.com/natrevbioeng/)
+3)  [IEEE Reviews in Biomedical Engineering](https://www.embs.org/rbme/)
+4)  [Annual Review of Biomedical Engineering](https://www.annualreviews.org/content/journals/bioeng)
+5)  [Annals of Biomedical Engineering](https://link.springer.com/journal/10439)
+6)  [BioMedical Engineering OnLine](https://link.springer.com/journal/12938)
+7)  [Bioengineering](https://www.mdpi.com/journal/bioengineering)
+8)  [IEEE Transactions on Biomedical Engineering](https://www.embs.org/tbme/)
+9)  [Medical Engineering & Physics](https://iopscience.iop.org/journal/1873-4030)
+
+## Tissue Engineering and Regenerative Medicine
+
+1)  [Biofabrication](https://iopscience.iop.org/journal/1758-5090)
+2)  [Stem Cell Research & Therapy](https://link.springer.com/journal/13287)
+3)  [Tissue Engineering and Regenerative Medicine](https://link.springer.com/journal/13770)
+4)  [Journal of Tissue Engineering and Regenerative Medicine](https://onlinelibrary.wiley.com/journal/jterm)
+5)  [Tissue Engineering Part A: Research Advances](https://journals.sagepub.com/home/teaa)
+6)  [Tissue Engineering Part B: Reviews](https://journals.sagepub.com/home/teba)
+7)  [Tissue Engineering Part C: Methods](https://journals.sagepub.com/home/tena)
+
+## Biomaterials
+
+1)  [Biomaterials](https://www.sciencedirect.com/journal/biomaterials)
+2)  [Biomaterials Research](https://spj.science.org/journal/bmr)
+3)  [Advanced Healthcare Materials](https://advanced.onlinelibrary.wiley.com/journal/21922659)
+4)  [Acta Biomaterialia](https://www.sciencedirect.com/journal/acta-biomaterialia)
+5)  [Materials Today Bio](https://www.sciencedirect.com/journal/materials-today-bio)
+
+## Drug Delivery
+
+1)  [Advanced Drug Delivery Reviews](https://www.sciencedirect.com/journal/advanced-drug-delivery-reviews)
+2)  [Drug Delivery](https://www.tandfonline.com/journals/idrd20)
+3)  [Journal of Drug Delivery Science and Technology](https://www.sciencedirect.com/journal/journal-of-drug-delivery-science-and-technology)
+4)  [Expert Opinion on Drug Delivery](https://www.tandfonline.com/journals/iedd20)
+5)  [Drug Delivery and Translational Research](https://link.springer.com/journal/13346)
+6)  [Journal of Controlled Release](https://www.sciencedirect.com/journal/journal-of-controlled-release)
+7)  [The AAPS Journal](https://link.springer.com/journal/12248)
+
+## Biomechanics
+
+1)  [Journal of Biomechanics](https://www.sciencedirect.com/journal/journal-of-biomechanics)
+2)  [Journal of Biomechanical Engineering](https://asmedigitalcollection.asme.org/biomechanical)
+3)  [Clinical Biomechanics](https://www.sciencedirect.com/journal/clinical-biomechanics)
+4)  [Gait & Posture](https://www.sciencedirect.com/journal/gait-and-posture)
+5)  [Journal of Electromyography and Kinesiology](https://www.sciencedirect.com/journal/journal-of-electromyography-and-kinesiology)
+6)  [Journal of Applied Biomechanics](https://journals.humankinetics.com/view/journals/jab/jab-overview.xml)
+7)  [Computer Methods in Biomechanics and Biomedical Engineering](https://www.tandfonline.com/toc/gcmb20/current)
+8)  [Biomechanics and Modeling in Mechanobiology](https://link.springer.com/journal/10237)
+
+## Rehabilitation Engineering & Prosthetics
+
+1)  [IEEE Transactions on Neural Systems and Rehabilitation Engineering](https://www.embs.org/tnsre/)
+2)  [Journal of NeuroEngineering and Rehabilitation](https://link.springer.com/journal/12984)
+3)  [Disability and Rehabilitation](https://www.tandfonline.com/journals/idre20)
+4)  [Archives of Physical Medicine and Rehabilitation](https://www.archives-pmr.org/)
+5)  [Clinical Rehabilitation](https://journals.sagepub.com/home/CRE)
+6)  [Journal of Prosthetics and Orthotics](https://journals.lww.com/jpojournal/pages/default.aspx)
+7)  [Journal of Neural Engineering](https://iopscience.iop.org/journal/1741-2552)
+
+## Biomedical Instrumentation, Signal Processing, and Medical Devices
+
+1)  [Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control)
+2)  [Computer Methods and Programs in Biomedicine](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine)
+3)  [The IEEE Journal of Biomedical And Health Informatics](https://www.embs.org/jbhi/)
+4)  [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)
+5)  [Medical & Biological Engineering & Computing](https://link.springer.com/journal/11517)
+6)  [Journal of Medical Devices](https://asmedigitalcollection.asme.org/medicaldevices)
+7)  [Medical Devices: Evidence and Research](https://www.tandfonline.com/journals/dmde20)
+8)  [IEEE Sensors Journal](https://ieee-sensors.org/ieee-sensors-journal/)
+
+## Biosensors
+
+1)  [Biosensors and Bioelectronics](https://www.sciencedirect.com/journal/biosensors-and-bioelectronics)
+2)  [ACS Sensors](https://pubs.acs.org/journal/ascefj)
+3)  [Biosensors](https://www.mdpi.com/journal/biosensors)
+4)  [npj Flexible Electronics](https://www.nature.com/npjflexelectron/)
+5)  [Sensors and Actuators B: Chemical](https://www.sciencedirect.com/journal/sensors-and-actuators-b-chemical)
+
+## Biomedical Imaging and Optics
+
+1)  [Medical Image Analysis](https://www.sciencedirect.com/journal/medical-image-analysis)
+2)  [IEEE Transactions on Medical Imaging](https://ieeetmi.org/)
+3)  [Journal of Biomedical Optics](https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics)
+4)  [Biomedical Optics Express](https://opg.optica.org/boe/home.cfm)
+5)  [Computerized Medical Imaging and Graphics](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics)
+6)  [RSNA - Radiology](https://pubs.rsna.org/journal/radiology)
+7)  [Journal of Magnetic Resonance Imaging](https://onlinelibrary.wiley.com/journal/15222586)
+
+## Physiology for Engineers
+
+1)  [Annual Review of Physiology](https://www.annualreviews.org/content/journals/physiol)
+2)  [The Journal of Physiology](https://physoc.onlinelibrary.wiley.com/journal/14697793)
+3)  [Journal of Experimental Biology](https://journals.biologists.com/jeb)
+4)  [Progress in Biophysics and Molecular Biology](https://www.sciencedirect.com/journal/progress-in-biophysics-and-molecular-biology)
+5)  [European Journal of Applied Physiology](https://link.springer.com/journal/421)
+6)  [Physiological Reports](https://physoc.onlinelibrary.wiley.com/journal/2051817x)
+7)  [Journal of Applied Physiology](https://journals.physiology.org/journal/jappl)
+
+## Synthetic Biology and Genetic Engineering
+
+1)  [Nature Biotechnology](https://www.nature.com/nbt/)
+2)  [ACS Synthetic Biology](https://pubs.acs.org/journal/asbcd6)
+3)  [Synthetic Biology](https://academic.oup.com/synbio)
+4)  [Biotechnology and Bioengineering](https://analyticalsciencejournals.onlinelibrary.wiley.com/journal/10970290)
+5)  [Current Opinion in Biotechnology](https://www.sciencedirect.com/journal/current-opinion-in-biotechnology)
+
+## Computational Biology and Bioinformatics
+
+1)  [Bioinformatics](https://academic.oup.com/bioinformatics)
+2)  [Briefings in Bioinformatics](https://academic.oup.com/bib)
+3)  [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/)
+4)  [BMC Bioinformatics](https://link.springer.com/journal/12859)
+5)  [IEEE/ACM Transactions on Computational Biology and Bioinformatics](https://dl.acm.org/journal/tcbb)
+6)  [Bioinformatics Advances](https://academic.oup.com/bioinformaticsadvances)
+7)  [JAMIA Open](https://academic.oup.com/jamiaopen)
+8)  [Journal of the American Medical Informatics Association](https://academic.oup.com/jamia)
+
+## Medical/Healthcare AI
+
+1)  [Nature Medicine](https://www.nature.com/nm/)
+2)  [The Lancet Digital Health](https://www.thelancet.com/journals/landig/home)
+3)  [NEJM AI](https://ai.nejm.org/)
+4)  [npj Digital Medicine](https://www.nature.com/npjdigitalmed/)
+5)  [JAMIA](https://academic.oup.com/jamia)
+6)  [Artificial Intelligence in Medicine](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine)
+7)  [Journal of Pathology Informatics](https://www.sciencedirect.com/journal/journal-of-pathology-informatics)
+
+## Microscopy and Image Analysis
+
+1)  [Journal of Microscopy](https://onlinelibrary.wiley.com/journal/13652818)
+2)  [Microscopy and Microanalysis](https://academic.oup.com/mam)
+3)  [Microscopy Today](https://academic.oup.com/mt)
+4)  [Microscopy Research and Technique](https://analyticalsciencejournals.onlinelibrary.wiley.com/journal/10970029)
+5)  [Ultramicroscopy](https://www.sciencedirect.com/journal/ultramicroscopy)

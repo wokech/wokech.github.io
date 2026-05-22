@@ -1,0 +1,146 @@
+---
+title: "Foundational and Milestone Papers"
+format: html
+toc: true
+---
+
+## Tissue Engineering and Regenerative Medicine
+
+1)  Langer et al. (1993). [Tissue Engineering](https://www.science.org/doi/10.1126/science.8493529). *Science*.
+2)  Vacanti et al. (1999). [Tissue engineering: the design and fabrication of living replacement devices for surgical reconstruction and transplantation](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(99)90247-7/fulltext). *Lancet*.
+3)  Takahashi et al. (2006). [Induction of pluripotent stem cells from mouse embryonic and adult fibroblast cultures by defined factors](https://www.cell.com/cell/fulltext/S0092-8674(06)00976-7). *Cell*.
+4)  Takahashi et al. (2006). [Induction of pluripotent stem cells from adult human fibroblasts by defined factors](https://www.cell.com/cell/fulltext/S0092-8674(07)01471-7). *Cell*.
+5)  Atala et al. (2006). [Tissue-engineered autologous bladders for patients needing cystoplasty](https://www.sciencedirect.com/science/article/abs/pii/S0140673606684389). *Lancet*.
+6)  Lancaster et al. (2014). [Generation of cerebral organoids from human pluripotent stem cells](https://www.nature.com/articles/nprot.2014.158). *Nature Protocols*.
+
+## Biomaterials
+
+1)  Hench et al. (1971). [Bonding mechanisms at the interface of ceramic prosthetic materials](https://onlinelibrary.wiley.com/doi/10.1002/jbm.820050611). *Journal of Biomedical Materials Research*.
+2)  Vacanti et al. (1988). [Selective cell transplantation using bioabsorbable artificial polymers as matrices](https://www.sciencedirect.com/science/article/abs/pii/S0022346888805293). *J Pediatric Surgery*.
+3)  Lutolf et al. (2005). [Synthetic biomaterials as instructive extracellular microenvironments for morphogenesis in tissue engineering](https://www.nature.com/articles/nbt1055). *Nature Biotechnology*.
+4)  Discher et al. (2005). [Tissue Cells Feel and Respond to the Stiffness of Their Substrate](https://www.science.org/doi/10.1126/science.1116995). *Science*.
+5)  Engler et al. (2006). [Matrix Elasticity Directs Stem Cell Lineage Specification](https://www.sciencedirect.com/science/article/pii/S0092867406009615). *Cell*.
+6)  Li et al. (2023). [Suppression of cytokine release syndrome during CAR-T-cell therapy via a subcutaneously injected interleukin-6-adsorbing hydrogel](https://www.nature.com/articles/s41551-023-01084-4). *Nature Biomedical Engineering*.
+
+## Drug Delivery
+
+1)  Folkman et al. (1964). [The use of silicone rubber as a carrier for prolonged drug therapy](https://www.sciencedirect.com/science/article/abs/pii/S0022480464800408#aep-article-footnote-id2). *Journal of Surgical Research*.
+2)  Langer et al. (1976). [Polymers for the sustained release of proteins and other macromolecules](https://www.nature.com/articles/263797a0). *Nature*.
+3)  Langer (1990). [New methods of drug delivery](https://www.science.org/doi/10.1126/science.2218494). *Science*.
+4)  Li et al. (2016). [Designing hydrogels for controlled drug delivery](https://www.nature.com/articles/natrevmats201671). *Nature Reviews Materials*.
+
+## Biomechanics
+
+1)  Hill (1938). [The heat of shortening and the dynamic constants of muscle](https://royalsocietypublishing.org/rspb/article/126/843/136/29289/The-heat-of-shortening-and-the-dynamic-constants). *Proc Biol Sci*.
+2) Fung (1967). [Elasticity of soft tissues in simple elongation](https://journals.physiology.org/doi/abs/10.1152/ajplegacy.1967.213.6.1532). *J Physiology*.
+3)  Mow et al. (1980). [Biphasic Creep and Stress Relaxation of Articular Cartilage in Compression: Theory and Experiments](https://asmedigitalcollection.asme.org/biomechanical/article-abstract/102/1/73/416832/Biphasic-Creep-and-Stress-Relaxation-of-Articular). *J Biomech Eng*.
+4) Dewey Jr. et al (1981) [The Dynamic Response of Vascular Endothelial Cells to Fluid Shear Stress](https://asmedigitalcollection.asme.org/biomechanical/article-abstract/103/3/177/428117/The-Dynamic-Response-of-Vascular-Endothelial-Cells). *J Biomech Eng*.
+5)  Guharay and Sachs (1984). [Stretch-activated single ion channel currents in tissue-cultured embryonic chick skeletal muscle.](https://physoc.onlinelibrary.wiley.com/doi/abs/10.1113/jphysiol.1984.sp015317). *J Physiology*.
+6)  Ku et al (1985). [Pulsatile flow and atherosclerosis in the human carotid bifurcation. Positive correlation between plaque location and low oscillating shear stress](https://www.ahajournals.org/doi/10.1161/01.ATV.5.3.293). *Arteriosclerosis, Thrombosis, and Vascular Biology*.
+7)  Wang et al. (1993). [Mechanotransduction Across the Cell Surface and Through the Cytoskeleton](https://www.science.org/doi/10.1126/science.7684161). *Science*.
+8)  Ingber (1993). [Cellular tensegrity: defining new rules of biological design that govern the cytoskeleton](https://journals.biologists.com/jcs/article-abstract/104/3/613/23578/Cellular-tensegrity-defining-new-rules-of). *J Cell Science*.
+9)  Dembo and Wang (1999). [Stresses at the Cell-to-Substrate Interface during Locomotion of Fibroblasts](https://www.cell.com/biophysj/fulltext/S0006-3495(99)77386-8). *Biophysics Journal*.
+10) Paszek et al. (2005). [Tensional homeostasis and the malignant phenotype](https://www.cell.com/cancer-cell/fulltext/S1535-6108(05)00268-0). *Cancer Cell*.
+11)  Taylor et al. (2009). [Patient-Specific Modeling of Cardiovascular Mechanics](https://www.annualreviews.org/content/journals/10.1146/annurev.bioeng.10.061807.160521). *Ann Rev Biomed Eng*.
+12) Dupont et al. (2011). [Role of YAP/TAZ in mechanotransduction](https://www.nature.com/articles/nature10137). *Nature*.
+13)  Humphrey et al. (2021). [Vascular Mechanobiology: Homeostasis, Adaptation, and Disease](https://www.annualreviews.org/content/journals/10.1146/annurev-bioeng-092419-060810). *Ann Rev Biomed Eng*.
+
+## Rehabilitation Engineering & Prosthetics
+
+1)  House et al. (1993). [Long Term Results of Electrode Implantation and Electronic Stimulation of the Cochlea in Man](https://journals.sagepub.com/doi/10.1177/000348947308200408). *Annals of Otology, Rhinology & Laryngology*.
+2)  Nicolelis et al. (2001). [Actions from thoughts](https://www.nature.com/articles/35053191). *Nature*.
+3)  Ferris et al. (2005). [Powered Lower Limb Orthoses for Gait Rehabilitation](https://tscir.kglmeridian.com/view/journals/tscr/11/2/article-p34.xml). *Topics in Spinal Cord Rehabilitation*.
+4)  Hochberg et al. (2006). [Neuronal ensemble control of prosthetic devices by a human with tetraplegia](https://www.nature.com/articles/nature04970). *Nature*.
+5)  Velliste et al. (2008). [Cortical control of a prosthetic arm for self-feeding](https://www.nature.com/articles/nature06996). *Nature*.
+6)  Kuiken et al. (2009). [Targeted muscle reinnervation for real-time myoelectric control of multifunction artificial arms](https://jamanetwork.com/journals/jama/fullarticle/183371). *JAMA*.
+7)  Musk et al. (2019). [An Integrated Brain-Machine Interface Platform With Thousands of Channels](https://www.jmir.org/2019/10/e16194/). *J Med Internet Res*.
+8)  Park et al. (2024). [In-vivo integration of soft neural probes through high-resolution printing of liquid electronics on the cranium](https://www.nature.com/articles/s41467-024-45768-0). *Nature Communications*.
+
+## Biomedical Instrumentation, Signal Processing, and Medical Devices
+
+1) Chardack et al. (1960). [A transistorized, self-contained, implantable pacemaker for the long-term correction of complete heart block](https://pubmed.ncbi.nlm.nih.gov/13692461/). *Surgery*.
+2) Sutton et al. (1965). [Evoked-Potential Correlates of Stimulus Uncertainty](https://www.science.org/doi/10.1126/science.150.3700.1187). *Science*.
+3) Bruner (1969). [Hazards of Electrical Apparatus](https://journals.lww.com/anesthesiology/citation/1967/03000/hazards_of_electrical_apparatus.23.aspx). *Anesthesiology*.
+4) Akselrod et al. (1981). [Power Spectrum Analysis of Heart Rate Fluctuation: A Quantitative Probe of Beat-to-Beat Cardiovascular Control](https://www.science.org/doi/10.1126/science.6166045). *Science*.
+5) Winter and Webster (1983). [Reduction of Interference Due to Common Mode Voltage in Biopotential Amplifiers](https://ieeexplore.ieee.org/document/4121503). *IEEE Transactions on Biomedical Engineering*.
+6)  Pan et al. (1985). [A Real-Time QRS Detection Algorithm](https://ieeexplore.ieee.org/document/4122029). *IEEE Transactions on Biomedical Engineering*.
+7) Mallat (1989). [A theory for multiresolution signal decomposition: the wavelet representation](https://ieeexplore.ieee.org/document/192463). *IEEE Transactions on Pattern Analysis and Machine Intelligence*.
+8)  Krishnan et al. (2022). [Continuous, noninvasive wireless monitoring of flow of cerebrospinal fluid through shunts in patients with hydrocephalus](https://www.nature.com/articles/s41746-020-0239-1). *npj Digital Medicine*.
+9)  Chen et al. (2022). [A wireless millimetric magnetoelectric implant for the endovascular stimulation of peripheral nerves](https://www.nature.com/articles/s41551-022-00873-7). *Nature Biomedical Engineering*.
+
+## Biosensors
+
+1)  Clark Jr. et al (1962). [Electrode Systems for Continuous Monitoring in Cardiovascular Surgery](https://nyaspubs.onlinelibrary.wiley.com/doi/10.1111/j.1749-6632.1962.tb13623.x). *Ann NYAS*.
+2)  Updike and Hicks. (1967). [The Enzyme Electrode](https://www.nature.com/articles/214986a0). *Nature*.
+3)  Ellington and Szostak (1990). [In vitro selection of RNA molecules that bind specific ligands](https://www.nature.com/articles/346818a0). *Nature*.
+4)  Thévenot et al. (2001). [Electrochemical biosensors: recommended definitions and classification](https://www.sciencedirect.com/science/article/abs/pii/S0956566301001154). \*\*.
+5)  Gootenberg et al. (2017). [Nucleic acid detection with CRISPR-Cas13a/C2c2](https://www.science.org/doi/10.1126/science.aam9321). *Science*.
+6)  Chen et al. (2018). [CRISPR-Cas12a target binding unleashes indiscriminate single-stranded DNase activity](https://www.science.org/doi/10.1126/science.aar6245). *Science*.
+7)  Dervisevic et al. (2025). [High-density microneedle array-based wearable electrochemical biosensor for detection of insulin in interstitial fluid](https://www.sciencedirect.com/science/article/pii/S0956566324010029). *Biosensors and Bioelectronics*.
+
+## Biomedical Imaging and Optics
+
+1)  Ogawa et al. (1990). [Brain magnetic resonance imaging with contrast dependent on blood oxygenation](https://www.pnas.org/doi/10.1073/pnas.87.24.9868). *PNAS*.
+2)  Puppels et al. (1990). [Studying single living cells and chromosomes by confocal Raman microspectroscopy](https://www.nature.com/articles/347301a0). *Nature*.
+3)  Huang et al. (1991). [Optical Coherence Tomography](https://www.science.org/doi/10.1126/science.1957169). *Science*.
+4)  Weissleder and Ntziachristos (2003). [Shedding light onto live molecular targets](https://www.nature.com/articles/nm0103-123). *Nature Medicine*.
+5)  Contag and Bachmann (2002). [Advances in In Vivo Bioluminescence Imaging of Gene Expression](https://www.annualreviews.org/content/journals/10.1146/annurev.bioeng.4.111901.093336). *Annual Review of Biomedical Engineering*.
+6)  Litjens et al. (2017). [A survey on deep learning in medical image analysis](https://www.sciencedirect.com/science/article/abs/pii/S1361841517301135). *Medical Image Analysis*.
+
+## Microscopy and Image Analysis
+
+1)  Marton (1934). [Electron Microscopy of Biological Objects](https://www.nature.com/articles/133911b0). *Nature*.
+2)  Coons et al. (1942). [The Demonstration of Pneumococcal Antigen in Tissues by the Use of Fluorescent Antibody](https://academic.oup.com/jimmunol/article-abstract/45/3/159/8106865). *The Journal of Immunology*.
+3)  Oatley et al. (1966). [Scanning Electron Microscopy](https://www.sciencedirect.com/science/chapter/bookseries/abs/pii/S0065253908610100). *Advances in Electronics and Electron Physics*.
+4)  Davidovits and Egger (1971). [Scanning Laser Microscope for Biological Investigations](https://opg.optica.org/ao/abstract.cfm?URI=ao-10-7-1615). *Appl. Opt.*.
+5)  Axelrod et al. (1976). [Mobility measurement by analysis of fluorescence photobleaching recovery kinetics](https://pmc.ncbi.nlm.nih.gov/articles/PMC1334945/). *Biophysics Journal*.
+6)  Denk et al. (1990). [Two-Photon Laser Scanning Fluorescence Microscopy](https://www.science.org/doi/10.1126/science.2321027). *Science*.
+7)  Chalfie et al. (1994). [Green Fluorescent Protein as a Marker for Gene Expression](https://www.science.org/doi/10.1126/science.8303295). *Science*.
+8)  Hell and Wichmann (1994). [Breaking the diffraction resolution limit by stimulated emission: stimulated-emission-depletion fluorescence microscopy](https://pubmed.ncbi.nlm.nih.gov/19844443/). *Opt Lett*.
+9)  Huisken et al. (2004). [Optical Sectioning Deep Inside Live Embryos by Selective Plane Illumination Microscopy](https://www.science.org/doi/10.1126/science.1100035). *Science*.
+10) Chen et al. (2015). [Expansion microscopy](https://www.science.org/doi/10.1126/science.1260088). *Science*.
+11) Weigert et al. (2018). [Content-aware image restoration: pushing the limits of fluorescence microscopy](https://www.nature.com/articles/s41592-018-0216-7). *Nature Methods*.
+
+## Physiology for Engineers
+
+1)  Hodgkin and Huxley (1952). [A quantitative description of membrane current and its application to conduction and excitation in nerve](https://physoc.onlinelibrary.wiley.com/doi/10.1113/jphysiol.1952.sp004764). *J Physiol*.
+2)  Womersley et al. (1955). [Method for the calculation of velocity, rate of flow and viscous drag in arteries when the pressure gradient is known](https://physoc.onlinelibrary.wiley.com/doi/abs/10.1113/jphysiol.1955.sp005276). *J Physiol*.
+3)  Merrill et al. (2005). [Electrical stimulation of excitable tissue: design of efficacious and safe protocols](https://www.sciencedirect.com/science/article/abs/pii/S0165027004003826). *Journal of Neuroscience Methods*.
+4)  Nicolelis et al. (2009). [Principles of neural ensemble physiology underlying the operation of brain-machine interfaces](https://www.nature.com/articles/nrn2653). *Nature Reviews Neuroscience*.
+
+## Synthetic Biology and Genetic Engineering
+
+1)  Winfree (1967). [Biological rhythms and the behavior of populations of coupled oscillators](https://www.sciencedirect.com/science/article/abs/pii/00225193679005). *Journal of Theoretical Biology*.
+2)  Elowitz et al. (2000). [A synthetic oscillatory network of transcriptional regulators](https://www.nature.com/articles/35002125). *Nature*.
+3)  Kitano (2002). [Systems biology: a brief overview](https://www.science.org/doi/10.1126/science.1069492). *Science*.
+4)  Jinek et al. (2012). [A Programmable Dual-RNA-Guided DNA Endonuclease in Adaptive Bacterial Immunity](https://www.science.org/doi/10.1126/science.1225829). *Science*.
+
+## Medical/Healthcare AI
+
+1)  Shortliffe and Buchanan (1975) [A model of inexact reasoning in medicine](https://www.sciencedirect.com/science/article/abs/pii/0025556475900474). *Mathematical Biosciences*.
+2)  Krizhevsky et al. (2012). [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper_files/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html). *Advances in Neural Information Processing Systems*.
+3)  Henry et al. (2015). [A targeted real-time early warning score (TREWScore) for septic shock](https://www.science.org/doi/10.1126/scitranslmed.aab3719). *Science Translational Medicine*.
+4)  Gulshan et al. (2016). [Development and Validation of a Deep Learning Algorithm for Detection of Diabetic Retinopathy in Retinal Fundus Photographs](https://jamanetwork.com/journals/jama/fullarticle/2588763). *JAMA*.
+5)  Esteva et al. (2017). [Dermatologist-level classification of skin cancer with deep neural networks](https://www.nature.com/articles/nature21056). *Nature*.
+6)  Rajkomar et al. (2018). [Scalable and accurate deep learning with electronic health records](https://www.nature.com/articles/s41746-018-0029-1). *npj Digital Medicine*.
+7) Obermeyer et al. (2019). [Dissecting racial bias in an algorithm used to manage the health of populations](https://www.science.org/doi/10.1126/science.aax2342). *Science*.
+8) Hannun et al. (2019). [Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network](https://www.nature.com/articles/s41591-018-0268-3). *Nature Medicine*.
+9) Topol (2019). [High-performance medicine: the convergence of human and artificial intelligence](https://www.nature.com/articles/s41591-018-0300-7). *Nature Medicine*.
+10)  Stokes et al. (2020). [A Deep Learning Approach to Antibiotic Discovery](https://www.sciencedirect.com/science/article/pii/S0092867420301021). *Cell*.
+11) Jumper et al. (2021). [Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2). *Nature*.
+12) Acosta et al. (2022). [Multimodal biomedical AI](https://www.nature.com/articles/s41591-022-01981-2). *Nature Medicine*.
+13)  Singhal et al. (2023). [Large language models encode clinical knowledge](https://www.nature.com/articles/s41586-023-06291-2). *Nature*.
+14)  Chen et al. (2024). [Towards a general-purpose foundation model for computational pathology](https://www.nature.com/articles/s41591-024-02857-3). *Nature Medicine*.
+
+## Ethics and Profesional Skills in Biomedical Engineering
+
+1)  [IEEE Code of Ethics](https://ieee-cas.org/about/ieee-code-ethics)
+2)  [NSPE Code of Ethics for Engineers](https://www.nspe.org/career-growth/ethics/nspe-code-ethics-engineers)
+3)  Leveson and Turner (1993). [An investigation of the Therac-25 accidents](https://ieeexplore.ieee.org/document/274940). *IEEE*.
+4)  Annas (2003). [HIPAA Regulations — A New Era of Medical-Record Privacy?](https://www.nejm.org/doi/full/10.1056/NEJMlim035027). *NEJM*.
+5)  Wu (2006). [The ethics of implantable devices](https://jme.bmj.com/content/33/9/532). *Journal of Medical Ethics*.
+6)  Clausen (2009). [Man, machine and in between](https://www.nature.com/articles/4571080a). *Nature*.
+7)  Simmons et al. (2011). [False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant](https://journals.sagepub.com/doi/10.1177/0956797611417632). *Psychological Science*.
+8) Begley and Ellis (2012). [Raise standards for preclinical cancer research](https://www.nature.com/articles/483531a). *Nature*.
+9)  Citron (2012). [Ethics considerations for medical device R&D](https://www.sciencedirect.com/science/article/abs/pii/S0033062012001533). *Progress in Cardiovascular Diseases*.
+10)  Obermeyer and Emanuel (2016). [Predicting the Future — Big Data, Machine Learning, and Clinical Medicine](https://www.nejm.org/doi/10.1056/nejmp1606181). *NEJM*.

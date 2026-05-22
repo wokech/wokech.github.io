@@ -17,7 +17,7 @@ toc: true
   - Endothelial Cell Mechanobiology
 - **Sports Performance Measurement and Analytics**
   - Running Physiology
-  - Wearable sensor design
+  - Wearable Sensor design
   - [Sports Data Analysis and Visualization](research_interests/sports_data_visualization.qmd)
 - **Biomedical Data Science Education for Low-Resource Settings**
   - Low-Cost and Accessible Biomedical Data Science Curricula

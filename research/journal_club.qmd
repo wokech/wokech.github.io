@@ -4,42 +4,29 @@ format: html
 toc: true
 ---
 
-## Journal Club Presentation Format
+## Guidelines - Reading a Paper
 
-### Sample Presentations (Coming Soon)
+1)  [Ten simple rules for reading a scientific paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008032)
+2)  [How to read a research paper](https://www.sciencedirect.com/science/article/abs/pii/S2666869625000028)
+3)  [Infographic: How to read a scientific paper](https://www.elsevier.com/connect/infographic-how-to-read-a-scientific-paper)
+4)  [How to read a scientific paper](https://www.science.org/content/article/how-read-scientific-paper)
+5)  [How to (seriously) read a scientific paper](https://www.science.org/content/article/how-seriously-read-scientific-paper)
 
-## Background Papers (In Progress)
+## Guidelines - Running a Journal Club
 
-### Tissue Engineering and Regenerative Medicine
+1)  [Establishing and sustaining an effective journal club](https://www.bjaed.org/article/S2058-5349(21)00128-1/fulltext)
+2)  [Running a Journal Club](https://cahpr.org.uk/cahpr-top-ten-tips/running-a-journal-club/)
+3)  [Journal Clubs: 1. Origins](https://ebm.bmj.com/content/22/6/231)
+4)  [Journal Clubs: 2. Why and how to run them and how to publish them](https://ebm.bmj.com/content/22/6/232)
 
-1)  [Induction of pluripotent stem cells from mouse embryonic and adult fibroblast cultures by defined factors](https://www.cell.com/cell/fulltext/S0092-8674(06)00976-7) Takahashi et al., Cell (2006) 
-2)  [Induction of pluripotent stem cells from adult human fibroblasts by defined factors](https://www.cell.com/cell/fulltext/S0092-8674(07)01471-7) Takahashi et al., Cell (2006) 
+## Sample Presentations
 
-### Biomaterials
+*Coming Soon*
 
-1) [Matrix Elasticity Directs Stem Cell Lineage Specification](https://www.sciencedirect.com/science/article/pii/S0092867406009615) Engler et al., Cell (2006)
+## Relevant Journals for Journal Club
 
-### Drug Delivery
+*Coming Soon*
 
-### Biomechanics
+## Foundational Papers for Journal Club
 
-### Rehabilitation Engineering & Prosthetics
-
-### Neural Engineering & Brain–Computer Interfaces
-
-### Biomedical Signal Processing
-
-### Bioinstrumentation & Medical Devices
-
-### Biomedical Imaging and Optics
-
-### Physiology for Engineers
-
-### Synthetic Biology and Genetic Engineering
-
-1) [A Programmable Dual-RNA-Guided DNA Endonuclease in Adaptive Bacterial Immunity](https://www.science.org/doi/10.1126/science.1225829) Jinek et al., Science (2012) 
-
-### Ethics
-
-### Profesional Skills in Biomedical Engineering
-
+*Coming Soon*

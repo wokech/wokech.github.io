@@ -57,34 +57,35 @@ Biomaterials play an important role in the life sciences and medicine. They are 
 
 ### Journals
 
-- Biofouling
-- ACS Langmuir
-- Biomaterials
-- Materials Today
-- Nature Materials
-- Artificial Organs
-- Acta Biomaterialia
-- Bioactive Materials
-- Biomaterials Science
-- ACS Biomacromolecules
-- ACS Applied Biomaterials
-- Tissue Engineering: Part A
-- Tissue Engineering: Part B
-- Tissue Engineering: Part C
-- ACS Bioconjugate Chemistry
-- Journal of Applied Polymers
-- Journal of Controlled Release
-- Journal of Functional Biomaterials
-- Journal of Biomaterials Applications
-- Drug Delivery and Translational Research
-- ACS Biomaterials Science and Engineering
-- Journal of Biomedical Materials Research: Part A
-- Journal of Biomedical Materials Research: Part B (Applied Biomaterials)
+- [Biofouling](https://www.tandfonline.com/journals/gbif20)
+- [ACS Langmuir](https://pubs.acs.org/journal/langd5)
+- [Biomaterials](https://www.sciencedirect.com/journal/biomaterials)
+- [Materials Today](https://www.sciencedirect.com/journal/materials-today)
+- [Nature Materials](https://www.nature.com/nmat/)
+- [Artificial Organs](https://onlinelibrary.wiley.com/journal/15251594)
+- [Acta Biomaterialia](https://www.sciencedirect.com/journal/acta-biomaterialia)
+- [Bioactive Materials](https://www.sciencedirect.com/journal/bioactive-materials)
+- [Biomaterials Science](https://pubs.rsc.org/en/journals/journalissues/bm)
+- [ACS Biomacromolecules](https://pubs.acs.org/journal/bomaf6)
+- [ACS Applied Biomaterials](https://pubs.acs.org/journal/aabmcb)
+- [Tissue Engineering: Part A](https://journals.sagepub.com/home/teaa)
+- [Tissue Engineering: Part B](https://journals.sagepub.com/home/teba)
+- [Tissue Engineering: Part C](https://journals.sagepub.com/home/tena)
+- [ACS Bioconjugate Chemistry](https://pubs.acs.org/journal/bcches)
+- [Journal of Controlled Release](https://www.sciencedirect.com/journal/journal-of-controlled-release)
+- [Journal of Applied Polymer Science](https://onlinelibrary.wiley.com/journal/10974628)
+- [Journal of Functional Biomaterials](https://www.mdpi.com/journal/jfb)
+- [Journal of Biomaterials Applications](https://journals.sagepub.com/home/jba)
+- [Drug Delivery and Translational Research](https://link.springer.com/journal/13346)
+- [ACS Biomaterials Science and Engineering](https://pubs.acs.org/journal/abseba)
+- [Journal of Biomedical Materials Research: Part A](https://onlinelibrary.wiley.com/journal/15524965)
+- [Journal of Biomedical Materials Research: Part B (Applied Biomaterials)](https://onlinelibrary.wiley.com/journal/15524981)
 
 ### Societies
 
-- Society of Biomaterials
-- European Society for Biomaterials
-- Australasian Society for Biomaterials and Tissue Engineering
-- Latin American Society for Biomaterials and Artificial Organs (SLABO)
-- ASAIO (formerly known as the American Society for Artificial Internal Organs)
+- [Society of Biomaterials](https://biomaterials.org/)
+- [Controlled Release Society](https://www.controlledreleasesociety.org/)
+- [European Society for Biomaterials](https://esbiomaterials.eu/)
+- [Australasian Society for Biomaterials and Tissue Engineering](https://www.asbte.org/)
+- [Latin American Society for Biomaterials and Artificial Organs (SLABO)](https://slabo.org.br/)
+- [ASAIO (formerly known as the American Society for Artificial Internal Organs)](https://asaio.org/)

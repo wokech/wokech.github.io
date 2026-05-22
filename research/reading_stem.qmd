@@ -1,9 +1,7 @@
 ---
-title: ""
+title: "Readings for the Young Scientist"
 toc: true
 ---
-
-# Recommended Readings (STEM)
 
 This page contains a list of readings that I would recommend for upper-level undergraduate and graduate students getting started in STEM research. It includes articles focused on best practices, important research papers, and science integrity.
 
