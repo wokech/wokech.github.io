@@ -16,7 +16,7 @@ website:
         menu:
           - text: Research Interests
             href: research/research_interests.qmd
-          - text: STEM Readings
+          - text: Readings for the Young Scientist
             href: research/reading_stem.qmd  
           - text: Science Communication
             href: research/sci_comm.qmd

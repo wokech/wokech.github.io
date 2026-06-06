@@ -8,7 +8,31 @@ toc: true
 
 ## Static (In Progress)
 
-### A. Analysis of African Players in the top 5 European Leagues
+### A. Global FIFA Rankings vs Average Player Values
+
+:::: grid
+::: g-col-4
+![Fig. 1: Analysis of the relationship between average player value (Euros) and FIFA ranking. Data Source: transfermarkt \| FIFA](../../research/research_interests/sample_static_viz_2/4.png)
+:::
+::::
+
+### B. East vs West: Analysis of FIFA Ranking and Player Values in Africa
+
+:::::: grid
+::: g-col-4
+![Fig. 1: Average player value is correlated with FIFA ranking in East and West Africa. Data Source: transfermarkt \| FIFA](../../research/research_interests/sample_static_viz_2/1.png){group="my-gallery2"}
+:::
+
+::: g-col-4
+![Fig. 2: Top player market value is correlated with FIFA ranking. Data Source: transfermarkt \| FIFA](../../research/research_interests/sample_static_viz_2/2.png){group="my-gallery2"}
+:::
+
+::: g-col-4
+![Fig. 3: Top players in West Africa have higher market values compared to East Africa. Data Source: transfermarkt](../../research/research_interests/sample_static_viz_2/3.png){group="my-gallery2"}
+:::
+::::::
+
+### C. Analysis of African Players in the top 5 European Leagues
 
 :::::::::: grid
 ::: g-col-4
@@ -40,29 +64,7 @@ toc: true
 :::
 ::::::::::
 
-### B. Global FIFA Rankings vs Average Player Values
 
-:::: grid
-::: g-col-4
-![Fig. 1: Analysis of the relationship between average player value (Euros) and FIFA ranking. Data Source: transfermarkt | FIFA](../../research/research_interests/sample_static_viz_2/4.png)
-:::
-::::
-
-### C. East vs West: Analysis of FIFA Ranking and Player Values in Africa
-
-:::::: grid
-::: g-col-4
-![Fig. 1: Average player value is correlated with FIFA ranking in East and West Africa. Data Source: transfermarkt | FIFA](../../research/research_interests/sample_static_viz_2/1.png){group="my-gallery2"}
-:::
-
-::: g-col-4
-![Fig. 2: Top player market value is correlated with FIFA ranking. Data Source: transfermarkt | FIFA](../../research/research_interests/sample_static_viz_2/2.png){group="my-gallery2"}
-:::
-
-::: g-col-4
-![Fig. 3: Top players in West Africa have higher market values compared to East Africa. Data Source: transfermarkt](../../research/research_interests/sample_static_viz_2/3.png){group="my-gallery2"}
-:::
-::::::
 
 ## Dynamic (In Progress)
 

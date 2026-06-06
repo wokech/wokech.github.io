@@ -12,12 +12,13 @@ This page contains a list of readings that I would recommend for upper-level und
 3)  [The importance of stupidity in scientific research.](https://pubmed.ncbi.nlm.nih.gov/18492790/) Schwartz MA, J Cell Sci. (2008).
 4)  [Unskilled and unaware of it: how difficulties in recognizing one's own incompetence lead to inflated self-assessments (Dunning-Kruger Effect).](https://pubmed.ncbi.nlm.nih.gov/10626367/) Kruger J and Dunning D, J Pers Soc Psychol. (1999).
 5)  [How to choose a good scientific problem.](https://pubmed.ncbi.nlm.nih.gov/19782018/) Alon U, Mol Cell. (2009).
-6)  [PLOS "Ten Simple Rules" Collection provides a quick, concentrated guide for mastering some of the professional challenges research scientists face in their careers.](https://collections.plos.org/collection/ten-simple-rules/) PloS.
-7)  [Resources for PhD Students](https://gdalle.github.io/phd-resources/) Guillaume Dalle.
-8)  [Pessimistic scientific articles by Abhishaike Mahajan](https://www.abhishaike.com/p/a-primer-on-my-favorite-pessimistic)
-9)  [The Codon Guide to Synthetic Biology](https://www.asimov.press/p/synbio-guide)
-10) [How to Read a Scientific Paper](https://www.theopennotebook.com/2018/11/06/how-to-read-a-scientific-paper/)
-11) [How To Read Scientific And Research Papers: Advice For Journalists](https://www.journoresources.org.uk/how-to-read-scientific-papers-science-journalism/)
+6)  [Why would anyone want to be a scientist?](https://journals.biologists.com/jcs/article/138/15/jcs264284/368759) Schwartz MA, J Cell Sci. (2025).
+7)  [PLOS "Ten Simple Rules" Collection provides a quick, concentrated guide for mastering some of the professional challenges research scientists face in their careers.](https://collections.plos.org/collection/ten-simple-rules/) PloS.
+8)  [Resources for PhD Students](https://gdalle.github.io/phd-resources/) Guillaume Dalle.
+9)  [Pessimistic scientific articles by Abhishaike Mahajan](https://www.abhishaike.com/p/a-primer-on-my-favorite-pessimistic)
+10)  [The Codon Guide to Synthetic Biology](https://www.asimov.press/p/synbio-guide)
+11) [How to Read a Scientific Paper](https://www.theopennotebook.com/2018/11/06/how-to-read-a-scientific-paper/)
+12) [How To Read Scientific And Research Papers: Advice For Journalists](https://www.journoresources.org.uk/how-to-read-scientific-papers-science-journalism/)
 
 ## Challenges
 
