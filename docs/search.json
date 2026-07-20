@@ -28,144 +28,186 @@
     "text": "Internal (Coming Soon)\n\nUniv Postgrad Committee…\n\nExternal (Coming Soon)\n\nReviewer Biomed and Pharmaco…\nJudge iGEM\nJudge ISEF\nJudge YSK"
   },
   {
-    "objectID": "research/research_interests/sports_data_visualization.html",
-    "href": "research/research_interests/sports_data_visualization.html",
-    "title": "Sports Data Analysis and Visualization",
+    "objectID": "research/reading_stem.html",
+    "href": "research/reading_stem.html",
+    "title": "Readings for the Young Scientist",
     "section": "",
-    "text": "Fig. 1: Analysis of the relationship between average player value (Euros) and FIFA ranking. Data Source: transfermarkt | FIFA\n\n\n\n\n\n\n\n\n\n\n\n\nFig. 1: Average player value is correlated with FIFA ranking in East and West Africa. Data Source: transfermarkt | FIFA\n\n\n\n\n\n\n\nFig. 2: Top player market value is correlated with FIFA ranking. Data Source: transfermarkt | FIFA\n\n\n\n\n\n\n\nFig. 3: Top players in West Africa have higher market values compared to East Africa. Data Source: transfermarkt\n\n\n\n\n\n\n\n\n\n\n*Best = highest goals (minus penalty kicks) + assists\n\n\n\n\n\nFig. 1: Best Season for Selected African Players in Top 5 European Leagues (1990-2000).\n\n\n\n\n\n\n\nFig. 2: Best Season for Selected African Players in Top 5 European Leagues (2000-2010).\n\n\n\n\n\n\n\nFig. 3: Best Season for Selected African Players in Top 5 European Leagues (2010-2020).\n\n\n\n\n\n\n\nFig. 4: Best Season for Selected African Players in Top 5 European Leagues (2020-2025).\n\n\n\n\n\n\n\n\n\n\n\n\nFig. 1: Number of minutes played by Africans in Top 5 European Leagues\n\n\n\n\n\n\n\nFig. 2: Number of Africans playing in the Top 5 European Leagues\n\n\n\n\n\n\n\nFig. 3: Number of minutes played per African player in Top 5 European Leagues\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFig. 1: Relationship between FIFA Ranking Points and Elo Rating. Data Source: FIFA | Elo\n\n\n\n\n\n\n\nFig. 2: Percentage of Foreign-Based Players. Data Source: transfermarkt\n\n\n\n\n\n\n\nFig. 3: Team Market Value (Euros) for African World Cup Teams. Data Source: transfermarkt\n\n\n\n\n\n\n\nFig. 4: Relationship between Team Market Value (Euros) and FIFA Ranking Points. Data Source: transfermarkt | FIFA\n\n\n\n\n\n\n\n\n\n\n\n\nFig. 1: FIFA Ranking for teams participating in the 2026 Women’s Africa. Data Source: FIFA\n\n\n\n\n\n\n\nFig. 2: Relationship between GDP per Capita ($) and FIFA Ranking Points. Data Source: worldometer | FIFA\n\n\n\n\n\n\n\nFig. 3: Relationship between Percentage of Women in the Labor Force and FIFA Ranking Points. Data Source: World Bank | FIFA"
+    "text": "This page contains a list of readings that I would recommend for upper-level undergraduate and graduate students getting started in STEM research. It includes articles focused on best practices, important research papers, and science integrity."
   },
   {
-    "objectID": "research/research_interests/sports_data_visualization.html#static-in-progress",
-    "href": "research/research_interests/sports_data_visualization.html#static-in-progress",
-    "title": "Sports Data Visualization",
+    "objectID": "research/reading_stem.html#best-practices",
+    "href": "research/reading_stem.html#best-practices",
+    "title": "Readings for the Young Scientist",
+    "section": "Best Practices",
+    "text": "Best Practices\n\nHow to succeed in science: a concise guide for young biomedical scientists. Part I: taking the plunge. Yewdell JW, Nat Rev Mol Cell Biol. (2008).\nHow to succeed in science: a concise guide for young biomedical scientists. Part II: making discoveries. Yewdell JW, Nat Rev Mol Cell Biol. (2008).\nThe importance of stupidity in scientific research. Schwartz MA, J Cell Sci. (2008).\nUnskilled and unaware of it: how difficulties in recognizing one’s own incompetence lead to inflated self-assessments (Dunning-Kruger Effect). Kruger J and Dunning D, J Pers Soc Psychol. (1999).\nHow to choose a good scientific problem. Alon U, Mol Cell. (2009).\nWhy would anyone want to be a scientist? Schwartz MA, J Cell Sci. (2025).\nPLOS “Ten Simple Rules” Collection provides a quick, concentrated guide for mastering some of the professional challenges research scientists face in their careers. PloS.\nResources for PhD Students Guillaume Dalle.\nPessimistic scientific articles by Abhishaike Mahajan\nThe Codon Guide to Synthetic Biology\nHow to Read a Scientific Paper\nHow To Read Scientific And Research Papers: Advice For Journalists"
+  },
+  {
+    "objectID": "research/reading_stem.html#challenges",
+    "href": "research/reading_stem.html#challenges",
+    "title": "Readings for the Young Scientist",
+    "section": "Challenges",
+    "text": "Challenges\n\nThe Emotional Toll of Graduate School. Puri P, Sci Am. (2019).\nPhDs: the tortuous truth. Woolston C, Nature (2019).\nWhy doing a PhD is often a waste of time The Economist, Medium (2016).\nThere’s an awful cost to getting a PhD that no one talks about Walker J, Quartz (2015).\nStrategies for Supporting Engineering Student Mental Health Wilson & Goldberg, CEE (2023).\nPrioritizing mental health and wellness in engineering S. Wilson, ASEE (2022)\nFalling behind: postdocs in their thirties tire of putting life on hold"
+  },
+  {
+    "objectID": "research/reading_stem.html#statistics",
+    "href": "research/reading_stem.html#statistics",
+    "title": "Readings for the Young Scientist",
+    "section": "Statistics",
+    "text": "Statistics\n\nWhat exactly is ‘N’ in cell culture and animal experiments? Lazic SE et al., PloS Biol. (2018).\nSuperPlots: Communicating reproducibility and variability in cell biology. Lord SJ et al., J Cell Biol. (2020).\nTen common statistical mistakes to watch out for when writing or reviewing a manuscript. Makin TR et al. eLife (2019).\nBeyond bar and line graphs: time for a new data presentation paradigm. Weissgerber TL et al. PloS Biol. (2015).\nStatistical relevance—relevant statistics, part I. Klaus B EMBO J. (2015).\nStatistical relevance-relevant statistics, part II: presenting experimental data. Klaus B EMBO J. (2015).\nTen simple rules for getting started with statistics in graduate school Zitomer RA et al. PloS Comput Biol. (2022)."
+  },
+  {
+    "objectID": "research/reading_stem.html#writing",
+    "href": "research/reading_stem.html#writing",
+    "title": "Readings for the Young Scientist",
+    "section": "Writing",
+    "text": "Writing\n\nACS Guide to Scholarly Communication. ACS. (2020).\nThe art of writing science. Plaxco KW, Prot. Sci. (2010).\nWhitesides’ Group: Writing a Paper. Whitesides GM, Adv. Mat. (2004).\nHow to write a first-class paper. Gewin V, Nature (2018).\nWriting readable prose: When planning a scientific manuscript, following a few simple rules has a large impact. Bredan AS & van Roy F, EMBO Rep. (2006).\nTen simple rules for structuring papers Mensh B & Kording K, PLoS Comp Biol. (2017).\nWrite accessibly Editors, Nat Biomed Eng. (2021).\nTen simple rules for scientists engaging in science communication\nScience communication in experimental biology: experiences and recommendations"
+  },
+  {
+    "objectID": "research/reading_stem.html#science-integrity",
+    "href": "research/reading_stem.html#science-integrity",
+    "title": "Readings for the Young Scientist",
+    "section": "Science Integrity",
+    "text": "Science Integrity\n\nScience Integrity Digest Bik E\nBrookes Lab Brookes P. Sample Post focused on “Fake Data”\nPubPeer: The Online Journal Club\nFor Better Science Schneider L\nRetraction Watch\nAutomatic detection of image manipulations in the biomedical literature Bucci EM, Cell Death and Disease (2018).\nLearning to identify image manipulations in scientific publications Mazaheri G et al., arXiv (2021).\nPublishing ethics in the era of paper mills Hackett R and Kelly S, Biol Open (2020)."
+  },
+  {
+    "objectID": "research/reading_stem.html#clear-thinking-and-better-decision-making",
+    "href": "research/reading_stem.html#clear-thinking-and-better-decision-making",
+    "title": "Readings for the Young Scientist",
+    "section": "Clear Thinking and Better Decision-Making",
+    "text": "Clear Thinking and Better Decision-Making\n\nTools for better thinking\nHow to choose the right thinking tool\nStrategies for Disciplined Choice Making"
+  },
+  {
+    "objectID": "research/journal_club/relevant_journals.html",
+    "href": "research/journal_club/relevant_journals.html",
+    "title": "Relevant Journals for Journal Club",
     "section": "",
-    "text": "Fig. 1: Analysis of the relationship between average player value (Euros) and FIFA ranking. Data Source: transfermarkt | FIFA\n\n\n\n\n\n\n\n\n\n\n\n\nFig. 1: Average player value is correlated with FIFA ranking in East and West Africa. Data Source: transfermarkt | FIFA\n\n\n\n\n\n\n\nFig. 2: Top player market value is correlated with FIFA ranking. Data Source: transfermarkt | FIFA\n\n\n\n\n\n\n\nFig. 3: Top players in West Africa have higher market values compared to East Africa. Data Source: transfermarkt\n\n\n\n\n\n\n\nBest = highest goals (minus penalty kicks) + assists\n\n\n\n\n\nFig. 1: Best Season for Selected African Players in Top 5 European Leagues (1990-2000).\n\n\n\n\n\n\n\nFig. 2: Best Season for Selected African Players in Top 5 European Leagues (2000-2010).\n\n\n\n\n\n\n\nFig. 3: Best Season for Selected African Players in Top 5 European Leagues (2010-2020).\n\n\n\n\n\n\n\nFig. 4: Best Season for Selected African Players in Top 5 European Leagues (2020-2025).\n\n\n\n\n\n\n\n\n\n\n\n\nFig. 1: Number of minutes played by Africans in Top 5 European Leagues\n\n\n\n\n\n\n\nFig. 2: Number of Africans playing in the Top 5 European Leagues\n\n\n\n\n\n\n\nFig. 3: Number of minutes played per African player in Top 5 European Leagues"
+    "text": "Nature Biomedical Engineering\nNature Reviews Bioengineering\nIEEE Reviews in Biomedical Engineering\nAnnual Review of Biomedical Engineering\nAnnals of Biomedical Engineering\nBioMedical Engineering OnLine\nBioengineering\nIEEE Transactions on Biomedical Engineering\nMedical Engineering & Physics"
   },
   {
-    "objectID": "research/research_interests/sports_data_visualization.html#dynamic-in-progress",
-    "href": "research/research_interests/sports_data_visualization.html#dynamic-in-progress",
-    "title": "Sports Data Visualization",
-    "section": "Dynamic (In Progress)",
-    "text": "Dynamic (In Progress)\n\nA: African Football Legends (1990 - Present)\n\n\nLink to App"
-  },
-  {
-    "objectID": "research/journal_club.html",
-    "href": "research/journal_club.html",
-    "title": "Journal Club",
+    "objectID": "research/journal_club/relevant_journals.html#biomedical-engineering-general",
+    "href": "research/journal_club/relevant_journals.html#biomedical-engineering-general",
+    "title": "Relevant Journals for Journal Club",
     "section": "",
-    "text": "Ten simple rules for reading a scientific paper\nHow to read a research paper\nInfographic: How to read a scientific paper\nHow to read a scientific paper\nHow to (seriously) read a scientific paper"
+    "text": "Nature Biomedical Engineering\nNature Reviews Bioengineering\nIEEE Reviews in Biomedical Engineering\nAnnual Review of Biomedical Engineering\nAnnals of Biomedical Engineering\nBioMedical Engineering OnLine\nBioengineering\nIEEE Transactions on Biomedical Engineering\nMedical Engineering & Physics"
   },
   {
-    "objectID": "research/journal_club.html#guidelines---reading-a-paper",
-    "href": "research/journal_club.html#guidelines---reading-a-paper",
-    "title": "Journal Club",
-    "section": "",
-    "text": "Ten simple rules for reading a scientific paper\nHow to read a research paper\nInfographic: How to read a scientific paper\nHow to read a scientific paper\nHow to (seriously) read a scientific paper"
+    "objectID": "research/journal_club/relevant_journals.html#tissue-engineering-and-regenerative-medicine",
+    "href": "research/journal_club/relevant_journals.html#tissue-engineering-and-regenerative-medicine",
+    "title": "Relevant Journals for Journal Club",
+    "section": "Tissue Engineering and Regenerative Medicine",
+    "text": "Tissue Engineering and Regenerative Medicine\n\nBiofabrication\nStem Cell Research & Therapy\nTissue Engineering and Regenerative Medicine\nJournal of Tissue Engineering and Regenerative Medicine\nTissue Engineering Part A: Research Advances\nTissue Engineering Part B: Reviews\nTissue Engineering Part C: Methods"
   },
   {
-    "objectID": "research/journal_club.html#guidelines---running-a-journal-club",
-    "href": "research/journal_club.html#guidelines---running-a-journal-club",
-    "title": "Journal Club",
-    "section": "Guidelines - Running a Journal Club",
-    "text": "Guidelines - Running a Journal Club\n\nEstablishing and sustaining an effective journal club\nRunning a Journal Club\nJournal Clubs: 1. Origins\nJournal Clubs: 2. Why and how to run them and how to publish them\nTen Simple Rules for a Bioinformatics Journal Club"
-  },
-  {
-    "objectID": "research/journal_club.html#sample-presentations",
-    "href": "research/journal_club.html#sample-presentations",
-    "title": "Journal Club",
-    "section": "Sample Presentations",
-    "text": "Sample Presentations\nComing Soon"
-  },
-  {
-    "objectID": "research/journal_club.html#relevant-journals-for-journal-club",
-    "href": "research/journal_club.html#relevant-journals-for-journal-club",
-    "title": "Journal Club",
-    "section": "Relevant Journals for Journal Club",
-    "text": "Relevant Journals for Journal Club\nComing Soon"
-  },
-  {
-    "objectID": "research/journal_club.html#background-papers-for-journal-club",
-    "href": "research/journal_club.html#background-papers-for-journal-club",
-    "title": "Journal Club",
-    "section": "Background Papers for Journal Club",
-    "text": "Background Papers for Journal Club\nLink to Papers"
-  },
-  {
-    "objectID": "research/journal_club/background_papers.html",
-    "href": "research/journal_club/background_papers.html",
-    "title": "Background Papers for Journal Club",
-    "section": "",
-    "text": "Induction of pluripotent stem cells from mouse embryonic and adult fibroblast cultures by defined factors Takahashi et al., Cell (2006)\nInduction of pluripotent stem cells from adult human fibroblasts by defined factors Takahashi et al., Cell (2006)"
-  },
-  {
-    "objectID": "research/journal_club/background_papers.html#tissue-engineering-and-regenerative-medicine",
-    "href": "research/journal_club/background_papers.html#tissue-engineering-and-regenerative-medicine",
-    "title": "Background Papers for Journal Club",
-    "section": "",
-    "text": "Induction of pluripotent stem cells from mouse embryonic and adult fibroblast cultures by defined factors Takahashi et al., Cell (2006)\nInduction of pluripotent stem cells from adult human fibroblasts by defined factors Takahashi et al., Cell (2006)"
-  },
-  {
-    "objectID": "research/journal_club/background_papers.html#biomaterials",
-    "href": "research/journal_club/background_papers.html#biomaterials",
-    "title": "Background Papers for Journal Club",
+    "objectID": "research/journal_club/relevant_journals.html#biomaterials",
+    "href": "research/journal_club/relevant_journals.html#biomaterials",
+    "title": "Relevant Journals for Journal Club",
     "section": "Biomaterials",
-    "text": "Biomaterials\n\nMatrix Elasticity Directs Stem Cell Lineage Specification Engler et al., Cell (2006)"
+    "text": "Biomaterials\n\nBiomaterials\nBiomaterials Research\nAdvanced Healthcare Materials\nActa Biomaterialia\nMaterials Today Bio"
   },
   {
-    "objectID": "research/journal_club/background_papers.html#drug-delivery",
-    "href": "research/journal_club/background_papers.html#drug-delivery",
-    "title": "Background Papers for Journal Club",
+    "objectID": "research/journal_club/relevant_journals.html#drug-delivery",
+    "href": "research/journal_club/relevant_journals.html#drug-delivery",
+    "title": "Relevant Journals for Journal Club",
     "section": "Drug Delivery",
-    "text": "Drug Delivery"
+    "text": "Drug Delivery\n\nAdvanced Drug Delivery Reviews\nDrug Delivery\nJournal of Drug Delivery Science and Technology\nExpert Opinion on Drug Delivery\nDrug Delivery and Translational Research\nJournal of Controlled Release\nThe AAPS Journal"
   },
   {
-    "objectID": "research/journal_club/background_papers.html#biomechanics",
-    "href": "research/journal_club/background_papers.html#biomechanics",
-    "title": "Background Papers for Journal Club",
+    "objectID": "research/journal_club/relevant_journals.html#biomechanics",
+    "href": "research/journal_club/relevant_journals.html#biomechanics",
+    "title": "Relevant Journals for Journal Club",
     "section": "Biomechanics",
-    "text": "Biomechanics"
+    "text": "Biomechanics\n\nJournal of Biomechanics\nJournal of Biomechanical Engineering\nClinical Biomechanics\nGait & Posture\nJournal of Electromyography and Kinesiology\nJournal of Applied Biomechanics\nComputer Methods in Biomechanics and Biomedical Engineering\nBiomechanics and Modeling in Mechanobiology"
   },
   {
-    "objectID": "research/journal_club/background_papers.html#rehabilitation-engineering-prosthetics",
-    "href": "research/journal_club/background_papers.html#rehabilitation-engineering-prosthetics",
-    "title": "Background Papers for Journal Club",
+    "objectID": "research/journal_club/relevant_journals.html#rehabilitation-engineering-prosthetics",
+    "href": "research/journal_club/relevant_journals.html#rehabilitation-engineering-prosthetics",
+    "title": "Relevant Journals for Journal Club",
     "section": "Rehabilitation Engineering & Prosthetics",
-    "text": "Rehabilitation Engineering & Prosthetics"
+    "text": "Rehabilitation Engineering & Prosthetics\n\nIEEE Transactions on Neural Systems and Rehabilitation Engineering\nJournal of NeuroEngineering and Rehabilitation\nDisability and Rehabilitation\nArchives of Physical Medicine and Rehabilitation\nClinical Rehabilitation\nJournal of Prosthetics and Orthotics\nJournal of Neural Engineering"
   },
   {
-    "objectID": "research/journal_club/background_papers.html#biomedical-instrumentation-signal-processing-and-medical-devices",
-    "href": "research/journal_club/background_papers.html#biomedical-instrumentation-signal-processing-and-medical-devices",
-    "title": "Background Papers for Journal Club",
+    "objectID": "research/journal_club/relevant_journals.html#biomedical-instrumentation-signal-processing-and-medical-devices",
+    "href": "research/journal_club/relevant_journals.html#biomedical-instrumentation-signal-processing-and-medical-devices",
+    "title": "Relevant Journals for Journal Club",
     "section": "Biomedical Instrumentation, Signal Processing, and Medical Devices",
-    "text": "Biomedical Instrumentation, Signal Processing, and Medical Devices"
+    "text": "Biomedical Instrumentation, Signal Processing, and Medical Devices\n\nBiomedical Signal Processing and Control\nComputer Methods and Programs in Biomedicine\nThe IEEE Journal of Biomedical And Health Informatics\nComputers in Biology and Medicine\nMedical & Biological Engineering & Computing\nJournal of Medical Devices\nMedical Devices: Evidence and Research\nIEEE Sensors Journal"
   },
   {
-    "objectID": "research/journal_club/background_papers.html#biomedical-imaging-and-optics",
-    "href": "research/journal_club/background_papers.html#biomedical-imaging-and-optics",
-    "title": "Background Papers for Journal Club",
+    "objectID": "research/journal_club/relevant_journals.html#biosensors",
+    "href": "research/journal_club/relevant_journals.html#biosensors",
+    "title": "Relevant Journals for Journal Club",
+    "section": "Biosensors",
+    "text": "Biosensors\n\nBiosensors and Bioelectronics\nACS Sensors\nBiosensors\nnpj Flexible Electronics\nSensors and Actuators B: Chemical"
+  },
+  {
+    "objectID": "research/journal_club/relevant_journals.html#biomedical-imaging-and-optics",
+    "href": "research/journal_club/relevant_journals.html#biomedical-imaging-and-optics",
+    "title": "Relevant Journals for Journal Club",
     "section": "Biomedical Imaging and Optics",
-    "text": "Biomedical Imaging and Optics"
+    "text": "Biomedical Imaging and Optics\n\nMedical Image Analysis\nIEEE Transactions on Medical Imaging\nJournal of Biomedical Optics\nBiomedical Optics Express\nComputerized Medical Imaging and Graphics\nRSNA - Radiology\nJournal of Magnetic Resonance Imaging"
   },
   {
-    "objectID": "research/journal_club/background_papers.html#physiology-for-engineers",
-    "href": "research/journal_club/background_papers.html#physiology-for-engineers",
-    "title": "Background Papers for Journal Club",
+    "objectID": "research/journal_club/relevant_journals.html#physiology-for-engineers",
+    "href": "research/journal_club/relevant_journals.html#physiology-for-engineers",
+    "title": "Relevant Journals for Journal Club",
     "section": "Physiology for Engineers",
-    "text": "Physiology for Engineers"
+    "text": "Physiology for Engineers\n\nAnnual Review of Physiology\nThe Journal of Physiology\nJournal of Experimental Biology\nProgress in Biophysics and Molecular Biology\nEuropean Journal of Applied Physiology\nPhysiological Reports\nJournal of Applied Physiology"
   },
   {
-    "objectID": "research/journal_club/background_papers.html#synthetic-biology-and-genetic-engineering",
-    "href": "research/journal_club/background_papers.html#synthetic-biology-and-genetic-engineering",
-    "title": "Background Papers for Journal Club",
+    "objectID": "research/journal_club/relevant_journals.html#synthetic-biology-and-genetic-engineering",
+    "href": "research/journal_club/relevant_journals.html#synthetic-biology-and-genetic-engineering",
+    "title": "Relevant Journals for Journal Club",
     "section": "Synthetic Biology and Genetic Engineering",
-    "text": "Synthetic Biology and Genetic Engineering\n\nA Programmable Dual-RNA-Guided DNA Endonuclease in Adaptive Bacterial Immunity Jinek et al., Science (2012)"
+    "text": "Synthetic Biology and Genetic Engineering\n\nNature Biotechnology\nACS Synthetic Biology\nSynthetic Biology\nBiotechnology and Bioengineering\nCurrent Opinion in Biotechnology"
   },
   {
-    "objectID": "research/journal_club/background_papers.html#ethics-and-profesional-skills-in-biomedical-engineering",
-    "href": "research/journal_club/background_papers.html#ethics-and-profesional-skills-in-biomedical-engineering",
-    "title": "Background Papers for Journal Club",
-    "section": "Ethics and Profesional Skills in Biomedical Engineering",
-    "text": "Ethics and Profesional Skills in Biomedical Engineering"
+    "objectID": "research/journal_club/relevant_journals.html#computational-biology-and-bioinformatics",
+    "href": "research/journal_club/relevant_journals.html#computational-biology-and-bioinformatics",
+    "title": "Relevant Journals for Journal Club",
+    "section": "Computational Biology and Bioinformatics",
+    "text": "Computational Biology and Bioinformatics\n\nBioinformatics\nBriefings in Bioinformatics\nPLOS Computational Biology\nBMC Bioinformatics\nIEEE/ACM Transactions on Computational Biology and Bioinformatics\nBioinformatics Advances\nJAMIA Open\nJournal of the American Medical Informatics Association"
+  },
+  {
+    "objectID": "research/journal_club/relevant_journals.html#medicalhealthcare-ai",
+    "href": "research/journal_club/relevant_journals.html#medicalhealthcare-ai",
+    "title": "Relevant Journals for Journal Club",
+    "section": "Medical/Healthcare AI",
+    "text": "Medical/Healthcare AI\n\nNature Medicine\nThe Lancet Digital Health\nNEJM AI\nnpj Digital Medicine\nJAMIA\nArtificial Intelligence in Medicine\nJournal of Pathology Informatics"
+  },
+  {
+    "objectID": "research/journal_club/relevant_journals.html#microscopy-and-image-analysis",
+    "href": "research/journal_club/relevant_journals.html#microscopy-and-image-analysis",
+    "title": "Relevant Journals for Journal Club",
+    "section": "Microscopy and Image Analysis",
+    "text": "Microscopy and Image Analysis\n\nJournal of Microscopy\nMicroscopy and Microanalysis\nMicroscopy Today\nMicroscopy Research and Technique\nUltramicroscopy"
+  },
+  {
+    "objectID": "research/gen_ai_educ.html",
+    "href": "research/gen_ai_educ.html",
+    "title": "Generative AI in Education",
+    "section": "",
+    "text": "A repository of academic papers, opinion pieces, and popular press articles focused on the subject of Generative AI in Education. This repository is not intended to be a guidance on usage but it provides educators and the general public with evidence for the potential impact of Generative AI on university education and training."
+  },
+  {
+    "objectID": "research/gen_ai_educ.html#academic-papers",
+    "href": "research/gen_ai_educ.html#academic-papers",
+    "title": "Generative AI in Education",
+    "section": "Academic Papers",
+    "text": "Academic Papers\n\nComing soon …"
+  },
+  {
+    "objectID": "research/gen_ai_educ.html#opinion-pieces",
+    "href": "research/gen_ai_educ.html#opinion-pieces",
+    "title": "Generative AI in Education",
+    "section": "Opinion Pieces",
+    "text": "Opinion Pieces\n\nComing soon …"
+  },
+  {
+    "objectID": "research/gen_ai_educ.html#popular-press-articles",
+    "href": "research/gen_ai_educ.html#popular-press-articles",
+    "title": "Generative AI in Education",
+    "section": "Popular Press Articles",
+    "text": "Popular Press Articles\n\nComing soon …"
   },
   {
     "objectID": "courses/training/min_cog_overload/min_cog_overload.html#overall-goal",
@@ -385,43 +427,43 @@
     "text": "Discussion Questions\n\nWhere have you identified “expert blind spots” in your own teaching?\nHow can you reduce cognitive overload in the subjects that you teach?\nBased on what you have learnt, how will you structure your courses differently?"
   },
   {
-    "objectID": "courses/biomaterials/biomaterials_2026.html",
-    "href": "courses/biomaterials/biomaterials_2026.html",
+    "objectID": "courses/sample_courses/biomaterials_2026.html",
+    "href": "courses/sample_courses/biomaterials_2026.html",
     "title": "Sample Biomaterials Syllabus",
     "section": "",
     "text": "Prerequisites: TBD\nLectures: TBD\nTutorials: TBD\nLaboratory Sessions: TBD\nInstructor: William Okech, PhD\nEmail Me\nCourse Website: https://wokech.github.io –&gt; Courses –&gt; Select Course\n\n\nBiomaterials play an important role in the life sciences and medicine. They are used to aid in the restoration of function and promote healing after injury and disease. Biomaterials can be of natural, synthetic, or hybrid origin, and they are designed to interact with living systems in a safe and compatible manner. In this course, we will look at various materials including metals, ceramics, plastics, and composites, as well as living cells and tissues that are used to develop biomaterials. Additionally, the course will explore material characterization and testing methods, biocompatibility, and important considerations for the design and manufacture of materials for biomedical applications. In addition to lectures (where relevant), laboratory activities and demonstrations will be performed. Lastly, case studies and contemporary examples will be used to explore new technologies.\n\n\n\n\nHistory and Current Uses of Biomaterials\nAtomic Theory of Materials\nMechanics of Materials\nSurface vs Bulk Properties of Materials\nBiomaterial-Host Tissue Interactions\nMaterial Degradation\nMajor Biomaterial Groups (Metals, Polymers, Ceramics, and Composites)\nPhase Diagrams and Phase Transformations\nDrug Delivery Systems and Tissue Engineering\n\n\n\n\n\nLectures: TBD\nTutorials: TBD\nLaboratory Exercises: TBD\n\n\n\n\n\nRegular Examination at end of Semester: TBD\nContinuous Assessment: TBD\nThe students must complete and pass all the labs before they can be allowed to proceed to the next class."
   },
   {
-    "objectID": "courses/biomaterials/biomaterials_2026.html#syllabus",
-    "href": "courses/biomaterials/biomaterials_2026.html#syllabus",
+    "objectID": "courses/sample_courses/biomaterials_2026.html#syllabus",
+    "href": "courses/sample_courses/biomaterials_2026.html#syllabus",
     "title": "Sample Biomaterials Syllabus",
     "section": "",
     "text": "Prerequisites: TBD\nLectures: TBD\nTutorials: TBD\nLaboratory Sessions: TBD\nInstructor: William Okech, PhD\nEmail Me\nCourse Website: https://wokech.github.io –&gt; Courses –&gt; Select Course\n\n\nBiomaterials play an important role in the life sciences and medicine. They are used to aid in the restoration of function and promote healing after injury and disease. Biomaterials can be of natural, synthetic, or hybrid origin, and they are designed to interact with living systems in a safe and compatible manner. In this course, we will look at various materials including metals, ceramics, plastics, and composites, as well as living cells and tissues that are used to develop biomaterials. Additionally, the course will explore material characterization and testing methods, biocompatibility, and important considerations for the design and manufacture of materials for biomedical applications. In addition to lectures (where relevant), laboratory activities and demonstrations will be performed. Lastly, case studies and contemporary examples will be used to explore new technologies.\n\n\n\n\nHistory and Current Uses of Biomaterials\nAtomic Theory of Materials\nMechanics of Materials\nSurface vs Bulk Properties of Materials\nBiomaterial-Host Tissue Interactions\nMaterial Degradation\nMajor Biomaterial Groups (Metals, Polymers, Ceramics, and Composites)\nPhase Diagrams and Phase Transformations\nDrug Delivery Systems and Tissue Engineering\n\n\n\n\n\nLectures: TBD\nTutorials: TBD\nLaboratory Exercises: TBD\n\n\n\n\n\nRegular Examination at end of Semester: TBD\nContinuous Assessment: TBD\nThe students must complete and pass all the labs before they can be allowed to proceed to the next class."
   },
   {
-    "objectID": "courses/biomaterials/biomaterials_2026.html#guided-notes-coming-soon",
-    "href": "courses/biomaterials/biomaterials_2026.html#guided-notes-coming-soon",
+    "objectID": "courses/sample_courses/biomaterials_2026.html#guided-notes-coming-soon",
+    "href": "courses/sample_courses/biomaterials_2026.html#guided-notes-coming-soon",
     "title": "Sample Biomaterials Syllabus",
     "section": "Guided Notes (coming soon)",
     "text": "Guided Notes (coming soon)"
   },
   {
-    "objectID": "courses/biomaterials/biomaterials_2026.html#reference-textbooks-coming-soon",
-    "href": "courses/biomaterials/biomaterials_2026.html#reference-textbooks-coming-soon",
+    "objectID": "courses/sample_courses/biomaterials_2026.html#reference-textbooks-coming-soon",
+    "href": "courses/sample_courses/biomaterials_2026.html#reference-textbooks-coming-soon",
     "title": "Sample Biomaterials Syllabus",
     "section": "Reference Textbooks (coming soon)",
     "text": "Reference Textbooks (coming soon)"
   },
   {
-    "objectID": "courses/biomaterials/biomaterials_2026.html#readings-coming-soon",
-    "href": "courses/biomaterials/biomaterials_2026.html#readings-coming-soon",
+    "objectID": "courses/sample_courses/biomaterials_2026.html#readings-coming-soon",
+    "href": "courses/sample_courses/biomaterials_2026.html#readings-coming-soon",
     "title": "Sample Biomaterials Syllabus",
     "section": "Readings (coming soon)",
     "text": "Readings (coming soon)"
   },
   {
-    "objectID": "courses/biomaterials/biomaterials_2026.html#optional-resources-to-explore",
-    "href": "courses/biomaterials/biomaterials_2026.html#optional-resources-to-explore",
+    "objectID": "courses/sample_courses/biomaterials_2026.html#optional-resources-to-explore",
+    "href": "courses/sample_courses/biomaterials_2026.html#optional-resources-to-explore",
     "title": "Sample Biomaterials Syllabus",
     "section": "Optional Resources to Explore",
     "text": "Optional Resources to Explore\n\nJournals\n\nBiofouling\nACS Langmuir\nBiomaterials\nMaterials Today\nNature Materials\nArtificial Organs\nActa Biomaterialia\nBioactive Materials\nBiomaterials Science\nACS Biomacromolecules\nACS Applied Biomaterials\nTissue Engineering: Part A\nTissue Engineering: Part B\nTissue Engineering: Part C\nACS Bioconjugate Chemistry\nJournal of Controlled Release\nJournal of Applied Polymer Science\nJournal of Functional Biomaterials\nJournal of Biomaterials Applications\nDrug Delivery and Translational Research\nACS Biomaterials Science and Engineering\nJournal of Biomedical Materials Research: Part A\nJournal of Biomedical Materials Research: Part B (Applied Biomaterials)\n\n\n\nSocieties\n\nSociety of Biomaterials\nControlled Release Society\nEuropean Society for Biomaterials\nAustralasian Society for Biomaterials and Tissue Engineering\nLatin American Society for Biomaterials and Artificial Organs (SLABO)\nASAIO (formerly known as the American Society for Artificial Internal Organs)"
@@ -672,132 +714,6 @@
     "text": "Hi there! Welcome to my teaching, training, and research website.\n\nTeaching\nThis is a repository for all my current teaching materials.\n\n\nTraining\nIn addition to university teaching, I am also a Certified Carpentries Instructor and a trainer with the Digital Research Academy. As a member of these organizations, my goal is to train learners on the basics of computational thinking and promote the use of open-source tools (such as R/Python) to solve data analysis and visualization problems.\nResources\n\n\nResearch Interests\n\nVascular Biology\nSports Performance Measurement and Analytics\n\nDescription of Research Interests"
   },
   {
-    "objectID": "research/journal_club/relevant_journals.html",
-    "href": "research/journal_club/relevant_journals.html",
-    "title": "Relevant Journals for Journal Club",
-    "section": "",
-    "text": "Nature Biomedical Engineering\nNature Reviews Bioengineering\nIEEE Reviews in Biomedical Engineering\nAnnual Review of Biomedical Engineering\nAnnals of Biomedical Engineering\nBioMedical Engineering OnLine\nBioengineering\nIEEE Transactions on Biomedical Engineering\nMedical Engineering & Physics"
-  },
-  {
-    "objectID": "research/journal_club/relevant_journals.html#relevant-journals",
-    "href": "research/journal_club/relevant_journals.html#relevant-journals",
-    "title": "Relevant Journals for Journal Club",
-    "section": "",
-    "text": "Nature Biomedical Engineering\nNature Reviews Bioengineering\nIEEE Reviews in Biomedical Engineering\nAnnual Review of Biomedical Engineering\nAnnals of Biomedical Engineering\nBioMedical Engineering OnLine\nBioengineering\nIEEE Transactions on Biomedical Engineering\nMedical Engineering & Physics\n\n\n\n\n\nBiofabrication\nStem Cell Research & Therapy\nTissue Engineering and Regenerative Medicine\nJournal of Tissue Engineering and Regenerative Medicine\nTissue Engineering Part A: Research Advances\nTissue Engineering Part B: Reviews\nTissue Engineering Part C: Methods\n\n\n\n\n\nBiomaterials\nBiomaterials Research\nAdvanced Healthcare Materials\nActa Biomaterialia\nMaterials Today Bio\n\n\n\n\n\nAdvanced Drug Delivery Reviews\nDrug Delivery\nJournal of Drug Delivery Science and Technology\nExpert Opinion on Drug Delivery\nDrug Delivery and Translational Research\nJournal of Controlled Release\nThe AAPS Journal\n\n\n\n\n\nJournal of Biomechanics\nJournal of Biomechanical Engineering\nClinical Biomechanics\nGait & Posture\nJournal of Electromyography and Kinesiology\nJournal of Applied Biomechanics\nComputer Methods in Biomechanics and Biomedical Engineering\nBiomechanics and Modeling in Mechanobiology\n\n\n\n\n\n\nIEEE Transactions on Neural Systems and Rehabilitation Engineering\nJournal of NeuroEngineering and Rehabilitation\nDisability and Rehabilitation\nArchives of Physical Medicine and Rehabilitation\nClinical Rehabilitation\nJournal of Prosthetics and Orthotics\nJournal of Neural Engineering\n\n\n\n\n\nBiomedical Signal Processing and Control\nComputer Methods and Programs in Biomedicine\nThe IEEE Journal of Biomedical And Health Informatics\nComputers in Biology and Medicine\nMedical & Biological Engineering & Computing\nJournal of Medical Devices\nMedical Devices: Evidence and Research\nIEEE Sensors Journal\n\n\n\n\n\nMedical Image Analysis\nIEEE Transactions on Medical Imaging\nJournal of Biomedical Optics\nBiomedical Optics Express\nComputerized Medical Imaging and Graphics\nRSNA - Radiology\nJournal of Magnetic Resonance Imaging\n\n\n\n\n\nAnnual Review of Physiology\nThe Journal of Physiology\nJournal of Experimental Biology\nProgress in Biophysics and Molecular Biology\nEuropean Journal of Applied Physiology\nPhysiological Reports\nJournal of Applied Physiology\n\n\n\n\n\nNature Biotechnology\nACS Synthetic Biology\nSynthetic Biology\nBiotechnology and Bioengineering\nCurrent Opinion in Biotechnology\n\n\n\n\n\nBioinformatics\nBriefings in Bioinformatics\nPLOS Computational Biology\nBMC Bioinformatics\nIEEE/ACM Transactions on Computational Biology and Bioinformatics\nBioinformatics Advances\nJAMIA Open\nJournal of the American Medical Informatics Association\n\n\n\n\n\nJournal of Microscopy\nMicroscopy and Microanalysis\nMicroscopy Today\nMicroscopy Research and Technique\nUltramicroscopy"
-  },
-  {
-    "objectID": "research/reading_stem.html",
-    "href": "research/reading_stem.html",
-    "title": "Readings for the Young Scientist",
-    "section": "",
-    "text": "This page contains a list of readings that I would recommend for upper-level undergraduate and graduate students getting started in STEM research. It includes articles focused on best practices, important research papers, and science integrity."
-  },
-  {
-    "objectID": "research/reading_stem.html#best-practices",
-    "href": "research/reading_stem.html#best-practices",
-    "title": "Readings for the Young Scientist",
-    "section": "Best Practices",
-    "text": "Best Practices\n\nHow to succeed in science: a concise guide for young biomedical scientists. Part I: taking the plunge. Yewdell JW, Nat Rev Mol Cell Biol. (2008).\nHow to succeed in science: a concise guide for young biomedical scientists. Part II: making discoveries. Yewdell JW, Nat Rev Mol Cell Biol. (2008).\nThe importance of stupidity in scientific research. Schwartz MA, J Cell Sci. (2008).\nUnskilled and unaware of it: how difficulties in recognizing one’s own incompetence lead to inflated self-assessments (Dunning-Kruger Effect). Kruger J and Dunning D, J Pers Soc Psychol. (1999).\nHow to choose a good scientific problem. Alon U, Mol Cell. (2009).\nWhy would anyone want to be a scientist? Schwartz MA, J Cell Sci. (2025).\nPLOS “Ten Simple Rules” Collection provides a quick, concentrated guide for mastering some of the professional challenges research scientists face in their careers. PloS.\nResources for PhD Students Guillaume Dalle.\nPessimistic scientific articles by Abhishaike Mahajan\nThe Codon Guide to Synthetic Biology\nHow to Read a Scientific Paper\nHow To Read Scientific And Research Papers: Advice For Journalists"
-  },
-  {
-    "objectID": "research/reading_stem.html#challenges",
-    "href": "research/reading_stem.html#challenges",
-    "title": "Readings for the Young Scientist",
-    "section": "Challenges",
-    "text": "Challenges\n\nThe Emotional Toll of Graduate School. Puri P, Sci Am. (2019).\nPhDs: the tortuous truth. Woolston C, Nature (2019).\nWhy doing a PhD is often a waste of time The Economist, Medium (2016).\nThere’s an awful cost to getting a PhD that no one talks about Walker J, Quartz (2015).\nStrategies for Supporting Engineering Student Mental Health Wilson & Goldberg, CEE (2023).\nPrioritizing mental health and wellness in engineering S. Wilson, ASEE (2022)\nFalling behind: postdocs in their thirties tire of putting life on hold"
-  },
-  {
-    "objectID": "research/reading_stem.html#statistics",
-    "href": "research/reading_stem.html#statistics",
-    "title": "Readings for the Young Scientist",
-    "section": "Statistics",
-    "text": "Statistics\n\nWhat exactly is ‘N’ in cell culture and animal experiments? Lazic SE et al., PloS Biol. (2018).\nSuperPlots: Communicating reproducibility and variability in cell biology. Lord SJ et al., J Cell Biol. (2020).\nTen common statistical mistakes to watch out for when writing or reviewing a manuscript. Makin TR et al. eLife (2019).\nBeyond bar and line graphs: time for a new data presentation paradigm. Weissgerber TL et al. PloS Biol. (2015).\nStatistical relevance—relevant statistics, part I. Klaus B EMBO J. (2015).\nStatistical relevance-relevant statistics, part II: presenting experimental data. Klaus B EMBO J. (2015).\nTen simple rules for getting started with statistics in graduate school Zitomer RA et al. PloS Comput Biol. (2022)."
-  },
-  {
-    "objectID": "research/reading_stem.html#writing",
-    "href": "research/reading_stem.html#writing",
-    "title": "Readings for the Young Scientist",
-    "section": "Writing",
-    "text": "Writing\n\nACS Guide to Scholarly Communication. ACS. (2020).\nThe art of writing science. Plaxco KW, Prot. Sci. (2010).\nWhitesides’ Group: Writing a Paper. Whitesides GM, Adv. Mat. (2004).\nHow to write a first-class paper. Gewin V, Nature (2018).\nWriting readable prose: When planning a scientific manuscript, following a few simple rules has a large impact. Bredan AS & van Roy F, EMBO Rep. (2006).\nTen simple rules for structuring papers Mensh B & Kording K, PLoS Comp Biol. (2017).\nWrite accessibly Editors, Nat Biomed Eng. (2021).\nTen simple rules for scientists engaging in science communication\nScience communication in experimental biology: experiences and recommendations"
-  },
-  {
-    "objectID": "research/reading_stem.html#science-integrity",
-    "href": "research/reading_stem.html#science-integrity",
-    "title": "Readings for the Young Scientist",
-    "section": "Science Integrity",
-    "text": "Science Integrity\n\nScience Integrity Digest Bik E\nBrookes Lab Brookes P. Sample Post focused on “Fake Data”\nPubPeer: The Online Journal Club\nFor Better Science Schneider L\nRetraction Watch\nAutomatic detection of image manipulations in the biomedical literature Bucci EM, Cell Death and Disease (2018).\nLearning to identify image manipulations in scientific publications Mazaheri G et al., arXiv (2021).\nPublishing ethics in the era of paper mills Hackett R and Kelly S, Biol Open (2020)."
-  },
-  {
-    "objectID": "research/reading_stem.html#clear-thinking-and-better-decision-making",
-    "href": "research/reading_stem.html#clear-thinking-and-better-decision-making",
-    "title": "Readings for the Young Scientist",
-    "section": "Clear Thinking and Better Decision-Making",
-    "text": "Clear Thinking and Better Decision-Making\n\nTools for better thinking\nHow to choose the right thinking tool\nStrategies for Disciplined Choice Making"
-  },
-  {
-    "objectID": "research/research_interests.html",
-    "href": "research/research_interests.html",
-    "title": "Research",
-    "section": "",
-    "text": "Google Scholar\nORCID"
-  },
-  {
-    "objectID": "research/research_interests.html#publications",
-    "href": "research/research_interests.html#publications",
-    "title": "Research",
-    "section": "",
-    "text": "Google Scholar\nORCID"
-  },
-  {
-    "objectID": "research/research_interests.html#research-interests",
-    "href": "research/research_interests.html#research-interests",
-    "title": "Research",
-    "section": "Research Interests",
-    "text": "Research Interests\n\nVascular Biology\n\nEndothelial Cell Mechanobiology\nCardiovascular Tissue Engineering\n\nSports Performance Measurement and Analytics\n\nExercise Physiology\nWearable Technology in Sports\nSports Data Analysis and Visualization"
-  },
-  {
-    "objectID": "sample_courses.html",
-    "href": "sample_courses.html",
-    "title": "Sample Course Materials",
-    "section": "",
-    "text": "Download PDF file."
-  },
-  {
-    "objectID": "sample_courses.html#biostatistics",
-    "href": "sample_courses.html#biostatistics",
-    "title": "Sample Course Materials",
-    "section": "",
-    "text": "Download PDF file."
-  },
-  {
-    "objectID": "sample_courses.html#data-structures-in-bioinformatics",
-    "href": "sample_courses.html#data-structures-in-bioinformatics",
-    "title": "Sample Course Materials",
-    "section": "Data Structures in Bioinformatics",
-    "text": "Data Structures in Bioinformatics\n\n\n\nDownload PDF file."
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Sample Lessons Sample Syllabus"
-  },
-  {
-    "objectID": "teaching.html#teaching-samples",
-    "href": "teaching.html#teaching-samples",
-    "title": "Teaching",
-    "section": "",
-    "text": "Sample Courses"
-  },
-  {
-    "objectID": "teaching.html#sample-biomaterials-syllabus-2026",
-    "href": "teaching.html#sample-biomaterials-syllabus-2026",
-    "title": "Teaching",
-    "section": "Sample Biomaterials Syllabus (2026)",
-    "text": "Sample Biomaterials Syllabus (2026)\nCourse Website"
-  },
-  {
     "objectID": "research/journal_club/foundational_papers.html",
     "href": "research/journal_club/foundational_papers.html",
     "title": "Foundational and Milestone Papers",
@@ -896,6 +812,41 @@
     "text": "Ethics and Profesional Skills in Biomedical Engineering\n\nIEEE Code of Ethics\nNSPE Code of Ethics for Engineers\nLeveson and Turner (1993). An investigation of the Therac-25 accidents. IEEE.\nAnnas (2003). HIPAA Regulations — A New Era of Medical-Record Privacy?. NEJM.\nWu (2006). The ethics of implantable devices. Journal of Medical Ethics.\nClausen (2009). Man, machine and in between. Nature.\nSimmons et al. (2011). False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant. Psychological Science.\nBegley and Ellis (2012). Raise standards for preclinical cancer research. Nature.\nCitron (2012). Ethics considerations for medical device R&D. Progress in Cardiovascular Diseases.\nObermeyer and Emanuel (2016). Predicting the Future — Big Data, Machine Learning, and Clinical Medicine. NEJM."
   },
   {
+    "objectID": "research/journal_club.html",
+    "href": "research/journal_club.html",
+    "title": "Journal Club",
+    "section": "",
+    "text": "Ten simple rules for reading a scientific paper\nHow to read a research paper\nInfographic: How to read a scientific paper\nHow to read a scientific paper\nHow to (seriously) read a scientific paper"
+  },
+  {
+    "objectID": "research/journal_club.html#guidelines---reading-a-paper",
+    "href": "research/journal_club.html#guidelines---reading-a-paper",
+    "title": "Journal Club",
+    "section": "",
+    "text": "Ten simple rules for reading a scientific paper\nHow to read a research paper\nInfographic: How to read a scientific paper\nHow to read a scientific paper\nHow to (seriously) read a scientific paper"
+  },
+  {
+    "objectID": "research/journal_club.html#guidelines---running-a-journal-club",
+    "href": "research/journal_club.html#guidelines---running-a-journal-club",
+    "title": "Journal Club",
+    "section": "Guidelines - Running a Journal Club",
+    "text": "Guidelines - Running a Journal Club\n\nEstablishing and sustaining an effective journal club\nRunning a Journal Club\nJournal Clubs: 1. Origins\nJournal Clubs: 2. Why and how to run them and how to publish them\nTen Simple Rules for a Bioinformatics Journal Club"
+  },
+  {
+    "objectID": "research/journal_club.html#sample-presentations",
+    "href": "research/journal_club.html#sample-presentations",
+    "title": "Journal Club",
+    "section": "Sample Presentations",
+    "text": "Sample Presentations\nComing Soon"
+  },
+  {
+    "objectID": "research/journal_club.html#relevant-journals-for-journal-club",
+    "href": "research/journal_club.html#relevant-journals-for-journal-club",
+    "title": "Journal Club",
+    "section": "Relevant Journals for Journal Club",
+    "text": "Relevant Journals for Journal Club\nComing Soon"
+  },
+  {
     "objectID": "research/journal_club.html#foundational-papers-for-journal-club",
     "href": "research/journal_club.html#foundational-papers-for-journal-club",
     "title": "Journal Club",
@@ -903,137 +854,88 @@
     "text": "Foundational Papers for Journal Club\nComing Soon"
   },
   {
-    "objectID": "research/journal_club/relevant_journals.html#biomedical-engineering-general",
-    "href": "research/journal_club/relevant_journals.html#biomedical-engineering-general",
-    "title": "Relevant Journals for Journal Club",
+    "objectID": "research/research_interests/sports_data_visualization.html",
+    "href": "research/research_interests/sports_data_visualization.html",
+    "title": "Sports Data Analysis and Visualization",
     "section": "",
-    "text": "Nature Biomedical Engineering\nNature Reviews Bioengineering\nIEEE Reviews in Biomedical Engineering\nAnnual Review of Biomedical Engineering\nAnnals of Biomedical Engineering\nBioMedical Engineering OnLine\nBioengineering\nIEEE Transactions on Biomedical Engineering\nMedical Engineering & Physics"
+    "text": "Fig. 1: Analysis of the relationship between average player value (Euros) and FIFA ranking. Data Source: transfermarkt | FIFA\n\n\n\n\n\n\n\n\n\n\n\n\nFig. 1: Average player value is correlated with FIFA ranking in East and West Africa. Data Source: transfermarkt | FIFA\n\n\n\n\n\n\n\nFig. 2: Top player market value is correlated with FIFA ranking. Data Source: transfermarkt | FIFA\n\n\n\n\n\n\n\nFig. 3: Top players in West Africa have higher market values compared to East Africa. Data Source: transfermarkt\n\n\n\n\n\n\n\n\n\n\n*Best = highest goals (minus penalty kicks) + assists\n\n\n\n\n\nFig. 1: Best Season for Selected African Players in Top 5 European Leagues (1990-2000).\n\n\n\n\n\n\n\nFig. 2: Best Season for Selected African Players in Top 5 European Leagues (2000-2010).\n\n\n\n\n\n\n\nFig. 3: Best Season for Selected African Players in Top 5 European Leagues (2010-2020).\n\n\n\n\n\n\n\nFig. 4: Best Season for Selected African Players in Top 5 European Leagues (2020-2025).\n\n\n\n\n\n\n\n\n\n\n\n\nFig. 1: Number of minutes played by Africans in Top 5 European Leagues\n\n\n\n\n\n\n\nFig. 2: Number of Africans playing in the Top 5 European Leagues\n\n\n\n\n\n\n\nFig. 3: Number of minutes played per African player in Top 5 European Leagues\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFig. 1: Relationship between FIFA Ranking Points and Elo Rating. Data Source: FIFA | Elo\n\n\n\n\n\n\n\nFig. 2: Percentage of Foreign-Based Players. Data Source: transfermarkt\n\n\n\n\n\n\n\nFig. 3: Team Market Value (Euros) for African World Cup Teams. Data Source: transfermarkt\n\n\n\n\n\n\n\nFig. 4: Relationship between Team Market Value (Euros) and FIFA Ranking Points. Data Source: transfermarkt | FIFA\n\n\n\n\n\n\n\n\n\n\n\n\nFig. 1: FIFA Ranking for teams participating in the 2026 Women’s Africa. Data Source: FIFA\n\n\n\n\n\n\n\nFig. 2: Relationship between GDP per Capita ($) and FIFA Ranking Points. Data Source: worldometer | FIFA\n\n\n\n\n\n\n\nFig. 3: Relationship between Percentage of Women in the Labor Force and FIFA Ranking Points. Data Source: World Bank | FIFA"
   },
   {
-    "objectID": "research/journal_club/relevant_journals.html#tissue-engineering-and-regenerative-medicine",
-    "href": "research/journal_club/relevant_journals.html#tissue-engineering-and-regenerative-medicine",
-    "title": "Relevant Journals for Journal Club",
-    "section": "Tissue Engineering and Regenerative Medicine",
-    "text": "Tissue Engineering and Regenerative Medicine\n\nBiofabrication\nStem Cell Research & Therapy\nTissue Engineering and Regenerative Medicine\nJournal of Tissue Engineering and Regenerative Medicine\nTissue Engineering Part A: Research Advances\nTissue Engineering Part B: Reviews\nTissue Engineering Part C: Methods"
-  },
-  {
-    "objectID": "research/journal_club/relevant_journals.html#biomaterials",
-    "href": "research/journal_club/relevant_journals.html#biomaterials",
-    "title": "Relevant Journals for Journal Club",
-    "section": "Biomaterials",
-    "text": "Biomaterials\n\nBiomaterials\nBiomaterials Research\nAdvanced Healthcare Materials\nActa Biomaterialia\nMaterials Today Bio"
-  },
-  {
-    "objectID": "research/journal_club/relevant_journals.html#drug-delivery",
-    "href": "research/journal_club/relevant_journals.html#drug-delivery",
-    "title": "Relevant Journals for Journal Club",
-    "section": "Drug Delivery",
-    "text": "Drug Delivery\n\nAdvanced Drug Delivery Reviews\nDrug Delivery\nJournal of Drug Delivery Science and Technology\nExpert Opinion on Drug Delivery\nDrug Delivery and Translational Research\nJournal of Controlled Release\nThe AAPS Journal"
-  },
-  {
-    "objectID": "research/journal_club/relevant_journals.html#biomechanics",
-    "href": "research/journal_club/relevant_journals.html#biomechanics",
-    "title": "Relevant Journals for Journal Club",
-    "section": "Biomechanics",
-    "text": "Biomechanics\n\nJournal of Biomechanics\nJournal of Biomechanical Engineering\nClinical Biomechanics\nGait & Posture\nJournal of Electromyography and Kinesiology\nJournal of Applied Biomechanics\nComputer Methods in Biomechanics and Biomedical Engineering\nBiomechanics and Modeling in Mechanobiology"
-  },
-  {
-    "objectID": "research/journal_club/relevant_journals.html#rehabilitation-engineering-prosthetics",
-    "href": "research/journal_club/relevant_journals.html#rehabilitation-engineering-prosthetics",
-    "title": "Relevant Journals for Journal Club",
-    "section": "Rehabilitation Engineering & Prosthetics",
-    "text": "Rehabilitation Engineering & Prosthetics\n\nIEEE Transactions on Neural Systems and Rehabilitation Engineering\nJournal of NeuroEngineering and Rehabilitation\nDisability and Rehabilitation\nArchives of Physical Medicine and Rehabilitation\nClinical Rehabilitation\nJournal of Prosthetics and Orthotics\nJournal of Neural Engineering"
-  },
-  {
-    "objectID": "research/journal_club/relevant_journals.html#biomedical-instrumentation-signal-processing-and-medical-devices",
-    "href": "research/journal_club/relevant_journals.html#biomedical-instrumentation-signal-processing-and-medical-devices",
-    "title": "Relevant Journals for Journal Club",
-    "section": "Biomedical Instrumentation, Signal Processing, and Medical Devices",
-    "text": "Biomedical Instrumentation, Signal Processing, and Medical Devices\n\nBiomedical Signal Processing and Control\nComputer Methods and Programs in Biomedicine\nThe IEEE Journal of Biomedical And Health Informatics\nComputers in Biology and Medicine\nMedical & Biological Engineering & Computing\nJournal of Medical Devices\nMedical Devices: Evidence and Research\nIEEE Sensors Journal"
-  },
-  {
-    "objectID": "research/journal_club/relevant_journals.html#biosensors",
-    "href": "research/journal_club/relevant_journals.html#biosensors",
-    "title": "Relevant Journals for Journal Club",
-    "section": "Biosensors",
-    "text": "Biosensors\n\nBiosensors and Bioelectronics\nACS Sensors\nBiosensors\nnpj Flexible Electronics\nSensors and Actuators B: Chemical"
-  },
-  {
-    "objectID": "research/journal_club/relevant_journals.html#biomedical-imaging-and-optics",
-    "href": "research/journal_club/relevant_journals.html#biomedical-imaging-and-optics",
-    "title": "Relevant Journals for Journal Club",
-    "section": "Biomedical Imaging and Optics",
-    "text": "Biomedical Imaging and Optics\n\nMedical Image Analysis\nIEEE Transactions on Medical Imaging\nJournal of Biomedical Optics\nBiomedical Optics Express\nComputerized Medical Imaging and Graphics\nRSNA - Radiology\nJournal of Magnetic Resonance Imaging"
-  },
-  {
-    "objectID": "research/journal_club/relevant_journals.html#physiology-for-engineers",
-    "href": "research/journal_club/relevant_journals.html#physiology-for-engineers",
-    "title": "Relevant Journals for Journal Club",
-    "section": "Physiology for Engineers",
-    "text": "Physiology for Engineers\n\nAnnual Review of Physiology\nThe Journal of Physiology\nJournal of Experimental Biology\nProgress in Biophysics and Molecular Biology\nEuropean Journal of Applied Physiology\nPhysiological Reports\nJournal of Applied Physiology"
-  },
-  {
-    "objectID": "research/journal_club/relevant_journals.html#synthetic-biology-and-genetic-engineering",
-    "href": "research/journal_club/relevant_journals.html#synthetic-biology-and-genetic-engineering",
-    "title": "Relevant Journals for Journal Club",
-    "section": "Synthetic Biology and Genetic Engineering",
-    "text": "Synthetic Biology and Genetic Engineering\n\nNature Biotechnology\nACS Synthetic Biology\nSynthetic Biology\nBiotechnology and Bioengineering\nCurrent Opinion in Biotechnology"
-  },
-  {
-    "objectID": "research/journal_club/relevant_journals.html#computational-biology-and-bioinformatics",
-    "href": "research/journal_club/relevant_journals.html#computational-biology-and-bioinformatics",
-    "title": "Relevant Journals for Journal Club",
-    "section": "Computational Biology and Bioinformatics",
-    "text": "Computational Biology and Bioinformatics\n\nBioinformatics\nBriefings in Bioinformatics\nPLOS Computational Biology\nBMC Bioinformatics\nIEEE/ACM Transactions on Computational Biology and Bioinformatics\nBioinformatics Advances\nJAMIA Open\nJournal of the American Medical Informatics Association"
-  },
-  {
-    "objectID": "research/journal_club/relevant_journals.html#medicalhealthcare-ai",
-    "href": "research/journal_club/relevant_journals.html#medicalhealthcare-ai",
-    "title": "Relevant Journals for Journal Club",
-    "section": "Medical/Healthcare AI",
-    "text": "Medical/Healthcare AI\n\nNature Medicine\nThe Lancet Digital Health\nNEJM AI\nnpj Digital Medicine\nJAMIA\nArtificial Intelligence in Medicine\nJournal of Pathology Informatics"
-  },
-  {
-    "objectID": "research/journal_club/relevant_journals.html#microscopy-and-image-analysis",
-    "href": "research/journal_club/relevant_journals.html#microscopy-and-image-analysis",
-    "title": "Relevant Journals for Journal Club",
-    "section": "Microscopy and Image Analysis",
-    "text": "Microscopy and Image Analysis\n\nJournal of Microscopy\nMicroscopy and Microanalysis\nMicroscopy Today\nMicroscopy Research and Technique\nUltramicroscopy"
-  },
-  {
-    "objectID": "research/gen_ai_educ.html",
-    "href": "research/gen_ai_educ.html",
-    "title": "Generative AI in Education",
+    "objectID": "research/research_interests/sports_data_visualization.html#section",
+    "href": "research/research_interests/sports_data_visualization.html#section",
+    "title": "Sports Data Analysis and Visualization",
     "section": "",
-    "text": "A repository of academic papers, opinion pieces, and popular press articles focused on the subject of Generative AI in Education. This repository is not intended to be a guidance on usage but it provides educators and the general public with evidence for the potential impact of Generative AI on university education and training."
+    "text": "Fig. 1: Analysis of the relationship between average player value (Euros) and FIFA ranking. Data Source: transfermarkt | FIFA\n\n\n\n\n\n\n\n\n\n\n\n\nFig. 1: Average player value is correlated with FIFA ranking in East and West Africa. Data Source: transfermarkt | FIFA\n\n\n\n\n\n\n\nFig. 2: Top player market value is correlated with FIFA ranking. Data Source: transfermarkt | FIFA\n\n\n\n\n\n\n\nFig. 3: Top players in West Africa have higher market values compared to East Africa. Data Source: transfermarkt"
   },
   {
-    "objectID": "research/gen_ai_educ.html#academic-papers",
-    "href": "research/gen_ai_educ.html#academic-papers",
-    "title": "Generative AI in Education",
-    "section": "Academic Papers",
-    "text": "Academic Papers\n\nComing soon …"
+    "objectID": "research/research_interests/sports_data_visualization.html#section-1",
+    "href": "research/research_interests/sports_data_visualization.html#section-1",
+    "title": "Sports Data Analysis and Visualization",
+    "section": "",
+    "text": "*Best = highest goals (minus penalty kicks) + assists\n\n\n\n\n\nFig. 1: Best Season for Selected African Players in Top 5 European Leagues (1990-2000).\n\n\n\n\n\n\n\nFig. 2: Best Season for Selected African Players in Top 5 European Leagues (2000-2010).\n\n\n\n\n\n\n\nFig. 3: Best Season for Selected African Players in Top 5 European Leagues (2010-2020).\n\n\n\n\n\n\n\nFig. 4: Best Season for Selected African Players in Top 5 European Leagues (2020-2025).\n\n\n\n\n\n\n\n\n\n\n\n\nFig. 1: Number of minutes played by Africans in Top 5 European Leagues\n\n\n\n\n\n\n\nFig. 2: Number of Africans playing in the Top 5 European Leagues\n\n\n\n\n\n\n\nFig. 3: Number of minutes played per African player in Top 5 European Leagues"
   },
   {
-    "objectID": "research/gen_ai_educ.html#opinion-pieces",
-    "href": "research/gen_ai_educ.html#opinion-pieces",
-    "title": "Generative AI in Education",
-    "section": "Opinion Pieces",
-    "text": "Opinion Pieces\n\nComing soon …"
+    "objectID": "research/research_interests/sports_data_visualization.html#section-2",
+    "href": "research/research_interests/sports_data_visualization.html#section-2",
+    "title": "Sports Data Analysis and Visualization",
+    "section": "",
+    "text": "Fig. 1: Relationship between FIFA Ranking Points and Elo Rating. Data Source: FIFA | Elo\n\n\n\n\n\n\n\nFig. 2: Percentage of Foreign-Based Players. Data Source: transfermarkt\n\n\n\n\n\n\n\nFig. 3: Team Market Value (Euros) for African World Cup Teams. Data Source: transfermarkt\n\n\n\n\n\n\n\nFig. 4: Relationship between Team Market Value (Euros) and FIFA Ranking Points. Data Source: transfermarkt | FIFA\n\n\n\n\n\n\n\n\n\n\n\n\nFig. 1: FIFA Ranking for teams participating in the 2026 Women’s Africa. Data Source: FIFA\n\n\n\n\n\n\n\nFig. 2: Relationship between GDP per Capita ($) and FIFA Ranking Points. Data Source: worldometer | FIFA\n\n\n\n\n\n\n\nFig. 3: Relationship between Percentage of Women in the Labor Force and FIFA Ranking Points. Data Source: World Bank | FIFA"
   },
   {
-    "objectID": "research/gen_ai_educ.html#popular-press-articles",
-    "href": "research/gen_ai_educ.html#popular-press-articles",
-    "title": "Generative AI in Education",
-    "section": "Popular Press Articles",
-    "text": "Popular Press Articles\n\nComing soon …"
+    "objectID": "research/research_interests.html",
+    "href": "research/research_interests.html",
+    "title": "Research",
+    "section": "",
+    "text": "Google Scholar\nORCID"
+  },
+  {
+    "objectID": "research/research_interests.html#publications",
+    "href": "research/research_interests.html#publications",
+    "title": "Research",
+    "section": "",
+    "text": "Google Scholar\nORCID"
+  },
+  {
+    "objectID": "research/research_interests.html#research-interests",
+    "href": "research/research_interests.html#research-interests",
+    "title": "Research",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nVascular Biology\n\nEndothelial Cell Mechanobiology\nCardiovascular Tissue Engineering\n\nSports Performance Measurement and Analytics\n\nExercise Physiology\nWearable Technology in Sports\nSports Data Analysis and Visualization"
+  },
+  {
+    "objectID": "sample_courses.html",
+    "href": "sample_courses.html",
+    "title": "Sample Course Materials",
+    "section": "",
+    "text": "Download PDF file."
+  },
+  {
+    "objectID": "sample_courses.html#biostatistics",
+    "href": "sample_courses.html#biostatistics",
+    "title": "Sample Course Materials",
+    "section": "",
+    "text": "Download PDF file."
+  },
+  {
+    "objectID": "sample_courses.html#data-structures-in-bioinformatics",
+    "href": "sample_courses.html#data-structures-in-bioinformatics",
+    "title": "Sample Course Materials",
+    "section": "Data Structures in Bioinformatics",
+    "text": "Data Structures in Bioinformatics\n\n\n\nDownload PDF file."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Sample Lessons\nSample Syllabus"
   },
   {
     "objectID": "teaching.html#teaching-samples-pre--2026",
     "href": "teaching.html#teaching-samples-pre--2026",
     "title": "Teaching",
     "section": "",
-    "text": "Sample Lessons Sample Syllabus"
+    "text": "Sample Lessons\nSample Syllabus"
   },
   {
     "objectID": "teaching.html#kenyatta-university-semester-1-2026-2027",
@@ -1048,75 +950,5 @@
     "title": "Teaching",
     "section": "Kenyatta University Semester 2 (2026-2027)",
     "text": "Kenyatta University Semester 2 (2026-2027)\nTBD"
-  },
-  {
-    "objectID": "courses/sample_courses/biomaterials_2026.html",
-    "href": "courses/sample_courses/biomaterials_2026.html",
-    "title": "Sample Biomaterials Syllabus",
-    "section": "",
-    "text": "Prerequisites: TBD\nLectures: TBD\nTutorials: TBD\nLaboratory Sessions: TBD\nInstructor: William Okech, PhD\nEmail Me\nCourse Website: https://wokech.github.io –&gt; Courses –&gt; Select Course\n\n\nBiomaterials play an important role in the life sciences and medicine. They are used to aid in the restoration of function and promote healing after injury and disease. Biomaterials can be of natural, synthetic, or hybrid origin, and they are designed to interact with living systems in a safe and compatible manner. In this course, we will look at various materials including metals, ceramics, plastics, and composites, as well as living cells and tissues that are used to develop biomaterials. Additionally, the course will explore material characterization and testing methods, biocompatibility, and important considerations for the design and manufacture of materials for biomedical applications. In addition to lectures (where relevant), laboratory activities and demonstrations will be performed. Lastly, case studies and contemporary examples will be used to explore new technologies.\n\n\n\n\nHistory and Current Uses of Biomaterials\nAtomic Theory of Materials\nMechanics of Materials\nSurface vs Bulk Properties of Materials\nBiomaterial-Host Tissue Interactions\nMaterial Degradation\nMajor Biomaterial Groups (Metals, Polymers, Ceramics, and Composites)\nPhase Diagrams and Phase Transformations\nDrug Delivery Systems and Tissue Engineering\n\n\n\n\n\nLectures: TBD\nTutorials: TBD\nLaboratory Exercises: TBD\n\n\n\n\n\nRegular Examination at end of Semester: TBD\nContinuous Assessment: TBD\nThe students must complete and pass all the labs before they can be allowed to proceed to the next class."
-  },
-  {
-    "objectID": "courses/sample_courses/biomaterials_2026.html#syllabus",
-    "href": "courses/sample_courses/biomaterials_2026.html#syllabus",
-    "title": "Sample Biomaterials Syllabus",
-    "section": "",
-    "text": "Prerequisites: TBD\nLectures: TBD\nTutorials: TBD\nLaboratory Sessions: TBD\nInstructor: William Okech, PhD\nEmail Me\nCourse Website: https://wokech.github.io –&gt; Courses –&gt; Select Course\n\n\nBiomaterials play an important role in the life sciences and medicine. They are used to aid in the restoration of function and promote healing after injury and disease. Biomaterials can be of natural, synthetic, or hybrid origin, and they are designed to interact with living systems in a safe and compatible manner. In this course, we will look at various materials including metals, ceramics, plastics, and composites, as well as living cells and tissues that are used to develop biomaterials. Additionally, the course will explore material characterization and testing methods, biocompatibility, and important considerations for the design and manufacture of materials for biomedical applications. In addition to lectures (where relevant), laboratory activities and demonstrations will be performed. Lastly, case studies and contemporary examples will be used to explore new technologies.\n\n\n\n\nHistory and Current Uses of Biomaterials\nAtomic Theory of Materials\nMechanics of Materials\nSurface vs Bulk Properties of Materials\nBiomaterial-Host Tissue Interactions\nMaterial Degradation\nMajor Biomaterial Groups (Metals, Polymers, Ceramics, and Composites)\nPhase Diagrams and Phase Transformations\nDrug Delivery Systems and Tissue Engineering\n\n\n\n\n\nLectures: TBD\nTutorials: TBD\nLaboratory Exercises: TBD\n\n\n\n\n\nRegular Examination at end of Semester: TBD\nContinuous Assessment: TBD\nThe students must complete and pass all the labs before they can be allowed to proceed to the next class."
-  },
-  {
-    "objectID": "courses/sample_courses/biomaterials_2026.html#guided-notes-coming-soon",
-    "href": "courses/sample_courses/biomaterials_2026.html#guided-notes-coming-soon",
-    "title": "Sample Biomaterials Syllabus",
-    "section": "Guided Notes (coming soon)",
-    "text": "Guided Notes (coming soon)"
-  },
-  {
-    "objectID": "courses/sample_courses/biomaterials_2026.html#reference-textbooks-coming-soon",
-    "href": "courses/sample_courses/biomaterials_2026.html#reference-textbooks-coming-soon",
-    "title": "Sample Biomaterials Syllabus",
-    "section": "Reference Textbooks (coming soon)",
-    "text": "Reference Textbooks (coming soon)"
-  },
-  {
-    "objectID": "courses/sample_courses/biomaterials_2026.html#readings-coming-soon",
-    "href": "courses/sample_courses/biomaterials_2026.html#readings-coming-soon",
-    "title": "Sample Biomaterials Syllabus",
-    "section": "Readings (coming soon)",
-    "text": "Readings (coming soon)"
-  },
-  {
-    "objectID": "courses/sample_courses/biomaterials_2026.html#optional-resources-to-explore",
-    "href": "courses/sample_courses/biomaterials_2026.html#optional-resources-to-explore",
-    "title": "Sample Biomaterials Syllabus",
-    "section": "Optional Resources to Explore",
-    "text": "Optional Resources to Explore\n\nJournals\n\nBiofouling\nACS Langmuir\nBiomaterials\nMaterials Today\nNature Materials\nArtificial Organs\nActa Biomaterialia\nBioactive Materials\nBiomaterials Science\nACS Biomacromolecules\nACS Applied Biomaterials\nTissue Engineering: Part A\nTissue Engineering: Part B\nTissue Engineering: Part C\nACS Bioconjugate Chemistry\nJournal of Controlled Release\nJournal of Applied Polymer Science\nJournal of Functional Biomaterials\nJournal of Biomaterials Applications\nDrug Delivery and Translational Research\nACS Biomaterials Science and Engineering\nJournal of Biomedical Materials Research: Part A\nJournal of Biomedical Materials Research: Part B (Applied Biomaterials)\n\n\n\nSocieties\n\nSociety of Biomaterials\nControlled Release Society\nEuropean Society for Biomaterials\nAustralasian Society for Biomaterials and Tissue Engineering\nLatin American Society for Biomaterials and Artificial Organs (SLABO)\nASAIO (formerly known as the American Society for Artificial Internal Organs)"
-  },
-  {
-    "objectID": "research/research_interests/sports_data_visualization.html#section",
-    "href": "research/research_interests/sports_data_visualization.html#section",
-    "title": "Sports Data Analysis and Visualization",
-    "section": "",
-    "text": "Fig. 1: Analysis of the relationship between average player value (Euros) and FIFA ranking. Data Source: transfermarkt | FIFA\n\n\n\n\n\n\n\n\n\n\n\n\nFig. 1: Average player value is correlated with FIFA ranking in East and West Africa. Data Source: transfermarkt | FIFA\n\n\n\n\n\n\n\nFig. 2: Top player market value is correlated with FIFA ranking. Data Source: transfermarkt | FIFA\n\n\n\n\n\n\n\nFig. 3: Top players in West Africa have higher market values compared to East Africa. Data Source: transfermarkt"
-  },
-  {
-    "objectID": "research/research_interests/sports_data_visualization.html#section-2",
-    "href": "research/research_interests/sports_data_visualization.html#section-2",
-    "title": "Sports Data Analysis and Visualization",
-    "section": "",
-    "text": "Fig. 1: Relationship between FIFA Ranking Points and Elo Rating. Data Source: FIFA | Elo\n\n\n\n\n\n\n\nFig. 2: Percentage of Foreign-Based Players. Data Source: transfermarkt\n\n\n\n\n\n\n\nFig. 3: Team Market Value (Euros) for African World Cup Teams. Data Source: transfermarkt\n\n\n\n\n\n\n\nFig. 4: Relationship between Team Market Value (Euros) and FIFA Ranking Points. Data Source: transfermarkt | FIFA\n\n\n\n\n\n\n\n\n\n\n\n\nFig. 1: FIFA Ranking for teams participating in the 2026 Women’s Africa. Data Source: FIFA\n\n\n\n\n\n\n\nFig. 2: Relationship between GDP per Capita ($) and FIFA Ranking Points. Data Source: worldometer | FIFA\n\n\n\n\n\n\n\nFig. 3: Relationship between Percentage of Women in the Labor Force and FIFA Ranking Points. Data Source: World Bank | FIFA"
-  },
-  {
-    "objectID": "research/research_interests/sports_data_visualization.html#data-dashboards",
-    "href": "research/research_interests/sports_data_visualization.html#data-dashboards",
-    "title": "Sports Data Analysis and Visualization",
-    "section": "Data Dashboards",
-    "text": "Data Dashboards\n\nA: African Football Legends (1990 - Present)\n\n\nLink to App"
-  },
-  {
-    "objectID": "research/research_interests/sports_data_visualization.html#section-1",
-    "href": "research/research_interests/sports_data_visualization.html#section-1",
-    "title": "Sports Data Analysis and Visualization",
-    "section": "",
-    "text": "*Best = highest goals (minus penalty kicks) + assists\n\n\n\n\n\nFig. 1: Best Season for Selected African Players in Top 5 European Leagues (1990-2000).\n\n\n\n\n\n\n\nFig. 2: Best Season for Selected African Players in Top 5 European Leagues (2000-2010).\n\n\n\n\n\n\n\nFig. 3: Best Season for Selected African Players in Top 5 European Leagues (2010-2020).\n\n\n\n\n\n\n\nFig. 4: Best Season for Selected African Players in Top 5 European Leagues (2020-2025).\n\n\n\n\n\n\n\n\n\n\n\n\nFig. 1: Number of minutes played by Africans in Top 5 European Leagues\n\n\n\n\n\n\n\nFig. 2: Number of Africans playing in the Top 5 European Leagues\n\n\n\n\n\n\n\nFig. 3: Number of minutes played per African player in Top 5 European Leagues"
   }
 ]

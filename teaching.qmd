@@ -7,12 +7,9 @@ toc: true
 ## Teaching Samples (Pre -2026)
 
 [Sample Lessons](sample_courses.qmd)
+
 [Sample Syllabus](courses/sample_courses/biomaterials_2026.qmd)
 
 ## Kenyatta University Semester 1 (2026-2027)
 
 Coming Soon...
-
-## Kenyatta University Semester 2 (2026-2027)
-
-TBD
