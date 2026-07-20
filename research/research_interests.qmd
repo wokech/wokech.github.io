@@ -13,12 +13,10 @@ toc: true
 ## Research Interests
 
 - **Vascular Biology**
-  - Vascular Tissue Engineering
   - Endothelial Cell Mechanobiology
+  - Cardiovascular Tissue Engineering
+
 - **Sports Performance Measurement and Analytics**
-  - Running Physiology
-  - Wearable Sensor design
+  - Exercise Physiology
+  - Wearable Technology in Sports
   - [Sports Data Analysis and Visualization](research_interests/sports_data_visualization.qmd)
-- **Biomedical Data Science Education for Low-Resource Settings**
-  - Low-Cost and Accessible Biomedical Data Science Curricula
-  - Infrastructure-Light Training Platforms for Biomedical Data Science

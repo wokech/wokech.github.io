@@ -22,6 +22,8 @@ website:
             href: research/sci_comm.qmd
           - text: Journal Club
             href: research/journal_club.qmd
+          - text: Generative AI in Education
+            href: research/gen_ai_educ.qmd
 
 #  cookie-consent:
 #    type: express

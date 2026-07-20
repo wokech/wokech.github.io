@@ -25,21 +25,21 @@
     "href": "service.html",
     "title": "Service",
     "section": "",
-    "text": "Internal (Coming Soon)\n1…\nExternal (Coming Soon)\n\nReviewer Biomed and Pharmaco\nJudge iGEM\nJudge ISEF"
+    "text": "Internal (Coming Soon)\n\nUniv Postgrad Committee…\n\nExternal (Coming Soon)\n\nReviewer Biomed and Pharmaco…\nJudge iGEM\nJudge ISEF\nJudge YSK"
   },
   {
     "objectID": "research/research_interests/sports_data_visualization.html",
     "href": "research/research_interests/sports_data_visualization.html",
-    "title": "Sports Data Visualization",
+    "title": "Sports Data Analysis and Visualization",
     "section": "",
-    "text": "Fig. 1: Analysis of the relationship between average player value (Euros) and FIFA ranking. Data Source: transfermarkt | FIFA\n\n\n\n\n\n\n\n\n\n\n\n\nFig. 1: Average player value is correlated with FIFA ranking in East and West Africa. Data Source: transfermarkt | FIFA\n\n\n\n\n\n\n\nFig. 2: Top player market value is correlated with FIFA ranking. Data Source: transfermarkt | FIFA\n\n\n\n\n\n\n\nFig. 3: Top players in West Africa have higher market values compared to East Africa. Data Source: transfermarkt\n\n\n\n\n\n\n\n\n\n\n\n\nFig. 1: Number of minutes played by Africans in Top 5 European Leagues\n\n\n\n\n\n\n\nFig. 2: Number of Africans playing in the Top 5 European Leagues\n\n\n\n\n\n\n\nFig. 3: Number of minutes played per African player in Top 5 European Leagues\n\n\n\n\n\n\n\nFig. 4: Relationship between number of minutes played by Africans in Top 5 European Leagues and FIFA Ranking\n\n\n\n\n\n\n\nFig. 5: Relationship between number of African players in Top 5 European Leagues and FIFA Ranking\n\n\n\n\n\n\n\nFig. 6: Relationship between number of minutes played per African players in Top 5 European Leagues and FIFA Ranking\n\n\n\n\n\n\n\nFig. 7: Best* Season for Selected African Players in Top 5 European Leagues. Best = highest goals (minus penalty kicks) + assists"
+    "text": "Fig. 1: Analysis of the relationship between average player value (Euros) and FIFA ranking. Data Source: transfermarkt | FIFA\n\n\n\n\n\n\n\n\n\n\n\n\nFig. 1: Average player value is correlated with FIFA ranking in East and West Africa. Data Source: transfermarkt | FIFA\n\n\n\n\n\n\n\nFig. 2: Top player market value is correlated with FIFA ranking. Data Source: transfermarkt | FIFA\n\n\n\n\n\n\n\nFig. 3: Top players in West Africa have higher market values compared to East Africa. Data Source: transfermarkt\n\n\n\n\n\n\n\n\n\n\n*Best = highest goals (minus penalty kicks) + assists\n\n\n\n\n\nFig. 1: Best Season for Selected African Players in Top 5 European Leagues (1990-2000).\n\n\n\n\n\n\n\nFig. 2: Best Season for Selected African Players in Top 5 European Leagues (2000-2010).\n\n\n\n\n\n\n\nFig. 3: Best Season for Selected African Players in Top 5 European Leagues (2010-2020).\n\n\n\n\n\n\n\nFig. 4: Best Season for Selected African Players in Top 5 European Leagues (2020-2025).\n\n\n\n\n\n\n\n\n\n\n\n\nFig. 1: Number of minutes played by Africans in Top 5 European Leagues\n\n\n\n\n\n\n\nFig. 2: Number of Africans playing in the Top 5 European Leagues\n\n\n\n\n\n\n\nFig. 3: Number of minutes played per African player in Top 5 European Leagues\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFig. 1: Relationship between FIFA Ranking Points and Elo Rating. Data Source: FIFA | Elo\n\n\n\n\n\n\n\nFig. 2: Percentage of Foreign-Based Players. Data Source: transfermarkt\n\n\n\n\n\n\n\nFig. 3: Team Market Value (Euros) for African World Cup Teams. Data Source: transfermarkt\n\n\n\n\n\n\n\nFig. 4: Relationship between Team Market Value (Euros) and FIFA Ranking Points. Data Source: transfermarkt | FIFA\n\n\n\n\n\n\n\n\n\n\n\n\nFig. 1: FIFA Ranking for teams participating in the 2026 Women’s Africa. Data Source: FIFA\n\n\n\n\n\n\n\nFig. 2: Relationship between GDP per Capita ($) and FIFA Ranking Points. Data Source: worldometer | FIFA\n\n\n\n\n\n\n\nFig. 3: Relationship between Percentage of Women in the Labor Force and FIFA Ranking Points. Data Source: World Bank | FIFA"
   },
   {
     "objectID": "research/research_interests/sports_data_visualization.html#static-in-progress",
     "href": "research/research_interests/sports_data_visualization.html#static-in-progress",
     "title": "Sports Data Visualization",
     "section": "",
-    "text": "Fig. 1: Analysis of the relationship between average player value (Euros) and FIFA ranking. Data Source: transfermarkt | FIFA\n\n\n\n\n\n\n\n\n\n\n\n\nFig. 1: Average player value is correlated with FIFA ranking in East and West Africa. Data Source: transfermarkt | FIFA\n\n\n\n\n\n\n\nFig. 2: Top player market value is correlated with FIFA ranking. Data Source: transfermarkt | FIFA\n\n\n\n\n\n\n\nFig. 3: Top players in West Africa have higher market values compared to East Africa. Data Source: transfermarkt\n\n\n\n\n\n\n\n\n\n\n\n\nFig. 1: Number of minutes played by Africans in Top 5 European Leagues\n\n\n\n\n\n\n\nFig. 2: Number of Africans playing in the Top 5 European Leagues\n\n\n\n\n\n\n\nFig. 3: Number of minutes played per African player in Top 5 European Leagues\n\n\n\n\n\n\n\nFig. 4: Relationship between number of minutes played by Africans in Top 5 European Leagues and FIFA Ranking\n\n\n\n\n\n\n\nFig. 5: Relationship between number of African players in Top 5 European Leagues and FIFA Ranking\n\n\n\n\n\n\n\nFig. 6: Relationship between number of minutes played per African players in Top 5 European Leagues and FIFA Ranking\n\n\n\n\n\n\n\nFig. 7: Best* Season for Selected African Players in Top 5 European Leagues. Best = highest goals (minus penalty kicks) + assists"
+    "text": "Fig. 1: Analysis of the relationship between average player value (Euros) and FIFA ranking. Data Source: transfermarkt | FIFA\n\n\n\n\n\n\n\n\n\n\n\n\nFig. 1: Average player value is correlated with FIFA ranking in East and West Africa. Data Source: transfermarkt | FIFA\n\n\n\n\n\n\n\nFig. 2: Top player market value is correlated with FIFA ranking. Data Source: transfermarkt | FIFA\n\n\n\n\n\n\n\nFig. 3: Top players in West Africa have higher market values compared to East Africa. Data Source: transfermarkt\n\n\n\n\n\n\n\nBest = highest goals (minus penalty kicks) + assists\n\n\n\n\n\nFig. 1: Best Season for Selected African Players in Top 5 European Leagues (1990-2000).\n\n\n\n\n\n\n\nFig. 2: Best Season for Selected African Players in Top 5 European Leagues (2000-2010).\n\n\n\n\n\n\n\nFig. 3: Best Season for Selected African Players in Top 5 European Leagues (2010-2020).\n\n\n\n\n\n\n\nFig. 4: Best Season for Selected African Players in Top 5 European Leagues (2020-2025).\n\n\n\n\n\n\n\n\n\n\n\n\nFig. 1: Number of minutes played by Africans in Top 5 European Leagues\n\n\n\n\n\n\n\nFig. 2: Number of Africans playing in the Top 5 European Leagues\n\n\n\n\n\n\n\nFig. 3: Number of minutes played per African player in Top 5 European Leagues"
   },
   {
     "objectID": "research/research_interests/sports_data_visualization.html#dynamic-in-progress",
@@ -753,7 +753,7 @@
     "href": "research/research_interests.html#research-interests",
     "title": "Research",
     "section": "Research Interests",
-    "text": "Research Interests\n\nVascular Biology\n\nVascular Tissue Engineering\nEndothelial Cell Mechanobiology\n\nSports Performance Measurement and Analytics\n\nRunning Physiology\nWearable Sensor design\nSports Data Analysis and Visualization\n\nBiomedical Data Science Education for Low-Resource Settings\n\nLow-Cost and Accessible Biomedical Data Science Curricula\nInfrastructure-Light Training Platforms for Biomedical Data Science"
+    "text": "Research Interests\n\nVascular Biology\n\nEndothelial Cell Mechanobiology\nCardiovascular Tissue Engineering\n\nSports Performance Measurement and Analytics\n\nExercise Physiology\nWearable Technology in Sports\nSports Data Analysis and Visualization"
   },
   {
     "objectID": "sample_courses.html",
@@ -781,7 +781,7 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Sample Courses"
+    "text": "Sample Lessons Sample Syllabus"
   },
   {
     "objectID": "teaching.html#teaching-samples",
@@ -999,5 +999,124 @@
     "title": "Relevant Journals for Journal Club",
     "section": "Microscopy and Image Analysis",
     "text": "Microscopy and Image Analysis\n\nJournal of Microscopy\nMicroscopy and Microanalysis\nMicroscopy Today\nMicroscopy Research and Technique\nUltramicroscopy"
+  },
+  {
+    "objectID": "research/gen_ai_educ.html",
+    "href": "research/gen_ai_educ.html",
+    "title": "Generative AI in Education",
+    "section": "",
+    "text": "A repository of academic papers, opinion pieces, and popular press articles focused on the subject of Generative AI in Education. This repository is not intended to be a guidance on usage but it provides educators and the general public with evidence for the potential impact of Generative AI on university education and training."
+  },
+  {
+    "objectID": "research/gen_ai_educ.html#academic-papers",
+    "href": "research/gen_ai_educ.html#academic-papers",
+    "title": "Generative AI in Education",
+    "section": "Academic Papers",
+    "text": "Academic Papers\n\nComing soon …"
+  },
+  {
+    "objectID": "research/gen_ai_educ.html#opinion-pieces",
+    "href": "research/gen_ai_educ.html#opinion-pieces",
+    "title": "Generative AI in Education",
+    "section": "Opinion Pieces",
+    "text": "Opinion Pieces\n\nComing soon …"
+  },
+  {
+    "objectID": "research/gen_ai_educ.html#popular-press-articles",
+    "href": "research/gen_ai_educ.html#popular-press-articles",
+    "title": "Generative AI in Education",
+    "section": "Popular Press Articles",
+    "text": "Popular Press Articles\n\nComing soon …"
+  },
+  {
+    "objectID": "teaching.html#teaching-samples-pre--2026",
+    "href": "teaching.html#teaching-samples-pre--2026",
+    "title": "Teaching",
+    "section": "",
+    "text": "Sample Lessons Sample Syllabus"
+  },
+  {
+    "objectID": "teaching.html#kenyatta-university-semester-1-2026-2027",
+    "href": "teaching.html#kenyatta-university-semester-1-2026-2027",
+    "title": "Teaching",
+    "section": "Kenyatta University Semester 1 (2026-2027)",
+    "text": "Kenyatta University Semester 1 (2026-2027)\nComing Soon…"
+  },
+  {
+    "objectID": "teaching.html#kenyatta-university-semester-2-2026-2027",
+    "href": "teaching.html#kenyatta-university-semester-2-2026-2027",
+    "title": "Teaching",
+    "section": "Kenyatta University Semester 2 (2026-2027)",
+    "text": "Kenyatta University Semester 2 (2026-2027)\nTBD"
+  },
+  {
+    "objectID": "courses/sample_courses/biomaterials_2026.html",
+    "href": "courses/sample_courses/biomaterials_2026.html",
+    "title": "Sample Biomaterials Syllabus",
+    "section": "",
+    "text": "Prerequisites: TBD\nLectures: TBD\nTutorials: TBD\nLaboratory Sessions: TBD\nInstructor: William Okech, PhD\nEmail Me\nCourse Website: https://wokech.github.io –&gt; Courses –&gt; Select Course\n\n\nBiomaterials play an important role in the life sciences and medicine. They are used to aid in the restoration of function and promote healing after injury and disease. Biomaterials can be of natural, synthetic, or hybrid origin, and they are designed to interact with living systems in a safe and compatible manner. In this course, we will look at various materials including metals, ceramics, plastics, and composites, as well as living cells and tissues that are used to develop biomaterials. Additionally, the course will explore material characterization and testing methods, biocompatibility, and important considerations for the design and manufacture of materials for biomedical applications. In addition to lectures (where relevant), laboratory activities and demonstrations will be performed. Lastly, case studies and contemporary examples will be used to explore new technologies.\n\n\n\n\nHistory and Current Uses of Biomaterials\nAtomic Theory of Materials\nMechanics of Materials\nSurface vs Bulk Properties of Materials\nBiomaterial-Host Tissue Interactions\nMaterial Degradation\nMajor Biomaterial Groups (Metals, Polymers, Ceramics, and Composites)\nPhase Diagrams and Phase Transformations\nDrug Delivery Systems and Tissue Engineering\n\n\n\n\n\nLectures: TBD\nTutorials: TBD\nLaboratory Exercises: TBD\n\n\n\n\n\nRegular Examination at end of Semester: TBD\nContinuous Assessment: TBD\nThe students must complete and pass all the labs before they can be allowed to proceed to the next class."
+  },
+  {
+    "objectID": "courses/sample_courses/biomaterials_2026.html#syllabus",
+    "href": "courses/sample_courses/biomaterials_2026.html#syllabus",
+    "title": "Sample Biomaterials Syllabus",
+    "section": "",
+    "text": "Prerequisites: TBD\nLectures: TBD\nTutorials: TBD\nLaboratory Sessions: TBD\nInstructor: William Okech, PhD\nEmail Me\nCourse Website: https://wokech.github.io –&gt; Courses –&gt; Select Course\n\n\nBiomaterials play an important role in the life sciences and medicine. They are used to aid in the restoration of function and promote healing after injury and disease. Biomaterials can be of natural, synthetic, or hybrid origin, and they are designed to interact with living systems in a safe and compatible manner. In this course, we will look at various materials including metals, ceramics, plastics, and composites, as well as living cells and tissues that are used to develop biomaterials. Additionally, the course will explore material characterization and testing methods, biocompatibility, and important considerations for the design and manufacture of materials for biomedical applications. In addition to lectures (where relevant), laboratory activities and demonstrations will be performed. Lastly, case studies and contemporary examples will be used to explore new technologies.\n\n\n\n\nHistory and Current Uses of Biomaterials\nAtomic Theory of Materials\nMechanics of Materials\nSurface vs Bulk Properties of Materials\nBiomaterial-Host Tissue Interactions\nMaterial Degradation\nMajor Biomaterial Groups (Metals, Polymers, Ceramics, and Composites)\nPhase Diagrams and Phase Transformations\nDrug Delivery Systems and Tissue Engineering\n\n\n\n\n\nLectures: TBD\nTutorials: TBD\nLaboratory Exercises: TBD\n\n\n\n\n\nRegular Examination at end of Semester: TBD\nContinuous Assessment: TBD\nThe students must complete and pass all the labs before they can be allowed to proceed to the next class."
+  },
+  {
+    "objectID": "courses/sample_courses/biomaterials_2026.html#guided-notes-coming-soon",
+    "href": "courses/sample_courses/biomaterials_2026.html#guided-notes-coming-soon",
+    "title": "Sample Biomaterials Syllabus",
+    "section": "Guided Notes (coming soon)",
+    "text": "Guided Notes (coming soon)"
+  },
+  {
+    "objectID": "courses/sample_courses/biomaterials_2026.html#reference-textbooks-coming-soon",
+    "href": "courses/sample_courses/biomaterials_2026.html#reference-textbooks-coming-soon",
+    "title": "Sample Biomaterials Syllabus",
+    "section": "Reference Textbooks (coming soon)",
+    "text": "Reference Textbooks (coming soon)"
+  },
+  {
+    "objectID": "courses/sample_courses/biomaterials_2026.html#readings-coming-soon",
+    "href": "courses/sample_courses/biomaterials_2026.html#readings-coming-soon",
+    "title": "Sample Biomaterials Syllabus",
+    "section": "Readings (coming soon)",
+    "text": "Readings (coming soon)"
+  },
+  {
+    "objectID": "courses/sample_courses/biomaterials_2026.html#optional-resources-to-explore",
+    "href": "courses/sample_courses/biomaterials_2026.html#optional-resources-to-explore",
+    "title": "Sample Biomaterials Syllabus",
+    "section": "Optional Resources to Explore",
+    "text": "Optional Resources to Explore\n\nJournals\n\nBiofouling\nACS Langmuir\nBiomaterials\nMaterials Today\nNature Materials\nArtificial Organs\nActa Biomaterialia\nBioactive Materials\nBiomaterials Science\nACS Biomacromolecules\nACS Applied Biomaterials\nTissue Engineering: Part A\nTissue Engineering: Part B\nTissue Engineering: Part C\nACS Bioconjugate Chemistry\nJournal of Controlled Release\nJournal of Applied Polymer Science\nJournal of Functional Biomaterials\nJournal of Biomaterials Applications\nDrug Delivery and Translational Research\nACS Biomaterials Science and Engineering\nJournal of Biomedical Materials Research: Part A\nJournal of Biomedical Materials Research: Part B (Applied Biomaterials)\n\n\n\nSocieties\n\nSociety of Biomaterials\nControlled Release Society\nEuropean Society for Biomaterials\nAustralasian Society for Biomaterials and Tissue Engineering\nLatin American Society for Biomaterials and Artificial Organs (SLABO)\nASAIO (formerly known as the American Society for Artificial Internal Organs)"
+  },
+  {
+    "objectID": "research/research_interests/sports_data_visualization.html#section",
+    "href": "research/research_interests/sports_data_visualization.html#section",
+    "title": "Sports Data Analysis and Visualization",
+    "section": "",
+    "text": "Fig. 1: Analysis of the relationship between average player value (Euros) and FIFA ranking. Data Source: transfermarkt | FIFA\n\n\n\n\n\n\n\n\n\n\n\n\nFig. 1: Average player value is correlated with FIFA ranking in East and West Africa. Data Source: transfermarkt | FIFA\n\n\n\n\n\n\n\nFig. 2: Top player market value is correlated with FIFA ranking. Data Source: transfermarkt | FIFA\n\n\n\n\n\n\n\nFig. 3: Top players in West Africa have higher market values compared to East Africa. Data Source: transfermarkt"
+  },
+  {
+    "objectID": "research/research_interests/sports_data_visualization.html#section-2",
+    "href": "research/research_interests/sports_data_visualization.html#section-2",
+    "title": "Sports Data Analysis and Visualization",
+    "section": "",
+    "text": "Fig. 1: Relationship between FIFA Ranking Points and Elo Rating. Data Source: FIFA | Elo\n\n\n\n\n\n\n\nFig. 2: Percentage of Foreign-Based Players. Data Source: transfermarkt\n\n\n\n\n\n\n\nFig. 3: Team Market Value (Euros) for African World Cup Teams. Data Source: transfermarkt\n\n\n\n\n\n\n\nFig. 4: Relationship between Team Market Value (Euros) and FIFA Ranking Points. Data Source: transfermarkt | FIFA\n\n\n\n\n\n\n\n\n\n\n\n\nFig. 1: FIFA Ranking for teams participating in the 2026 Women’s Africa. Data Source: FIFA\n\n\n\n\n\n\n\nFig. 2: Relationship between GDP per Capita ($) and FIFA Ranking Points. Data Source: worldometer | FIFA\n\n\n\n\n\n\n\nFig. 3: Relationship between Percentage of Women in the Labor Force and FIFA Ranking Points. Data Source: World Bank | FIFA"
+  },
+  {
+    "objectID": "research/research_interests/sports_data_visualization.html#data-dashboards",
+    "href": "research/research_interests/sports_data_visualization.html#data-dashboards",
+    "title": "Sports Data Analysis and Visualization",
+    "section": "Data Dashboards",
+    "text": "Data Dashboards\n\nA: African Football Legends (1990 - Present)\n\n\nLink to App"
+  },
+  {
+    "objectID": "research/research_interests/sports_data_visualization.html#section-1",
+    "href": "research/research_interests/sports_data_visualization.html#section-1",
+    "title": "Sports Data Analysis and Visualization",
+    "section": "",
+    "text": "*Best = highest goals (minus penalty kicks) + assists\n\n\n\n\n\nFig. 1: Best Season for Selected African Players in Top 5 European Leagues (1990-2000).\n\n\n\n\n\n\n\nFig. 2: Best Season for Selected African Players in Top 5 European Leagues (2000-2010).\n\n\n\n\n\n\n\nFig. 3: Best Season for Selected African Players in Top 5 European Leagues (2010-2020).\n\n\n\n\n\n\n\nFig. 4: Best Season for Selected African Players in Top 5 European Leagues (2020-2025).\n\n\n\n\n\n\n\n\n\n\n\n\nFig. 1: Number of minutes played by Africans in Top 5 European Leagues\n\n\n\n\n\n\n\nFig. 2: Number of Africans playing in the Top 5 European Leagues\n\n\n\n\n\n\n\nFig. 3: Number of minutes played per African player in Top 5 European Leagues"
   }
 ]

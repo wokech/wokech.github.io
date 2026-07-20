@@ -1,0 +1,18 @@
+---
+title: "Generative AI in Education"
+format: html
+---
+
+A repository of academic papers, opinion pieces, and popular press articles focused on the subject of Generative AI in Education. This repository is not intended to be a guidance on usage but it provides educators and the general public with evidence for the potential impact of Generative AI on university education and training.
+
+## Academic Papers
+
+1. Coming soon ...
+
+## Opinion Pieces
+
+1. Coming soon ...
+
+## Popular Press Articles
+
+1. Coming soon ...
