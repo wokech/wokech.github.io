@@ -78,7 +78,7 @@ toc: true
 
 ### A. Africa at the World Cup (2026)
 
-#### Pre-Tournament Analysis
+#### Part 1: Pre-Tournament Analysis
 
 ::::::: grid
 ::: g-col-4
@@ -98,11 +98,13 @@ toc: true
 :::
 :::::::
 
-#### Post-Tournament Analysis (Coming Soon)
+#### Part 2: Post-Tournament Analysis
+
+Coming Soon...
 
 ### B. Women's Africa Cup of Nations (2026)
 
-#### Pre-Tournament Analysis
+#### Part 1: Pre-Tournament Analysis
 
 :::::: grid
 ::: g-col-4
@@ -118,7 +120,9 @@ toc: true
 :::
 ::::::
 
-#### Post-Tournament Analysis (Coming Soon)
+#### Part 2: Post-Tournament Analysis 
+
+Coming Soon...
 
 # 2. Data Dashboards
 
