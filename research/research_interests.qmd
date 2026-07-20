@@ -15,7 +15,6 @@ toc: true
 - **Vascular Biology**
   - Endothelial Cell Mechanobiology
   - Cardiovascular Tissue Engineering
-
 - **Sports Performance Measurement and Analytics**
   - Exercise Physiology
   - Wearable Technology in Sports

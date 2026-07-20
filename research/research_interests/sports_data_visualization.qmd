@@ -13,13 +13,10 @@ toc: true
 ### A. Relationship between the average player value (Euros) and FIFA rankings (2023)
 
 :::: grid
-
 ::: g-col-4
 ![Fig. 1: Analysis of the relationship between average player value (Euros) and FIFA ranking. Data Source: transfermarkt \| FIFA](../../research/research_interests/sports_data_visualization/fifa_ranking_avg_player_values_2023/1.png)
 :::
-
 ::::
-
 
 ### B. East vs West: Analysis of FIFA Ranking and Player Values in Africa (2023)
 
@@ -61,10 +58,9 @@ toc: true
 :::
 :::::::
 
-
 ### D. African Football Players in the Top 5 European Leagues (2025)
 
-:::::::: grid
+:::::: grid
 ::: g-col-4
 ![Fig. 1: Number of minutes played by Africans in Top 5 European Leagues](../../research/research_interests/sports_data_visualization/af_football_players_top_5_euro_2025/1.png){group="my-gallery3"}
 :::
@@ -76,15 +72,15 @@ toc: true
 ::: g-col-4
 ![Fig. 3: Number of minutes played per African player in Top 5 European Leagues](../../research/research_interests/sports_data_visualization/af_football_players_top_5_euro_2025/3.png){group="my-gallery3"}
 :::
-::::::::
+::::::
 
 ## 2026
 
 ### E. Africa at the World Cup (2026)
 
-:::::::: grid
+::::::: grid
 ::: g-col-4
-![Fig. 1: Relationship between FIFA Ranking Points and Elo Rating. Data Source: FIFA | Elo](../../research/research_interests/sports_data_visualization/africa_wc_2026/1.png){group="my-gallery4"}
+![Fig. 1: Relationship between FIFA Ranking Points and Elo Rating. Data Source: FIFA \| Elo](../../research/research_interests/sports_data_visualization/africa_wc_2026/1.png){group="my-gallery4"}
 :::
 
 ::: g-col-4
@@ -96,27 +92,25 @@ toc: true
 :::
 
 ::: g-col-4
-![Fig. 4: Relationship between Team Market Value (Euros) and FIFA Ranking Points. Data Source: transfermarkt | FIFA](../../research/research_interests/sports_data_visualization/africa_wc_2026/4.png){group="my-gallery4"}
+![Fig. 4: Relationship between Team Market Value (Euros) and FIFA Ranking Points. Data Source: transfermarkt \| FIFA](../../research/research_interests/sports_data_visualization/africa_wc_2026/4.png){group="my-gallery4"}
 :::
-::::::::
-
+:::::::
 
 ### F. Women's Africa Cup of Nations (2026)
 
-:::::::: grid
+:::::: grid
 ::: g-col-4
-![Fig. 1: FIFA Ranking for teams participating in the 2026 Women's Africa. Data Source: FIFA ](../../research/research_interests/sports_data_visualization/wafcon_2026/1.png){group="my-gallery4"}
+![Fig. 1: FIFA Ranking for teams participating in the 2026 Women's Africa. Data Source: FIFA](../../research/research_interests/sports_data_visualization/wafcon_2026/1.png){group="my-gallery4"}
 :::
 
 ::: g-col-4
-![Fig. 2: Relationship between GDP per Capita ($) and FIFA Ranking Points. Data Source: worldometer | FIFA ](../../research/research_interests/sports_data_visualization/wafcon_2026/2.png){group="my-gallery4"}
+![Fig. 2: Relationship between GDP per Capita (\$) and FIFA Ranking Points. Data Source: worldometer \| FIFA](../../research/research_interests/sports_data_visualization/wafcon_2026/2.png){group="my-gallery4"}
 :::
 
 ::: g-col-4
-![Fig. 3: Relationship between Percentage of Women in the Labor Force and FIFA Ranking Points. Data Source: World Bank | FIFA ](../../research/research_interests/sports_data_visualization/wafcon_2026/3.png){group="my-gallery4"}
+![Fig. 3: Relationship between Percentage of Women in the Labor Force and FIFA Ranking Points. Data Source: World Bank \| FIFA](../../research/research_interests/sports_data_visualization/wafcon_2026/3.png){group="my-gallery4"}
 :::
-
-::::::::
+::::::
 
 # 2. Data Dashboards
 

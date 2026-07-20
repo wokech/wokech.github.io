@@ -18,6 +18,5 @@ In addition to university teaching, I am also a [Certified Carpentries Instructo
 
 - Vascular Biology
 - Sports Performance Measurement and Analytics
-- Biomedical Data Science Education for Low-Resource Settings
 
 [Description of Research Interests](research/research_interests.qmd)
