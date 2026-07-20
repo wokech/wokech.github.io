@@ -36,7 +36,7 @@ toc: true
 
 ## 2025
 
-### C. Best\* Season for Selected African Players in Top 5 European Leagues (2025)
+### A. Best\* Season for Selected African Players in Top 5 European Leagues (2025)
 
 **\*Best = highest goals (minus penalty kicks) + assists**
 
@@ -58,7 +58,7 @@ toc: true
 :::
 :::::::
 
-### D. African Football Players in the Top 5 European Leagues (2025)
+### B. African Football Players in the Top 5 European Leagues (2025)
 
 :::::: grid
 ::: g-col-4
@@ -76,7 +76,9 @@ toc: true
 
 ## 2026
 
-### E. Africa at the World Cup (2026)
+### A. Africa at the World Cup (2026)
+
+#### Pre-Tournament Analysis
 
 ::::::: grid
 ::: g-col-4
@@ -96,7 +98,11 @@ toc: true
 :::
 :::::::
 
-### F. Women's Africa Cup of Nations (2026)
+#### Post-Tournament Analysis (Coming Soon)
+
+### B. Women's Africa Cup of Nations (2026)
+
+#### Pre-Tournament Analysis
 
 :::::: grid
 ::: g-col-4
@@ -111,6 +117,8 @@ toc: true
 ![Fig. 3: Relationship between Percentage of Women in the Labor Force and FIFA Ranking Points. Data Source: World Bank \| FIFA](../../research/research_interests/sports_data_visualization/wafcon_2026/3.png){group="my-gallery4"}
 :::
 ::::::
+
+#### Post-Tournament Analysis (Coming Soon)
 
 # 2. Data Dashboards
 
