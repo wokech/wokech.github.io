@@ -7,7 +7,7 @@ toc: true
 ## Pre-2026
 
 - [Sample Lessons](sample_courses.qmd)
-- [Sample Syllabus](courses/sample_courses/biomaterials_2026.qmd)
+- [Sample Syllabus](courses/sample_courses/biomaterials.qmd)
 
 ## 2026-2027 (Semester 1)
 

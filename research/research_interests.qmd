@@ -18,4 +18,3 @@ toc: true
 - **Sports Performance Measurement and Analytics**
   - Exercise Physiology
   - Wearable Technology in Sports
-  - [Sports Data Analysis and Visualization](research_interests/sports_data_visualization.qmd)
