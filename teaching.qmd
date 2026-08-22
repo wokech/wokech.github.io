@@ -9,16 +9,19 @@ toc: true
 ### Semester 1 (2026-2027)
 
 #### Physical Electronics (EEE 205)
+
 This course examines the physics of electricity conduction in different materials at the atomic level.
 
 *Course Page (coming soon)*
 
 #### Electrical Engineering Materials (EEE 304)
+
 This course introduces students to the structure, behavior, and properties of materials used in electrical equipment and systems.
 
 *Course Page (coming soon)*
 
 #### Medical Anatomy and Physiology for Biomedical Engineers 1 (EBM 402)
+
 This course provides an overview of the fundamentals of anatomy and physiology and their applications to biomedical engineering. An emphasis will be placed on the use of quantitative methods to understand physiological systems.
 
 *Course Page (coming soon)*
