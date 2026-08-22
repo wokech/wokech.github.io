@@ -709,9 +709,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Teaching, Training, and Research",
+    "title": "William Okech",
     "section": "",
-    "text": "Hi there! Welcome to my teaching, training, and research website.\n\nTeaching\nThis is a repository for all my current teaching materials.\n\n\nTraining\nIn addition to university teaching, I am also a Certified Carpentries Instructor and a trainer with the Digital Research Academy. As a member of these organizations, my goal is to train learners on the basics of computational thinking and promote the use of open-source tools (such as R/Python) to solve data analysis and visualization problems.\nResources\n\n\nResearch Interests\n\nVascular Biology\nSports Performance Measurement and Analytics\n\nDescription of Research Interests"
+    "text": "Contact\nWilliam Okech, PhD\nLecturer\nDepartment of Electrical and Electronic Engineering\nKenyatta University\nEmail Me\n\n\nTeaching\nThis is a repository for all my current teaching materials.\n\n\nTraining\nIn addition to university teaching, I am also a Certified Carpentries Instructor and a trainer with the Digital Research Academy. As a member of these organizations, my goal is to train learners on the basics of computational thinking and promote the use of open-source tools (such as R/Python) to solve data analysis and visualization problems.\nResources\n\n\nResearch Interests\n\nVascular Biology\nSports Performance Measurement and Analytics\n\nDescription of Research Interests"
   },
   {
     "objectID": "research/journal_club/foundational_papers.html",
@@ -900,7 +900,7 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Sample Lessons\nSample Syllabus"
+    "text": "This course examines the physics of electricity conduction in different materials at the atomic level.\nCourse Page (coming soon)\n####Electrical Engineering Materials (EEE 304) This course introduces students to the structure, behavior, and properties of materials used in electrical equipment and systems.\nCourse Page (coming soon)\n####Medical Anatomy and Physiology for Biomedical Engineers 1 (EBM 402) This course provides an overview of the fundamentals of anatomy and physiology and their applications to biomedical engineering. An emphasis will be placed on the use of quantitative methods to understand physiological systems.\nCourse Page (coming soon)\n\n\n\n\nComing soon"
   },
   {
     "objectID": "teaching.html#pre-2026",
@@ -915,5 +915,152 @@
     "title": "Teaching",
     "section": "2026-2027 (Semester 1)",
     "text": "2026-2027 (Semester 1)\nComing Soon…"
+  },
+  {
+    "objectID": "teaching.html#lecturer-kenyatta-university",
+    "href": "teaching.html#lecturer-kenyatta-university",
+    "title": "Teaching",
+    "section": "",
+    "text": "This course examines the physics of electricity conduction in different materials at the atomic level.\nCourse Page (coming soon)\n####Electrical Engineering Materials (EEE 304) This course introduces students to the structure, behavior, and properties of materials used in electrical equipment and systems.\nCourse Page (coming soon)\n####Medical Anatomy and Physiology for Biomedical Engineers 1 (EBM 402) This course provides an overview of the fundamentals of anatomy and physiology and their applications to biomedical engineering. An emphasis will be placed on the use of quantitative methods to understand physiological systems.\nCourse Page (coming soon)\n\n\n\n\nComing soon"
+  },
+  {
+    "objectID": "teaching.html#teaching-assistant-university-of-rochester",
+    "href": "teaching.html#teaching-assistant-university-of-rochester",
+    "title": "Teaching",
+    "section": "Teaching Assistant (University of Rochester)",
+    "text": "Teaching Assistant (University of Rochester)\nIntroduction to Biomedical Engineering (BME 100): Introduces students to the field of biomedical engineering by allowing them to apply the basic principles of engineering to physiological system analysis.\nBiomedical Computation and Statistics (BME 221): Provides an overview of the fundamentals of numerical computing (using the MATLAB programming language) and statistical methods in engineering and apply them to model biological systems."
+  },
+  {
+    "objectID": "teaching.html#course-design",
+    "href": "teaching.html#course-design",
+    "title": "Teaching",
+    "section": "Course Design",
+    "text": "Course Design\n\nSample Syllabus\nSample Lessons"
+  },
+  {
+    "objectID": "courses/ku_semester_1/physical_electronics.html",
+    "href": "courses/ku_semester_1/physical_electronics.html",
+    "title": "Sample Biomaterials Syllabus",
+    "section": "",
+    "text": "Prerequisites: TBD\nLectures: TBD\nTutorials: TBD\nLaboratory Sessions: TBD\nInstructor: William Okech, PhD\nEmail Me\nCourse Website: https://wokech.github.io –&gt; Courses –&gt; Select Course\n\n\nBiomaterials play an important role in the life sciences and medicine. They are used to aid in the restoration of function and promote healing after injury and disease. Biomaterials can be of natural, synthetic, or hybrid origin, and they are designed to interact with living systems in a safe and compatible manner. In this course, we will look at various materials including metals, ceramics, plastics, and composites, as well as living cells and tissues that are used to develop biomaterials. Additionally, the course will explore material characterization and testing methods, biocompatibility, and important considerations for the design and manufacture of materials for biomedical applications. In addition to lectures (where relevant), laboratory activities and demonstrations will be performed. Lastly, case studies and contemporary examples will be used to explore new technologies.\n\n\n\n\nHistory and Current Uses of Biomaterials\nAtomic Theory of Materials\nMechanics of Materials\nSurface vs Bulk Properties of Materials\nBiomaterial-Host Tissue Interactions\nMaterial Degradation\nMajor Biomaterial Groups (Metals, Polymers, Ceramics, and Composites)\nPhase Diagrams and Phase Transformations\nDrug Delivery Systems and Tissue Engineering\n\n\n\n\n\nLectures: TBD\nTutorials: TBD\nLaboratory Exercises: TBD\n\n\n\n\n\nRegular Examination at end of Semester: TBD\nContinuous Assessment: TBD\nThe students must complete and pass all the labs before they can be allowed to proceed to the next class."
+  },
+  {
+    "objectID": "courses/ku_semester_1/physical_electronics.html#syllabus",
+    "href": "courses/ku_semester_1/physical_electronics.html#syllabus",
+    "title": "Sample Biomaterials Syllabus",
+    "section": "",
+    "text": "Prerequisites: TBD\nLectures: TBD\nTutorials: TBD\nLaboratory Sessions: TBD\nInstructor: William Okech, PhD\nEmail Me\nCourse Website: https://wokech.github.io –&gt; Courses –&gt; Select Course\n\n\nBiomaterials play an important role in the life sciences and medicine. They are used to aid in the restoration of function and promote healing after injury and disease. Biomaterials can be of natural, synthetic, or hybrid origin, and they are designed to interact with living systems in a safe and compatible manner. In this course, we will look at various materials including metals, ceramics, plastics, and composites, as well as living cells and tissues that are used to develop biomaterials. Additionally, the course will explore material characterization and testing methods, biocompatibility, and important considerations for the design and manufacture of materials for biomedical applications. In addition to lectures (where relevant), laboratory activities and demonstrations will be performed. Lastly, case studies and contemporary examples will be used to explore new technologies.\n\n\n\n\nHistory and Current Uses of Biomaterials\nAtomic Theory of Materials\nMechanics of Materials\nSurface vs Bulk Properties of Materials\nBiomaterial-Host Tissue Interactions\nMaterial Degradation\nMajor Biomaterial Groups (Metals, Polymers, Ceramics, and Composites)\nPhase Diagrams and Phase Transformations\nDrug Delivery Systems and Tissue Engineering\n\n\n\n\n\nLectures: TBD\nTutorials: TBD\nLaboratory Exercises: TBD\n\n\n\n\n\nRegular Examination at end of Semester: TBD\nContinuous Assessment: TBD\nThe students must complete and pass all the labs before they can be allowed to proceed to the next class."
+  },
+  {
+    "objectID": "courses/ku_semester_1/physical_electronics.html#guided-notes-coming-soon",
+    "href": "courses/ku_semester_1/physical_electronics.html#guided-notes-coming-soon",
+    "title": "Sample Biomaterials Syllabus",
+    "section": "Guided Notes (coming soon)",
+    "text": "Guided Notes (coming soon)"
+  },
+  {
+    "objectID": "courses/ku_semester_1/physical_electronics.html#reference-textbooks-coming-soon",
+    "href": "courses/ku_semester_1/physical_electronics.html#reference-textbooks-coming-soon",
+    "title": "Sample Biomaterials Syllabus",
+    "section": "Reference Textbooks (coming soon)",
+    "text": "Reference Textbooks (coming soon)"
+  },
+  {
+    "objectID": "courses/ku_semester_1/physical_electronics.html#readings-coming-soon",
+    "href": "courses/ku_semester_1/physical_electronics.html#readings-coming-soon",
+    "title": "Sample Biomaterials Syllabus",
+    "section": "Readings (coming soon)",
+    "text": "Readings (coming soon)"
+  },
+  {
+    "objectID": "courses/ku_semester_1/physical_electronics.html#optional-resources-to-explore",
+    "href": "courses/ku_semester_1/physical_electronics.html#optional-resources-to-explore",
+    "title": "Sample Biomaterials Syllabus",
+    "section": "Optional Resources to Explore",
+    "text": "Optional Resources to Explore\n\nJournals\n\nBiofouling\nACS Langmuir\nBiomaterials\nMaterials Today\nNature Materials\nArtificial Organs\nActa Biomaterialia\nBioactive Materials\nBiomaterials Science\nACS Biomacromolecules\nACS Applied Biomaterials\nTissue Engineering: Part A\nTissue Engineering: Part B\nTissue Engineering: Part C\nACS Bioconjugate Chemistry\nJournal of Controlled Release\nJournal of Applied Polymer Science\nJournal of Functional Biomaterials\nJournal of Biomaterials Applications\nDrug Delivery and Translational Research\nACS Biomaterials Science and Engineering\nJournal of Biomedical Materials Research: Part A\nJournal of Biomedical Materials Research: Part B (Applied Biomaterials)\n\n\n\nSocieties\n\nSociety of Biomaterials\nControlled Release Society\nEuropean Society for Biomaterials\nAustralasian Society for Biomaterials and Tissue Engineering\nLatin American Society for Biomaterials and Artificial Organs (SLABO)\nASAIO (formerly known as the American Society for Artificial Internal Organs)"
+  },
+  {
+    "objectID": "courses/ku_semester_1/elec_eng_materials.html",
+    "href": "courses/ku_semester_1/elec_eng_materials.html",
+    "title": "Sample Biomaterials Syllabus",
+    "section": "",
+    "text": "Prerequisites: TBD\nLectures: TBD\nTutorials: TBD\nLaboratory Sessions: TBD\nInstructor: William Okech, PhD\nEmail Me\nCourse Website: https://wokech.github.io –&gt; Courses –&gt; Select Course\n\n\nBiomaterials play an important role in the life sciences and medicine. They are used to aid in the restoration of function and promote healing after injury and disease. Biomaterials can be of natural, synthetic, or hybrid origin, and they are designed to interact with living systems in a safe and compatible manner. In this course, we will look at various materials including metals, ceramics, plastics, and composites, as well as living cells and tissues that are used to develop biomaterials. Additionally, the course will explore material characterization and testing methods, biocompatibility, and important considerations for the design and manufacture of materials for biomedical applications. In addition to lectures (where relevant), laboratory activities and demonstrations will be performed. Lastly, case studies and contemporary examples will be used to explore new technologies.\n\n\n\n\nHistory and Current Uses of Biomaterials\nAtomic Theory of Materials\nMechanics of Materials\nSurface vs Bulk Properties of Materials\nBiomaterial-Host Tissue Interactions\nMaterial Degradation\nMajor Biomaterial Groups (Metals, Polymers, Ceramics, and Composites)\nPhase Diagrams and Phase Transformations\nDrug Delivery Systems and Tissue Engineering\n\n\n\n\n\nLectures: TBD\nTutorials: TBD\nLaboratory Exercises: TBD\n\n\n\n\n\nRegular Examination at end of Semester: TBD\nContinuous Assessment: TBD\nThe students must complete and pass all the labs before they can be allowed to proceed to the next class."
+  },
+  {
+    "objectID": "courses/ku_semester_1/elec_eng_materials.html#syllabus",
+    "href": "courses/ku_semester_1/elec_eng_materials.html#syllabus",
+    "title": "Sample Biomaterials Syllabus",
+    "section": "",
+    "text": "Prerequisites: TBD\nLectures: TBD\nTutorials: TBD\nLaboratory Sessions: TBD\nInstructor: William Okech, PhD\nEmail Me\nCourse Website: https://wokech.github.io –&gt; Courses –&gt; Select Course\n\n\nBiomaterials play an important role in the life sciences and medicine. They are used to aid in the restoration of function and promote healing after injury and disease. Biomaterials can be of natural, synthetic, or hybrid origin, and they are designed to interact with living systems in a safe and compatible manner. In this course, we will look at various materials including metals, ceramics, plastics, and composites, as well as living cells and tissues that are used to develop biomaterials. Additionally, the course will explore material characterization and testing methods, biocompatibility, and important considerations for the design and manufacture of materials for biomedical applications. In addition to lectures (where relevant), laboratory activities and demonstrations will be performed. Lastly, case studies and contemporary examples will be used to explore new technologies.\n\n\n\n\nHistory and Current Uses of Biomaterials\nAtomic Theory of Materials\nMechanics of Materials\nSurface vs Bulk Properties of Materials\nBiomaterial-Host Tissue Interactions\nMaterial Degradation\nMajor Biomaterial Groups (Metals, Polymers, Ceramics, and Composites)\nPhase Diagrams and Phase Transformations\nDrug Delivery Systems and Tissue Engineering\n\n\n\n\n\nLectures: TBD\nTutorials: TBD\nLaboratory Exercises: TBD\n\n\n\n\n\nRegular Examination at end of Semester: TBD\nContinuous Assessment: TBD\nThe students must complete and pass all the labs before they can be allowed to proceed to the next class."
+  },
+  {
+    "objectID": "courses/ku_semester_1/elec_eng_materials.html#guided-notes-coming-soon",
+    "href": "courses/ku_semester_1/elec_eng_materials.html#guided-notes-coming-soon",
+    "title": "Sample Biomaterials Syllabus",
+    "section": "Guided Notes (coming soon)",
+    "text": "Guided Notes (coming soon)"
+  },
+  {
+    "objectID": "courses/ku_semester_1/elec_eng_materials.html#reference-textbooks-coming-soon",
+    "href": "courses/ku_semester_1/elec_eng_materials.html#reference-textbooks-coming-soon",
+    "title": "Sample Biomaterials Syllabus",
+    "section": "Reference Textbooks (coming soon)",
+    "text": "Reference Textbooks (coming soon)"
+  },
+  {
+    "objectID": "courses/ku_semester_1/elec_eng_materials.html#readings-coming-soon",
+    "href": "courses/ku_semester_1/elec_eng_materials.html#readings-coming-soon",
+    "title": "Sample Biomaterials Syllabus",
+    "section": "Readings (coming soon)",
+    "text": "Readings (coming soon)"
+  },
+  {
+    "objectID": "courses/ku_semester_1/elec_eng_materials.html#optional-resources-to-explore",
+    "href": "courses/ku_semester_1/elec_eng_materials.html#optional-resources-to-explore",
+    "title": "Sample Biomaterials Syllabus",
+    "section": "Optional Resources to Explore",
+    "text": "Optional Resources to Explore\n\nJournals\n\nBiofouling\nACS Langmuir\nBiomaterials\nMaterials Today\nNature Materials\nArtificial Organs\nActa Biomaterialia\nBioactive Materials\nBiomaterials Science\nACS Biomacromolecules\nACS Applied Biomaterials\nTissue Engineering: Part A\nTissue Engineering: Part B\nTissue Engineering: Part C\nACS Bioconjugate Chemistry\nJournal of Controlled Release\nJournal of Applied Polymer Science\nJournal of Functional Biomaterials\nJournal of Biomaterials Applications\nDrug Delivery and Translational Research\nACS Biomaterials Science and Engineering\nJournal of Biomedical Materials Research: Part A\nJournal of Biomedical Materials Research: Part B (Applied Biomaterials)\n\n\n\nSocieties\n\nSociety of Biomaterials\nControlled Release Society\nEuropean Society for Biomaterials\nAustralasian Society for Biomaterials and Tissue Engineering\nLatin American Society for Biomaterials and Artificial Organs (SLABO)\nASAIO (formerly known as the American Society for Artificial Internal Organs)"
+  },
+  {
+    "objectID": "courses/ku_semester_1/med_anat_physio_part_1.html",
+    "href": "courses/ku_semester_1/med_anat_physio_part_1.html",
+    "title": "Sample Biomaterials Syllabus",
+    "section": "",
+    "text": "Prerequisites: TBD\nLectures: TBD\nTutorials: TBD\nLaboratory Sessions: TBD\nInstructor: William Okech, PhD\nEmail Me\nCourse Website: https://wokech.github.io –&gt; Courses –&gt; Select Course\n\n\nBiomaterials play an important role in the life sciences and medicine. They are used to aid in the restoration of function and promote healing after injury and disease. Biomaterials can be of natural, synthetic, or hybrid origin, and they are designed to interact with living systems in a safe and compatible manner. In this course, we will look at various materials including metals, ceramics, plastics, and composites, as well as living cells and tissues that are used to develop biomaterials. Additionally, the course will explore material characterization and testing methods, biocompatibility, and important considerations for the design and manufacture of materials for biomedical applications. In addition to lectures (where relevant), laboratory activities and demonstrations will be performed. Lastly, case studies and contemporary examples will be used to explore new technologies.\n\n\n\n\nHistory and Current Uses of Biomaterials\nAtomic Theory of Materials\nMechanics of Materials\nSurface vs Bulk Properties of Materials\nBiomaterial-Host Tissue Interactions\nMaterial Degradation\nMajor Biomaterial Groups (Metals, Polymers, Ceramics, and Composites)\nPhase Diagrams and Phase Transformations\nDrug Delivery Systems and Tissue Engineering\n\n\n\n\n\nLectures: TBD\nTutorials: TBD\nLaboratory Exercises: TBD\n\n\n\n\n\nRegular Examination at end of Semester: TBD\nContinuous Assessment: TBD\nThe students must complete and pass all the labs before they can be allowed to proceed to the next class."
+  },
+  {
+    "objectID": "courses/ku_semester_1/med_anat_physio_part_1.html#syllabus",
+    "href": "courses/ku_semester_1/med_anat_physio_part_1.html#syllabus",
+    "title": "Sample Biomaterials Syllabus",
+    "section": "",
+    "text": "Prerequisites: TBD\nLectures: TBD\nTutorials: TBD\nLaboratory Sessions: TBD\nInstructor: William Okech, PhD\nEmail Me\nCourse Website: https://wokech.github.io –&gt; Courses –&gt; Select Course\n\n\nBiomaterials play an important role in the life sciences and medicine. They are used to aid in the restoration of function and promote healing after injury and disease. Biomaterials can be of natural, synthetic, or hybrid origin, and they are designed to interact with living systems in a safe and compatible manner. In this course, we will look at various materials including metals, ceramics, plastics, and composites, as well as living cells and tissues that are used to develop biomaterials. Additionally, the course will explore material characterization and testing methods, biocompatibility, and important considerations for the design and manufacture of materials for biomedical applications. In addition to lectures (where relevant), laboratory activities and demonstrations will be performed. Lastly, case studies and contemporary examples will be used to explore new technologies.\n\n\n\n\nHistory and Current Uses of Biomaterials\nAtomic Theory of Materials\nMechanics of Materials\nSurface vs Bulk Properties of Materials\nBiomaterial-Host Tissue Interactions\nMaterial Degradation\nMajor Biomaterial Groups (Metals, Polymers, Ceramics, and Composites)\nPhase Diagrams and Phase Transformations\nDrug Delivery Systems and Tissue Engineering\n\n\n\n\n\nLectures: TBD\nTutorials: TBD\nLaboratory Exercises: TBD\n\n\n\n\n\nRegular Examination at end of Semester: TBD\nContinuous Assessment: TBD\nThe students must complete and pass all the labs before they can be allowed to proceed to the next class."
+  },
+  {
+    "objectID": "courses/ku_semester_1/med_anat_physio_part_1.html#guided-notes-coming-soon",
+    "href": "courses/ku_semester_1/med_anat_physio_part_1.html#guided-notes-coming-soon",
+    "title": "Sample Biomaterials Syllabus",
+    "section": "Guided Notes (coming soon)",
+    "text": "Guided Notes (coming soon)"
+  },
+  {
+    "objectID": "courses/ku_semester_1/med_anat_physio_part_1.html#reference-textbooks-coming-soon",
+    "href": "courses/ku_semester_1/med_anat_physio_part_1.html#reference-textbooks-coming-soon",
+    "title": "Sample Biomaterials Syllabus",
+    "section": "Reference Textbooks (coming soon)",
+    "text": "Reference Textbooks (coming soon)"
+  },
+  {
+    "objectID": "courses/ku_semester_1/med_anat_physio_part_1.html#readings-coming-soon",
+    "href": "courses/ku_semester_1/med_anat_physio_part_1.html#readings-coming-soon",
+    "title": "Sample Biomaterials Syllabus",
+    "section": "Readings (coming soon)",
+    "text": "Readings (coming soon)"
+  },
+  {
+    "objectID": "courses/ku_semester_1/med_anat_physio_part_1.html#optional-resources-to-explore",
+    "href": "courses/ku_semester_1/med_anat_physio_part_1.html#optional-resources-to-explore",
+    "title": "Sample Biomaterials Syllabus",
+    "section": "Optional Resources to Explore",
+    "text": "Optional Resources to Explore\n\nJournals\n\nBiofouling\nACS Langmuir\nBiomaterials\nMaterials Today\nNature Materials\nArtificial Organs\nActa Biomaterialia\nBioactive Materials\nBiomaterials Science\nACS Biomacromolecules\nACS Applied Biomaterials\nTissue Engineering: Part A\nTissue Engineering: Part B\nTissue Engineering: Part C\nACS Bioconjugate Chemistry\nJournal of Controlled Release\nJournal of Applied Polymer Science\nJournal of Functional Biomaterials\nJournal of Biomaterials Applications\nDrug Delivery and Translational Research\nACS Biomaterials Science and Engineering\nJournal of Biomedical Materials Research: Part A\nJournal of Biomedical Materials Research: Part B (Applied Biomaterials)\n\n\n\nSocieties\n\nSociety of Biomaterials\nControlled Release Society\nEuropean Society for Biomaterials\nAustralasian Society for Biomaterials and Tissue Engineering\nLatin American Society for Biomaterials and Artificial Organs (SLABO)\nASAIO (formerly known as the American Society for Artificial Internal Organs)"
   }
 ]

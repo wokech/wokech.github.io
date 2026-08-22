@@ -1,8 +1,14 @@
 ---
-title: "Teaching, Training, and Research"
+title: ""
 ---
 
-Hi there! Welcome to my teaching, training, and research website.
+### Contact
+
+William Okech, PhD\
+Lecturer\
+Department of Electrical and Electronic Engineering\
+Kenyatta University\
+[Email Me](okech.william@ku.ac.ke)
 
 ### Teaching
 

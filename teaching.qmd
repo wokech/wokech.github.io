@@ -4,12 +4,36 @@ format: html
 toc: true
 ---
 
-## Pre-2026
+## Lecturer (Kenyatta University)
 
-- [Sample Lessons](sample_courses.qmd)
+### Semester 1 (2026-2027)
+
+#### Physical Electronics (EEE 205)
+This course examines the physics of electricity conduction in different materials at the atomic level.
+
+*Course Page (coming soon)*
+
+#### Electrical Engineering Materials (EEE 304)
+This course introduces students to the structure, behavior, and properties of materials used in electrical equipment and systems.
+
+*Course Page (coming soon)*
+
+#### Medical Anatomy and Physiology for Biomedical Engineers 1 (EBM 402)
+This course provides an overview of the fundamentals of anatomy and physiology and their applications to biomedical engineering. An emphasis will be placed on the use of quantitative methods to understand physiological systems.
+
+*Course Page (coming soon)*
+
+### Semester 2 (2026-2027)
+
+*Coming soon*
+
+## Teaching Assistant (University of Rochester)
+
+Introduction to Biomedical Engineering (BME 100): Introduces students to the field of biomedical engineering by allowing them to apply the basic principles of engineering to physiological system analysis.
+
+Biomedical Computation and Statistics (BME 221): Provides an overview of the fundamentals of numerical computing (using the MATLAB programming language) and statistical methods in engineering and apply them to model biological systems.
+
+## Course Design
+
 - [Sample Syllabus](courses/sample_courses/biomaterials.qmd)
-
-## 2026-2027 (Semester 1)
-
-Coming Soon...
-
+- [Sample Lessons](sample_courses.qmd)
