@@ -1,5 +1,5 @@
 ---
-title: "Hello!"
+title: "Teaching, Training, and Research"
 ---
 
 Hi there! Welcome to my teaching, training, and research website.
