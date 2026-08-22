@@ -711,7 +711,7 @@
     "href": "index.html",
     "title": "William Okech",
     "section": "",
-    "text": "Contact\nWilliam Okech\nLecturer\nDepartment of Electrical and Electronic Engineering\nKenyatta University\nEmail Me\n\n\nTeaching\nThis is a repository for all my current teaching materials.\n\n\nTraining\nIn addition to university teaching, I am also a Certified Carpentries Instructor and a trainer with the Digital Research Academy. As a member of these organizations, my goal is to train learners on the basics of computational thinking and promote the use of open-source tools (such as R/Python) to solve data analysis and visualization problems.\nResources\n\n\nResearch Interests\n\nVascular Biology\nSports Performance Measurement and Analytics\n\nDescription of Research Interests"
+    "text": "Contact\nWilliam Okech, Ph.D.\nLecturer\nDepartment of Electrical and Electronic Engineering\nKenyatta University\nEmail Me\n\n\nTeaching\nThis is a repository for all my current teaching materials.\n\n\nTraining\nIn addition to university teaching, I am also a Certified Carpentries Instructor and a trainer with the Digital Research Academy. As a member of these organizations, my goal is to train learners on the basics of computational thinking and promote the use of open-source tools (such as R/Python) to solve data analysis and visualization problems.\nResources\n\n\nResearch Interests\n\nVascular Biology\nSports Performance Measurement and Analytics\n\nDescription of Research Interests"
   },
   {
     "objectID": "research/journal_club/foundational_papers.html",
@@ -1062,5 +1062,26 @@
     "title": "Sample Biomaterials Syllabus",
     "section": "Optional Resources to Explore",
     "text": "Optional Resources to Explore\n\nJournals\n\nBiofouling\nACS Langmuir\nBiomaterials\nMaterials Today\nNature Materials\nArtificial Organs\nActa Biomaterialia\nBioactive Materials\nBiomaterials Science\nACS Biomacromolecules\nACS Applied Biomaterials\nTissue Engineering: Part A\nTissue Engineering: Part B\nTissue Engineering: Part C\nACS Bioconjugate Chemistry\nJournal of Controlled Release\nJournal of Applied Polymer Science\nJournal of Functional Biomaterials\nJournal of Biomaterials Applications\nDrug Delivery and Translational Research\nACS Biomaterials Science and Engineering\nJournal of Biomedical Materials Research: Part A\nJournal of Biomedical Materials Research: Part B (Applied Biomaterials)\n\n\n\nSocieties\n\nSociety of Biomaterials\nControlled Release Society\nEuropean Society for Biomaterials\nAustralasian Society for Biomaterials and Tissue Engineering\nLatin American Society for Biomaterials and Artificial Organs (SLABO)\nASAIO (formerly known as the American Society for Artificial Internal Organs)"
+  },
+  {
+    "objectID": "courses/ku_semester_1/med_anat_physio_part_1.html#weekly-schedule",
+    "href": "courses/ku_semester_1/med_anat_physio_part_1.html#weekly-schedule",
+    "title": "Sample Biomaterials Syllabus",
+    "section": "Weekly Schedule",
+    "text": "Weekly Schedule"
+  },
+  {
+    "objectID": "courses/ku_semester_1/elec_eng_materials.html#weekly-schedule",
+    "href": "courses/ku_semester_1/elec_eng_materials.html#weekly-schedule",
+    "title": "Electrical Engineering Materials (EEE 304)",
+    "section": "Weekly Schedule",
+    "text": "Weekly Schedule"
+  },
+  {
+    "objectID": "courses/ku_semester_1/physical_electronics.html#weekly-schedule",
+    "href": "courses/ku_semester_1/physical_electronics.html#weekly-schedule",
+    "title": "Physical Electronics (EEE 205)",
+    "section": "Weekly Schedule",
+    "text": "Weekly Schedule"
   }
 ]
