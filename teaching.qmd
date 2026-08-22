@@ -8,7 +8,7 @@ toc: true
 
 ### Semester 1 (2026-2027)
 
-#### Physical Electronics (EEE 205)
+#### Physical Electronics (EEE 205) 
 
 This course examines the physics of electricity conduction in different materials at the atomic level.
 
